@@ -21,6 +21,11 @@ Lies `mein/profil.md`.
   Betreuungsvorgaben, Fristen. Die Vorgabe der Betreuungsperson schlägt jede
   allgemeine Regel in `regeln/`.
 
+⚠️ Steht im Profil **Variante B** (gestalterisch/künstlerisch), gelten alle
+Regelwerke außer `beurteilung.md` unverändert. Dessen Kompetenzbereich K1 ist bei
+B ein anderer; K2 und K3 sind gleich. Weise darauf hin, statt den A-Raster
+anzuwenden.
+
 Danach: `mein/arbeitsstand.md` lesen, wenn die Frage an einen Arbeitsstand
 anknüpft.
 

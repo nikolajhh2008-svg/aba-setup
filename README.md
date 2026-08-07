@@ -131,6 +131,23 @@ Was ist belegt, was fehlt, an welcher Stelle.
   Vergleich die Ausnahme und lässt sich nicht übertragen. Die Regelwerke zum
   Schreiben, Zitieren und zur Sprache gelten überall; die zum Verfahren nicht.
 
+## Für welche Variante
+
+Ausgearbeitet ist **Variante A: die schriftliche Arbeit mit forschendem Zugang.**
+
+**Variante B** (gestalterisches oder künstlerisches Vorhaben mit Dokumentation)
+ist nicht ausgeschlossen, aber nur teilweise abgedeckt. Was vollständig gilt:
+Quellen und Zitieren, Schreibweise, Schreibhandwerk, Sprachprüfung,
+KI-Kennzeichnung, Begleitprotokoll, Fristen, Präsentation und Diskussion – also
+der weitaus größte Teil, denn die Dokumentation des Entstehungsprozesses ist ein
+wissenschaftlicher Text und wird als solcher gelesen. Was fehlt: der
+Beurteilungsraster für K1, der bei B vollständig anders aussieht.
+
+⚠️ **Der Punkt, der überrascht:** Auch eine *forschende* Arbeit fällt unter
+Variante B, sobald sie in einem gestalterischen Format umgesetzt wird – ein
+Video-Podcast über ein Forschungsthema wird nach B beurteilt. Das Onboarding
+fragt danach und sagt dir, was dann zu tun ist.
+
 ---
 
 ## Stand und Pflege
