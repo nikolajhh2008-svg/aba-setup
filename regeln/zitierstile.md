@@ -99,14 +99,45 @@ Autor-Jahr-Stil.
 **Zitat im Zitat:** innere Anführungszeichen werden einfach – „Sie nennt das
 ‚digitale Selbstverteidigung' und meint damit …".
 
-**Auslassungen und Ergänzungen:**
-- Ausgelassenes: […]. Der Sinn darf sich nicht ändern.
-- Ergänzungen: „Sie [die Kommission] entscheidet."
-- Eigene Anmerkung: „[Anm. d. Verf.]"
-- Fehler im Original: „[sic!]", nicht stillschweigend korrigieren
-- Hervorhebung: dazuschreiben, von wem – „Hervorhebung im Original" oder
-  „Hervorhebung durch die Verfasserin". Ohne diesen Zusatz ist sie eine
-  Verfälschung.
+**Auslassungen – hier unterscheiden sich die Stile grundsätzlich, und das wird
+fast immer übersehen:**
+
+- **Deutsche Praxis: […] mit eckigen Klammern.** So steht es im Amtlichen
+  Regelwerk 2024, § 78 E3: „Beim Weglassen von Teilen von Zitaten stehen die
+  Auslassungspunkte in eckigen Klammern."
+- **APA: nie eckige Klammern.** Innerhalb eines Satzes drei Punkte mit
+  Leerzeichen, zwischen zwei Sätzen vier. Eckige Klammern sind bei APA
+  ausschließlich für Einfügungen reserviert. **Wer „[…]" in eine APA-Arbeit
+  setzt, mischt Stile.**
+- **Chicago und MLA: nur im Konfliktfall**, nämlich wenn die zitierte Quelle
+  selbst Auslassungspunkte enthält.
+
+In allen Stilen gilt: Der Sinn darf sich durch die Auslassung nicht ändern, und
+am Anfang oder Ende eines Zitats stehen keine Auslassungspunkte.
+
+**Ergänzungen** stehen in eckigen Klammern, in allen Stilen: „Sie [die
+Kommission] entscheidet." Eigene Anmerkung: „[Anm. d. Verf.]". Grammatische
+Anpassungen an den eigenen Satzbau werden im Deutschen gekennzeichnet – „Er sieht
+Afrika als ‚eigene[n] Planet[en]'" –, **APA erlaubt genau diese Anpassungen ohne
+Kennzeichnung** (erster Buchstabe groß oder klein, Schlusszeichen).
+
+**Fehler im Original:** „[sic]", nicht stillschweigend korrigieren. Zwei Details:
+Das **Rufzeichen ist eine deutsche Eigenheit** und in APA und Chicago nicht
+belegt (dort steht „[sic]" kursiv, ohne Rufzeichen). Und, dreifach belegt und
+regelmäßig falsch gemacht: **Alte Rechtschreibung ist kein Fehler und wird nicht
+markiert.**
+
+**Hervorhebung:** dazuschreiben, von wem – „Hervorhebung im Original" oder
+„Hervorhebung durch die Verfasserin", APA „[emphasis added]". Ohne diesen Zusatz
+ist die Hervorhebung eine Verfälschung.
+
+**Blockzitat – die Schwellen sind zwei verschiedene Traditionen, keine Regel:**
+APA setzt ab **40 Wörtern** einen eingerückten Block ohne Anführungszeichen. Die
+deutsche Praxis richtet sich nach **Zeilen** (etwa ab drei) und rückt ein, setzt
+kleiner oder kursiv. Chicago verlangt keine Schwelle, sondern empfiehlt „a
+hundred words or more … generally" – die kursierende Angabe „fünf Zeilen" stammt
+nicht aus dem Chicago Manual. Wer eine Schwelle nennt, sollte sagen, aus welchem
+Stil sie kommt.
 
 **Sekundärzitat.** Wer eine Quelle nur aus zweiter Hand kennt: „zitiert nach"
 (APA: „as cited in"). Zulässig, aber immer die zweitbeste Lösung – die Regel
@@ -167,12 +198,66 @@ Fußnoten sind ganze Sätze: Großbuchstabe am Anfang, Punkt am Ende.
 - **Interview:** Interview mit Martina Hofer, Wien, 14.02.2026 (Transkript im
   Anhang A). *(Gehört in ein eigenes Quellenverzeichnis, nicht ins
   Literaturverzeichnis.)*
-- **Gesetz, österreichisch:** Datenschutzgesetz (DSG) BGBl I 1999/165 idF
-  BGBl I 2024/70. https://www.ris.bka.gv.at/, letzter Zugriff: 07.08.2026.
-  *(Im Fließtext: „… wie § 12 Abs 1 DSG festlegt …". Nach den österreichischen
-  Abkürzungs- und Zitierregeln ohne Punkte bei Abs, Z, lit, idF, BGBl.)*
+- **Gesetz, österreichisch:** siehe Abschnitt 5a – das ist ein eigener Fall.
 
-### Was hier üblicherweise offenbleibt
+### 5a. Österreichische Gesetze zitieren
+
+Das ist der Quellentyp, bei dem am meisten schiefgeht – und er kommt in fast
+jeder Arbeit vor, die ein Gesetz erwähnt.
+
+**Die Gliederung** (nach den Abkürzungs- und Zitierregeln der österreichischen
+Rechtssprache, AZR): Paragraph „§", Artikel „Art", Absatz „Abs", Ziffer „Z",
+Buchstabe „lit" – **ohne Abkürzungspunkte**. Mit voller Tiefe:
+§ 281 Abs 1 Z 9 lit a StPO. Vor „§", „Abs", „Z" und „lit" gehört ein geschütztes
+Leerzeichen. Bekannte Abkürzungen wie ABGB, ZPO, StGB, B-VG brauchen keine
+Langform.
+
+**Für die Fundstelle gibt es zwei legitime Schreibweisen, die nicht vermengt
+werden dürfen:**
+
+- **AZR-Stil** (juristischer Fachstandard): `DSG BGBl I 1999/165` – keine
+  Abkürzungspunkte, kein „Nr", Reihenfolge Jahr/Nummer.
+- **RIS- und amtliche Schreibweise:** `Datenschutzgesetz (DSG), BGBl. I
+  Nr. 165/1999 idgF` – mit Punkt, mit „Nr.", Reihenfolge Nummer/Jahr.
+
+**Für eine ABA ist die RIS-Form die pragmatischere Wahl**, weil sie exakt so in
+der Quelle steht, aus der abgeschrieben wird. Nie mischen.
+
+**Drei Fallen, jede davon in echten Arbeiten belegt:**
+
+- **Das ABGB hat kein BGBl.** Stammfassung ist `JGS Nr. 946/1811` –
+  Justizgesetzsammlung. Wer „BGBl" schreibt, hat es nicht nachgeschlagen.
+- **Das SchUG hat kein „I".** Stammfassung ist `BGBl. Nr. 472/1986 (WV)`. Die
+  Dreiteilung des Bundesgesetzblatts gilt erst ab 1997; „BGBl. I Nr. 472/1986"
+  wäre falsch. „(WV)" heißt Wiederverlautbarung.
+- **Das DSG hieß bis 2018 „DSG 2000"** – dieselbe Stammfassung, anderer Name.
+
+**Zugriffsdatum ist hier sachlich notwendig.** Die konsolidierten Fassungen im
+RIS (die Links mit `GeltendeFassung.wxe`, also genau die, die man beim
+Recherchieren anklickt) sind eine tagesaktuell erzeugte Servicefassung; sie
+tragen selbst den Vermerk „Fassung vom …". Rechtsverbindlich ist nur die
+signierte PDF-Fassung des Bundesgesetzblatts.
+
+**Und ein Befund, der Zeit spart:** APA, Chicago und Harvard haben **kein Muster
+für österreichisches Recht**. APA deckt nur US- und UN-Recht ab, Chicago hat
+Abschnitte für Kanada und Großbritannien, Cite Them Right regelt britische
+Gesetze. Suche also nicht weiter – belege im Fließtext in juristischer Kurzform
+(„… wie § 12 Abs 1 DSG festlegt …") und stelle die Vollangabe in ein eigenes
+**Rechtsquellenverzeichnis**. Ob ein solches Verzeichnis in einer
+nicht-juristischen Schularbeit verlangt wird, ist **nicht verifiziert** – es ist
+die nachprüfbarere Lösung.
+
+Ein Kurzbeleg wie „(Republik Österreich, 1999)" ist unbrauchbar: Er identifiziert
+die Bestimmung nicht.
+
+Quellen: AZR-Regelteil frei als Leseprobe
+https://api.shop.manz.at/upload/text/9783214063979/9783214063979_23_01.pdf ·
+Handbuch zum authentischen Bundesgesetzblatt
+https://www.ris.bka.gv.at/RisInfo/HandbuchBgblAuth.pdf
+
+---
+
+### Was bei Stil A üblicherweise offenbleibt
 
 Diese Punkte regelt die Vorgabe meist nicht ausdrücklich – **einmal nachfragen
 und die Antwort in `mein/schulvorgaben.md` notieren**, statt sie sich selbst
@@ -277,6 +362,12 @@ Norm:
 einer Institution gepflegter Standard.** Es gibt kein offizielles Handbuch. Jede
 Hochschule pflegt ihre eigene Variante, und sie unterscheiden sich in
 Zeichensetzung, Reihenfolge und Kursivierung.
+
+Die namensgebende Harvard Library stellt das selbst klar: Sie hat „no official
+institutional connection" zu dem Stil und bietet „no guide to this system" an.
+Wer eine benannte Referenz braucht, nimmt *Cite Them Right* – der im
+englischsprachigen Raum verbreitetste Leitfaden, aber eben auch nur einer von
+vielen.
 
 Praktische Folge: „Wir zitieren nach Harvard" ist ohne konkreten Leitfaden keine
 Vorgabe. Wenn Harvard verlangt wird, gehört die Frage dazu, **nach welchem

@@ -123,8 +123,10 @@ beantwortbar.
 ## 4. Zitiertechnik
 
 **Wörtliches Zitat.** Buchstabengetreu, einschließlich Fehlern und alter Rechtschreibung, in
-Anführungszeichen, mit Seitenangabe. Ein offensichtlicher Fehler im Original wird mit „[sic!]“
-markiert, nicht stillschweigend korrigiert. Wörtliche Zitate sind sparsam einzusetzen: nur,
+Anführungszeichen, mit Seitenangabe. Ein offensichtlicher Fehler im Original wird mit „[sic]“
+markiert, nicht stillschweigend korrigiert. Zwei Details dazu in `zitierstile.md`: Das
+Rufzeichen („[sic!]“) ist eine deutsche Eigenheit und in APA und Chicago nicht üblich – und
+**alte Rechtschreibung ist kein Fehler und wird nicht markiert.** Wörtliche Zitate sind sparsam einzusetzen: nur,
 wenn der genaue Wortlaut zählt, also bei Definitionen, Gesetzestext, prägnanten Formulierungen
 und Belegen für eine Interpretation.
 
@@ -147,7 +149,9 @@ Anmerkungen der verfassenden Person werden gekennzeichnet: „[Anm. d. Verf.]“
 „Hervorhebung im Original“ oder „Hervorhebung durch die Verfasserin“. Ohne diesen Zusatz ist
 die Hervorhebung eine Verfälschung.
 
-**Langes Blockzitat.** Ab etwa drei Zeilen oder vierzig Wörtern wird das Zitat als eigener,
+**Langes Blockzitat.** Die Schwelle hängt vom Stil ab – es sind zwei Traditionen, keine Regel:
+APA rechnet in Wörtern (ab 40), die deutsche Praxis in Zeilen (ab etwa drei). Näheres in
+`zitierstile.md`, Abschnitt 4. Ab dieser Schwelle wird das Zitat als eigener,
 links eingerückter Absatz gesetzt, meist um einen Punkt kleiner und ohne Anführungszeichen,
 weil die Einrückung die Kennzeichnung übernimmt. Der Beleg steht am Ende. Blockzitate sind
 Ausnahmen; drei auf einer Seite bedeuten, dass die Arbeit dort referiert statt argumentiert.
