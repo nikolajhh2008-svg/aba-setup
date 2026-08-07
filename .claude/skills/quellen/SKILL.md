@@ -76,9 +76,14 @@ falsche Angaben.
 
 ## Wenn nach einer Formatierung gefragt wird
 
-Zitierstil aus `mein/profil.md` verwenden. Steht dort keiner, frag nach und
-verweise auf `regeln/zitierstile.md` – die Wahl ist eine Entscheidung, die einmal
-getroffen und dann durchgehalten wird.
+**Zuerst `mein/schulvorgaben.md` lesen.** Steht dort eine Vorgabe der
+Betreuungsperson, gilt sie – auch wenn sie vom offiziellen Handbuch des Stils
+abweicht. Ein Beispiel, das oft vorkommt: Die Schule verlangt Verlagsort, APA 7
+hat ihn abgeschafft. Dann wird der Verlagsort geschrieben.
+
+Steht dort nichts, gilt der Zitierstil aus `mein/profil.md`. Ist auch der leer,
+frag nach und verweise auf `regeln/zitierstile.md` – die Wahl wird einmal
+getroffen und dann durchgehalten.
 
 Formatiere nur Angaben, die tatsächlich vorliegen. Fehlende Felder werden nicht
 ergänzt, sondern benannt: „Für den Vollbeleg fehlt der Verlagsort – steht auf der

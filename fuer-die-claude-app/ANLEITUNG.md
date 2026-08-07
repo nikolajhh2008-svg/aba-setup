@@ -42,9 +42,10 @@ gehört.
 
 ## Schritt 4: Deine eigenen Dateien anlegen
 
-Lade zusätzlich diese drei Dateien aus dem Ordner `mein/` hoch:
+Lade zusätzlich diese vier Dateien aus dem Ordner `mein/` hoch:
 
 - `profil.md`
+- `schulvorgaben.md`
 - `begleitprotokoll.md`
 - `quellen.md`
 

@@ -110,16 +110,28 @@ Protokoll sauber ab heute.
 
 ### Runde 3 – die Formvorgaben, bevor der erste Text entsteht
 
-Diese Runde spätestens, bevor ein Kapitel geschrieben wird. Alle Antworten
-kommen von der Betreuungsperson, nicht aus einer Verordnung – deshalb ist die
-richtige Reaktion auf „weiß ich nicht" immer: „Frag sie beim nächsten Termin,
-ich notiere es als offene Frage."
+Diese Runde spätestens, bevor ein Kapitel geschrieben wird.
 
-1. **Welchen Zitierstil verlangt sie?** Es gibt keinen amtlich vorgeschriebenen;
-   die FAQ sagt wörtlich, die Wahl sei „grundsätzlich freigestellt und wird mit
-   der Betreuerin bzw. dem Betreuer vereinbart". Wenn keiner vorgegeben ist, muss
-   selbst entschieden und durchgehalten werden – dann `regeln/zitierstile.md`
-   heranziehen und die Entscheidung treffen, bevor der erste Beleg gesetzt wird.
+**Der Grundsatz für diese ganze Runde: Fast nichts davon ist bundesweit
+geregelt.** Zitierweise, Umfang, Layout, Bindung, Zwischentermine und Abgabeform
+legen Schule und Betreuungsperson fest. Deshalb ist die richtige Reaktion auf
+„weiß ich nicht" nie eine allgemeine Regel, sondern: „Frag sie beim nächsten
+Termin – ich notiere es als offene Frage."
+
+**Frag zuerst nach der Schule.** Nicht aus Neugier, sondern weil viele Standorte
+eigene schriftliche Leitfäden haben, die alles Weitere bereits beantworten:
+„Gibt es an deiner Schule einen Leitfaden oder ein Handout zur ABA?" Wenn ja,
+ist das die wichtigste Datei überhaupt – sie gehört gelesen und ihre Vorgaben
+gehören nach `mein/schulvorgaben.md`.
+
+Dann:
+
+1. **Welchen Zitierstil verlangt die Betreuungsperson?** Es gibt keinen amtlich
+   vorgeschriebenen; die FAQ sagt wörtlich, die Wahl sei „grundsätzlich
+   freigestellt und wird mit der Betreuerin bzw. dem Betreuer vereinbart".
+   Wenn keiner vorgegeben ist, muss selbst entschieden und durchgehalten werden –
+   dann `regeln/zitierstile.md` heranziehen und die Entscheidung treffen, bevor
+   der erste Beleg gesetzt wird.
 2. **Was hat sie zu Umfang, Layout, Bindung und Abgabeform gesagt?** Ein
    gesetzliches Umfangslimit gibt es nicht; die verbreiteten „40.000 bis 60.000
    Zeichen" sind keine geltende Vorgabe mehr. Was zählt, ist ihre Erwartung.
@@ -128,6 +140,23 @@ ich notiere es als offene Frage."
    Wahl.
 4. **In welcher Sprache schreibst du?** Bei einer Arbeit in einer lebenden
    Fremdsprache braucht es das Abstract zusätzlich in dieser Sprache.
+5. **Gibt es schulinterne Zwischentermine?** Die sind oft die eigentlich
+   verbindlichen – die gesetzliche Frist liegt später als das, was die Schule
+   erwartet.
+
+### ⚠️ Wie eine Vorgabe festgehalten wird
+
+Sobald eine Auskunft kommt – aus einer E-Mail, aus der Stunde, aus einem
+Handout – schreibst du sie **wörtlich** nach `mein/schulvorgaben.md`, mit Datum
+und von wem. Nicht zusammenfassen, nicht in eigene Worte fassen.
+
+Und dann der Schritt, den man leicht auslässt: **Prüf die Vorgabe auf Lücken und
+nenne sie.** Eine typische Zitier-Ansage regelt den Regelfall und lässt vier bis
+sechs Punkte offen – ob der Verlag genannt wird, was bei mehreren Urhebern gilt,
+ob „ebd." erlaubt ist, welches Format das Zugriffsdatum hat. Diese Punkte gehören
+auf die Liste „offene Fragen an die Betreuungsperson", nicht ins eigene Ermessen.
+Wer sie selbst entscheidet und im Februar anders entscheidet, hat eine uneinheitliche
+Arbeit – und Einheitlichkeit ist genau das, was bewertet wird.
 
 ---
 

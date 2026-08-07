@@ -18,8 +18,15 @@ Lies `mein/profil.md`.
   kennst du weder Fach noch Zitierstil noch Abgabetermin und rätst – das ist der
   häufigste Weg, jemandem falsche Auskunft zu geben.
 - **Ist es ausgefüllt**, richtest du dich danach: Zitierstil, Fachbereich,
-  Betreuungsvorgaben, Fristen. Die Vorgabe der Betreuungsperson schlägt jede
-  allgemeine Regel in `regeln/`.
+  Betreuungsvorgaben, Fristen.
+
+Lies außerdem `mein/schulvorgaben.md`, sobald es um Form geht – Zitierweise,
+Umfang, Layout, Termine. **Was dort steht, schlägt jede Regel aus `regeln/`**,
+auch wenn es vom offiziellen Handbuch eines Zitierstils abweicht. Steht dort
+nichts, sag das, statt eine allgemeine Regel als verbindlich auszugeben.
+
+Kommt im Gespräch eine neue Vorgabe zur Sprache, trag sie **wörtlich** dort ein,
+mit Datum und von wem – und nenne die Punkte, die sie offenlässt.
 
 ⚠️ Steht im Profil **Variante B** (gestalterisch/künstlerisch), gelten alle
 Regelwerke außer `beurteilung.md` unverändert. Dessen Kompetenzbereich K1 ist bei
