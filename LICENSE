@@ -1,0 +1,44 @@
+# Lizenz
+
+Dieses Repository steht unter einer Doppellizenz.
+
+## Texte und Regelwerke
+
+Alle Markdown-Dateien (README, Anleitungen, `regeln/`, `mein/`, `.claude/skills/`)
+stehen unter der **Creative-Commons-Lizenz CC BY-SA 4.0**.
+
+Du darfst sie teilen und bearbeiten, auch kommerziell, unter zwei Bedingungen:
+
+- **Namensnennung:** Nenne die Herkunft und verlinke die Lizenz.
+- **Weitergabe unter gleichen Bedingungen:** Wenn du das Material veränderst,
+  verbreite deine Fassung unter derselben Lizenz.
+
+Volltext: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+
+## Code
+
+Die Dateien in `werkzeuge/` stehen unter der **MIT-Lizenz**:
+
+Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der
+zugehörigen Dokumentationen erhält, die Erlaubnis erteilt, sie uneingeschränkt zu
+nutzen, zu kopieren, zu verändern, zusammenzufügen, zu veröffentlichen, zu
+verbreiten, zu unterlizenzieren und zu verkaufen, unter der Bedingung, dass der
+obige Urheberrechtsvermerk und dieser Erlaubnisvermerk in allen Kopien enthalten
+sind.
+
+DIE SOFTWARE WIRD OHNE JEDE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GARANTIE ZUR
+VERFÜGUNG GESTELLT.
+
+## Zitierte Inhalte
+
+Wörtliche Zitate aus Rechtsvorschriften, amtlichen Verlautbarungen und
+wissenschaftlichen Publikationen unterliegen dem Recht ihrer jeweiligen Urheber
+und sind als Zitate mit Fundstelle gekennzeichnet. Österreichische
+Rechtsvorschriften sind nach § 7 UrhG frei von urheberrechtlichem Schutz.
+
+## Kein Gewährleistungsausschluss für Inhalte, sondern eine Warnung
+
+Die Regelwerke geben einen Arbeitsstand wieder, keine Rechtsauskunft. Sie wurden
+im August 2026 an den Primärquellen geprüft. Die amtliche FAQ auf ahs-aba.at
+trägt kein Versionsdatum und wird ohne Ankündigung geändert. Prüf Fristen,
+Formvorgaben und Verfahrensfragen immer an der Quelle und bei deiner Schule nach.

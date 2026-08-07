@@ -1,0 +1,19 @@
+# Betriebssystem
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Editoren
+.vscode/
+.idea/
+*.swp
+
+# Eigene Arbeit, die nicht ins Repository gehört.
+# Diese Zeilen betreffen nur Leute, die das Repo selbst weiterentwickeln.
+# Wenn du deine Arbeit hier schreibst und in dein eigenes privates Repository
+# sichern willst, kommentiere sie aus – dann wird alles mitversioniert.
+mein/arbeit/*.md
+!mein/arbeit/.gitkeep

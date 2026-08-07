@@ -1,0 +1,7 @@
+# Hier liegen die Kapitel
+
+Lege je Kapitel eine Datei an, zum Beispiel `kapitel-3-methodik.md`.
+
+Du musst nicht hier schreiben. Wer in Word arbeitet, kopiert einzelne Kapitel zum
+Prüfen herein oder legt die .docx-Datei daneben – `werkzeuge/text-pruefen.py`
+liest beides.
