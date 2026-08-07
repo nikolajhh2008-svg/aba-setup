@@ -229,7 +229,7 @@ nicht auf Wortlisten angewiesen sind.
   Signal. Zu behandeln als Hinweis, nicht als Fehler – in einer Fachtextsorte ist
   ein niedriger Wert normal. [plausibel]
 
-Der Prüfbericht dieser Schicht ist zugleich die Eingabe für den Stilwächter
+Der Prüfbericht dieser Schicht ist zugleich die Eingabe für den zweiten Durchgang
 (siehe Abschnitt „Was wirkt", Punkt 4).
 
 ---

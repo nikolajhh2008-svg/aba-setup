@@ -112,7 +112,7 @@ Semesters.
 
 ## 3. Die Felder der Themeneinreichung
 
-Das sind zugleich die harten Grenzen, an denen sich der Themenschärfer
+Das sind zugleich die harten Grenzen, an denen sich jede Formulierung des Themas
 orientieren muss. Alle Zeichenangaben inklusive Leerzeichen.
 
 - **Titel der Arbeit** – höchstens 200 Zeichen. **Nach der Zustimmung der
