@@ -65,9 +65,8 @@ Tages- oder Jahreskarte (kostenpflichtig); Voraussetzung sind laut ÖNB „das v
 im Lesesaal ausgegeben, nicht entlehnt.
 
 **Universitätsbibliothek Wien.** Stellt Schülerinnen und Schülern einen eigenen
-Bibliotheksausweis aus, die Erstausstellung ist kostenlos. Verlangt werden nach
-Online-Registrierung Schülerausweis und Meldebestätigung, unter 18 zusätzlich eine
-Zustimmungs- und Haftungserklärung der Erziehungsberechtigten. Sie bietet außerdem Kurse für
+Bibliotheksausweis aus, die Erstausstellung ist kostenlos. Was für die Anmeldung
+mitzubringen ist, steht auf der Seite der Bibliothek. Sie bietet außerdem Kurse für
 Schulklassen an.
 https://bibliothek.univie.ac.at/schuelerinnen-bibliotheksausweis.html
 

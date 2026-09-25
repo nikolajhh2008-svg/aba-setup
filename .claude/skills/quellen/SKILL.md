@@ -11,6 +11,14 @@ Lies `regeln/quellen-und-zitieren.md`. Bei Formatfragen zusätzlich
 
 ---
 
+## Gibt es die Quelle wirklich?
+
+Ob eine Angabe existiert und stimmt, prüfst du nicht selbst, sondern mit dem Skill
+`literaturverzeichnispruefung` (übernommen, prüft live gegen OpenAlex, K10plus,
+DNB, Crossref und weitere Datenbanken). Das gilt für einzelne Quellen und für das
+ganze Literaturverzeichnis vor der Abgabe. Ohne Web-Zugriff: sagen, dass die
+Prüfung nicht möglich ist, und die Kataloge aus `regeln/recherche-wege.md` nennen.
+
 ## Die eine Regel, die alles andere schlägt
 
 **Du erfindest keine Quelle.** Kein Autor, kein Titel, kein Jahr, keine

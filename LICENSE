@@ -4,8 +4,8 @@ Dieses Repository steht unter einer Doppellizenz.
 
 ## Texte und Regelwerke
 
-Alle Markdown-Dateien (README, Anleitungen, `regeln/`, `mein/`, `.claude/skills/`)
-stehen unter der **Creative-Commons-Lizenz CC BY-SA 4.0**.
+Alle Markdown-Dateien (README, Anleitungen, `regeln/`, `mein/` und die eigenen
+Skills `start/` und `protokoll/`) stehen unter der **Creative-Commons-Lizenz CC BY-SA 4.0**.
 
 Du darfst sie teilen und bearbeiten, auch kommerziell, unter zwei Bedingungen:
 
@@ -30,6 +30,23 @@ sind.
 
 DIE SOFTWARE WIRD OHNE JEDE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GARANTIE ZUR
 VERFÜGUNG GESTELLT.
+
+## Übernommene Skills
+
+Einige Skills in `.claude/skills/` stammen aus anderen Open-Source-Projekten und
+stehen unter deren Lizenz, nicht unter CC BY-SA. Jeder dieser Ordner enthält die
+Originallizenz (`LICENSE`, `LICENSE.txt`) und nennt im Kopf der `SKILL.md` oder in
+`HERKUNFT.md`, woher er stammt und was geändert wurde:
+
+- `humanizer-de/` – aus marmbiz/humanizer-de (MIT), unverändert; die Muster gehen auf
+  die Wikipedia-Seite „Anzeichen für KI-generierte Inhalte“ zurück (siehe `NOTICE`)
+- `schreiben/` – übertragen aus anthropics/skills, `doc-coauthoring` (Apache-2.0)
+- `kritik/`, `abgabe/` – übertragen aus bladewing/thesis-check (MIT)
+- `thema/`, `gliederung/` – übertragen aus lishix520/academic-paper-skills (MIT)
+- `pruefung/` – übertragen aus Jellypod-Inc/school-skills, `socratic-tutor` (MIT)
+- `literaturverzeichnispruefung/` – aus benedikt-e/literaturverzeichnispruefung
+  (GPL-3.0-or-later), unverändert
+- `uebergabe/` – übertragen aus blader/baton (MIT)
 
 ## Zitierte Inhalte
 

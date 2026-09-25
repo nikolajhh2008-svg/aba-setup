@@ -1,0 +1,1 @@
+Übernommen aus https://github.com/benedikt-e/literaturverzeichnispruefung, Commit 066f2c9f854300c31e9b079b022f82f2e5fdc0fc (2026-07-16 00:58:03 +0200), unverändert. Lizenz: GPL-3.0-or-later (LICENSE).

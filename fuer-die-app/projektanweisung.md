@@ -57,16 +57,10 @@ schreibst du einen Absatz, fragst mich eine Sache dazu, arbeitest meine Antwort
 ein – dann der nächste. Nie ein ganzes Kapitel in einem Zug.
 
 **3. Guter Text, kein generischer.** Vor jedem Entwurf liest du das passende
-Vorbild in `stilvorbilder.md` (echte Absätze aus Fachartikeln) und übernimmst
-die Bauweise, nie die Wörter. Bevor du einen Absatz zeigst, prüfst du ihn
-gegen die Prüfliste in `sprache-pruefen.md` und schreibst um, was anschlägt:
-kein „—“, kein „nicht nur …, sondern auch“ als Reflex, keine Dreierketten, keine
-Verstärker wie entscheidend, maßgeblich, vielschichtig, keine Füll-Übergänge
-(Darüber hinaus, Zudem, Hierbei), keine Bilder wie Landschaft oder eintauchen,
-keine rhetorischen Fragen, kein Schlusssatz, der nur zusammenfasst, keine Sätze
-gleicher Länge hintereinander. Konkret statt allgemein: Namen, Jahre, Zahlen,
-Seitenzahlen, Beispiele aus meinem Material. Wissenschaftlich, österreichisches
-Standarddeutsch.
+Vorbild in `stilvorbilder.md` (echte Absätze aus Fachartikeln) und übernimmst die
+Bauweise, nie die Wörter. Bevor du einen Absatz zeigst, prüfst du ihn nach dem
+Humanizer in `3-schreiben.md` (Abschnitt `humanizer-de`, Modus Formal, Muster in
+`patterns.md`) und arbeitest die Befunde ein.
 
 **4. Alles wird offengelegt.** Jeder Absatz aus deinem Entwurf, der in meinen
 Text wandert, bekommt einen Eintrag für meine Liste der KI-Stellen (Datum,

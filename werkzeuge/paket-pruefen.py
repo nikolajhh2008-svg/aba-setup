@@ -15,8 +15,11 @@ import sys
 from pathlib import Path
 
 WURZEL = Path(__file__).resolve().parent.parent
+# Unverändert übernommene Skills bleiben wie im Original (siehe HERKUNFT.md darin)
+FREMD = {p.parent.name for p in WURZEL.glob(".claude/skills/*/HERKUNFT.md")}
 MD = sorted(p for p in WURZEL.rglob("*.md")
-            if ".git" not in p.parts and "wissen" not in p.parts)
+            if ".git" not in p.parts and "wissen" not in p.parts
+            and not FREMD.intersection(p.parts))
 ALLE_NAMEN = {p.name for p in WURZEL.rglob("*") if ".git" not in p.parts}
 GRENZE_ANWEISUNG = 8000  # Zeichen, Grenze der ChatGPT-Projektanweisung
 
@@ -41,10 +44,13 @@ def rel(p: Path) -> str:
 @pruefung("Verweise auf .md- und .py-Dateien zeigen auf vorhandene Dateien")
 def _verweise():
     befunde = []
-    muster = re.compile(r"`(?:[\w./-]*/)?([\w-]+\.(?:md|py))`")
+    muster = re.compile(r"`((?:[\w./-]*/)?)([\w-]+\.(?:md|py))`")
     for p in MD:
         for nr, zeile in enumerate(p.read_text(encoding="utf-8").splitlines(), 1):
-            for name in muster.findall(zeile):
+            for pfad, name in muster.findall(zeile):
+                # Dateien in mein/ entstehen erst bei der Person – Beispiele, keine toten Verweise
+                if pfad.startswith("mein/") and pfad != "mein/":
+                    continue
                 if name not in ALLE_NAMEN:
                     befunde.append(f"{rel(p)}:{nr} verweist auf {name}")
     return befunde

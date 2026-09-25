@@ -6,7 +6,26 @@ license: CC-BY-SA-4.0
 
 # Einstieg
 
-Zwei Fälle. Prüfe zuerst `mein/profil.md`.
+## Schritt 0: Wo läuft das hier?
+
+Hast du `CLAUDE.md` aus diesem Ordner noch nicht gelesen (in Cowork oder ChatGPT
+Work wird sie nicht automatisch geladen), lies sie zuerst.
+
+Prüf zuerst, ob du Dateien im Ordner der Person lesen **und schreiben** kannst.
+
+- **Ja** (Claude Cowork, Claude Code, ChatGPT Work mit Ordnerzugriff): weiter mit
+  den Fällen unten. So soll es sein – alles, was entsteht, landet lokal in ihrem
+  Ordner.
+- **Nein** (Chat im Browser oder in der App ohne Ordnerzugriff): Sag das in zwei
+  Sätzen und empfiehl den Wechsel, bevor ihr loslegt: „Am besten arbeitest du mit
+  **Claude Cowork** (Claude-Desktop-App) oder **ChatGPT Work** (ChatGPT-Desktop-App)
+  und gibst mir deinen ABA-Ordner frei. Dann speichere ich Stand, Quellen,
+  Recherche und Protokoll direkt bei dir, und nichts geht verloren, wenn ein
+  Gespräch endet.“ Die Einrichtung steht in `fuer-die-app/ANLEITUNG.md`. Will sie
+  trotzdem hier bleiben, arbeite weiter und gib alles, was gespeichert werden muss,
+  als Text oder Datei zum Herunterladen aus – mit dem Hinweis, wohin es gehört.
+
+Dann: Prüfe `mein/profil.md`. Zwei Fälle.
 
 ---
 
@@ -14,6 +33,12 @@ Zwei Fälle. Prüfe zuerst `mein/profil.md`.
 
 Dann läuft das Onboarding. Es hat **fünf Runden**. Runde 1 reicht, um loszulegen;
 die übrigen kommen, wenn sie dran sind – nicht alle am ersten Tag.
+
+### Vor der ersten Frage: einsammeln
+
+Lies alles, was schon da ist – Dateien in `mein/arbeit/` und `mein/recherche/`,
+hochgeladene Word-Dateien, Notizen –, und gib eine kurze Übersicht: was du gefunden
+hast und was du daraus schon weißt. Was darin steht, fragst du nicht mehr ab.
 
 ### Regeln für das ganze Gespräch
 
@@ -231,7 +256,9 @@ gleich anschließen.
 
 Kein Interview. Stattdessen ein Lagebericht in dieser Reihenfolge:
 
-1. `mein/profil.md` und `mein/arbeitsstand.md` lesen.
+1. Alles einsammeln: `mein/profil.md`, `mein/arbeitsstand.md`, die neueste Übergabe
+   in `mein/uebergaben/` (Skill `uebergabe`), die Dateien in `mein/arbeit/` und
+   `mein/recherche/`.
 2. **Wo die Arbeit steht** – Etappe, Kapitelstände, beantwortete Leitfragen.
 3. **Was als Nächstes dran ist** – ein Vorschlag, nicht fünf.
 4. **Was zeitkritisch ist** – nur, wenn ein Termin aus dem Profil tatsächlich

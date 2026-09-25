@@ -51,8 +51,9 @@ funktionieren genauso. Aber diese Wörter treffen direkt:
 - `quellen` – eine Quelle prüfen und aufnehmen
 - `gliederung` – Kapitel ordnen
 - `schreiben` – an einem Kapitel arbeiten
-- `kritik` – ein fertiges Kapitel prüfen lassen
+- `kritik` – ein Kapitel prüfen lassen
 - `protokoll` – Eintrag fürs Begleitprotokoll
+- `uebergabe` – Stand festhalten, damit die nächste Sitzung weiß, wo ihr wart
 - `abgabe` – Endkontrolle
 - `pruefung` – Präsentation und Diskussion üben
 

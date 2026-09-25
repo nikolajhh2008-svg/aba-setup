@@ -25,7 +25,7 @@ unter drei Bedingungen: **dokumentiert, kritisch reflektiert, weiterverarbeitet.
 
 Ein nacktes Chatfenster erfüllt keine davon. Es erfindet Literaturangaben,
 schreibt Absätze, die niemand verteidigen kann, und führt kein Protokoll. Dieses
-Setup ändert den Standardzustand: **sechzehn Regelwerke mit Fundstellen, neun
+Setup ändert den Standardzustand: **sechzehn Regelwerke mit Fundstellen, zwölf
 Arbeitsschritte und vier Regeln** – damit die KI mit dir schreibt, ohne Quellen zu
 erfinden, und alles so festhält, wie es die Prüfungsordnung verlangt.
 
@@ -36,18 +36,21 @@ arbeitet ihr an deiner Arbeit.
 
 ## Starten
 
-### Mit Claude Code (empfohlen)
+Lade den Ordner herunter (**Code → Download ZIP**, entpacken) – das ist ab jetzt
+dein ABA-Ordner. Du schreibst in Word, die KI arbeitet daneben mit deinem Ordner.
 
-Den Ordner holen – per `git clone` oder auf dieser Seite **Code → Download ZIP**
-und entpacken. Dann den Ordner in Claude Code öffnen (Desktop-App oder Terminal)
-und schreiben:
+**Empfohlen: Claude Cowork.** Claude in der Desktop-App mit Zugriff auf deinen
+Ordner: liest deine Word-Dateien, legt neue an und speichert Stand, Quellen,
+Recherche und Protokoll direkt bei dir. Einmal die Skills aus
+`fuer-die-app/skills/` in dein Claude-Konto hochladen, den Ordner freigeben, dann:
 
-> Lass uns starten.
+> Lies CLAUDE.md und lass uns starten.
 
-Claude stellt drei kurze Fragen, trägt die Antworten in `mein/profil.md` ein und
-macht sofort einen ersten echten Schritt an deiner Arbeit. Kein Einrichten von
-Hand. Profil, Begleitprotokoll und die Liste der KI-Stellen schreibt Claude selbst
-mit.
+**Oder ChatGPT Work** (ChatGPT-Desktop-App mit Ordnerzugriff), **oder im Browser**
+als Notbehelf. Alle Wege Schritt für Schritt:
+**[fuer-die-app/ANLEITUNG.md](fuer-die-app/ANLEITUNG.md)**.
+
+**Mit Claude Code** (Terminal):
 
 ```bash
 git clone https://github.com/nikolajhh2008-svg/aba-setup.git
@@ -55,17 +58,10 @@ cd aba-setup
 claude
 ```
 
-### In der App – Claude oder ChatGPT, ohne Installation
-
-Ein Projekt anlegen, einen vorbereiteten Text in die Anweisungen kopieren, fünf
-Dateien hochladen. Funktioniert auch im Gratis-Tarif. Schritt für Schritt:
-**[fuer-die-app/ANLEITUNG.md](fuer-die-app/ANLEITUNG.md)**.
-
-### Mit einem anderen KI-Dienst
-
-Die Regelwerke sind gewöhnliche Textdateien. Sie wirken überall, wo man Dateien
-hochladen oder Anweisungen hinterlegen kann – was sie sagen, gilt unabhängig
-davon, welches Modell sie liest.
+Du bekommst zuerst eine Übersicht über alles, was schon in deinem Ordner liegt,
+dann drei kurze Fragen – und dann arbeitet ihr an deiner Arbeit. Nichts bleibt nur
+im Chat: Am Ende jeder Sitzung liegen Protokolleintrag und Übergabe für das nächste
+Mal in deinem Ordner.
 
 ---
 
@@ -106,11 +102,12 @@ FAHRPLAN.md             Sieben Etappen von der Idee bis zur Diskussion
 START-HIER.md           Für alle, die noch nie mit Claude gearbeitet haben
 
 regeln/                 16 Regelwerke mit Fundstellen, dazu ein Register
-mein/                   Deine Dateien: Profil, Schulvorgaben, Protokoll, Quellen
+mein/                   Deine Dateien: Profil, Protokoll, Quellen, Recherche,
+                        Übergaben, deine Word-Dateien in arbeit/
 werkzeuge/              text-pruefen.py zählt nach, was nachzählbar ist;
                         buendeln.py und paket-pruefen.py halten das Setup stimmig
-.claude/skills/         Die neun Arbeitsschritte
-fuer-die-app/           Einrichtung für Claude- oder ChatGPT-App
+.claude/skills/         Die zwölf Arbeitsschritte
+fuer-die-app/           Einrichtung für Cowork, ChatGPT und Browser, Skill-ZIPs
 ```
 
 **Die Regelwerke** decken ab, was bei der ABA tatsächlich zählt: Thema und
@@ -121,18 +118,29 @@ Fachartikeln · Sprachprüfung ·
 KI-Kennzeichnung · Begleitprotokoll · Beurteilung · Präsentation und Diskussion.
 Belegt an Prüfungsordnung, SchUG, der amtlichen FAQ und dem Beurteilungsraster.
 
-**Die Arbeitsschritte** – normale Sätze funktionieren genauso, aber diese Wörter
-treffen direkt:
+**Die Arbeitsschritte** stammen, wo es sie schon gab, aus gepflegten
+Open-Source-Projekten und sind ins Deutsche übertragen und auf die ABA angepasst –
+Herkunft und Lizenz stehen in jedem Skill. Normale Sätze funktionieren genauso,
+aber diese Wörter treffen direkt:
 
-- `start` – Einstieg, oder „wo stehe ich?“
-- `thema` – Forschungsfrage und Leitfragen schärfen
+- `start` – Übersicht über alles im Ordner, dann Onboarding in drei Fragen
+- `thema` – Forschungslücke, Forschungsfrage, Leitfragen, Portaltext
+  *(nach lishix520/academic-paper-skills)*
 - `quellen` – eine Quelle prüfen und aufnehmen
-- `gliederung` – Kapitel den Leitfragen zuordnen
-- `schreiben` – ein Kapitel gemeinsam schreiben, Absatz für Absatz
-- `kritik` – ein Kapitel hart und mit Fundstellen prüfen
+- `literaturverzeichnispruefung` – jede Angabe live gegen OpenAlex, K10plus, DNB,
+  Crossref prüfen *(benedikt-e/literaturverzeichnispruefung)*
+- `gliederung` – Kapitel aus Sicht des Beurteilungsrasters prüfen
+  *(nach lishix520/academic-paper-skills)*
+- `schreiben` – ein Kapitel gemeinsam schreiben, Abschnitt für Abschnitt
+  *(nach Anthropics doc-coauthoring)*
+- `humanizer-de` – jeden Entwurf auf generische Sprache prüfen, Modus Formal
+  *(marmbiz/humanizer-de)*
+- `kritik` – ein Kapitel mit Fundstellen prüfen *(nach bladewing/thesis-check)*
 - `protokoll` – Eintrag fürs Begleitprotokoll
-- `abgabe` – Endkontrolle vor dem Hochladen
-- `pruefung` – Präsentation und Diskussion üben
+- `uebergabe` – Stand für die nächste Sitzung festhalten *(nach blader/baton)*
+- `abgabe` – Endkontrolle vor dem Hochladen *(nach bladewing/thesis-check)*
+- `pruefung` – Diskussion vor der Kommission üben
+  *(nach Jellypod-Inc/school-skills, socratic-tutor)*
 
 Alles, was du selbst schreibst, liegt in `mein/`. Der Rest ändert sich nicht.
 

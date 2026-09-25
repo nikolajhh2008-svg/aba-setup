@@ -1,82 +1,78 @@
-# Einrichtung ohne Installation – Claude oder ChatGPT
+# Einrichtung ohne Terminal – Cowork, ChatGPT oder Browser
 
-Für alle, die im Browser oder in der normalen App arbeiten: claude.ai oder
-chatgpt.com. Einmal einrichten, danach kennt jedes Gespräch im Projekt die
-Regeln. Dauer: etwa fünf Minuten.
+Du schreibst in Word, und daneben ist die KI offen. Damit sie deine Dateien lesen
+und alles, was entsteht, direkt in deinem Ordner speichern kann, gibt es drei Wege.
+**Weg 1 ist der beste**, Weg 3 der Notbehelf.
 
-Du brauchst aus diesem Ordner nur zwei Dinge:
-
-- **`projektanweisung.md`** – der Text, der die KI zur Begleitung macht
-- **den Ordner `wissen/`** – fünf Dateien: vier Pakete mit allen Regelwerken
-  und `5-meine-unterlagen.md` für dein Profil, deine Schulvorgaben, dein
-  Begleitprotokoll und deine Quellen
-
-Fünf Dateien, weil ChatGPT im Gratis-Tarif genau fünf pro Projekt annimmt. In
-Claude geht es genauso.
+Für alle drei gilt: Lade diesen Ordner herunter (auf GitHub **Code → Download ZIP**),
+entpacke ihn und leg ihn dorthin, wo du ihn wiederfindest – nicht in „Downloads“.
+Das ist ab jetzt dein **ABA-Ordner**. Deine Word-Dateien legst du in `mein/arbeit/`.
 
 ---
 
-## Schritt 1: Ein Projekt anlegen
+## Weg 1: Claude Cowork (empfohlen)
 
-- **Claude:** links **Projekte** → **Neues Projekt**.
-- **ChatGPT:** in der Seitenleiste **Neues Projekt**.
+Cowork ist Claude in der Desktop-App mit Zugriff auf einen Ordner auf deinem
+Rechner. Claude liest dort deine Word-Dateien, legt neue an und speichert Stand,
+Quellen, Recherche und Protokoll direkt bei dir.
 
-Name: zum Beispiel „Meine ABA“. Ein Projekt merkt sich Anweisungen und Dateien
-über alle Gespräche hinweg – deshalb dieser Weg und nicht ein einzelner Chat.
+1. **Skills hochladen.** Cowork lädt Skills aus deinem Claude-Konto, nicht aus dem
+   Ordner. In Claude unter **Einstellungen → Fähigkeiten** „Code-Ausführung und
+   Dateierstellung“ einschalten, dann unter **Skills** jede ZIP-Datei aus
+   `fuer-die-app/skills/` hochladen. Das ist einmalig.
+2. **Ordner freigeben.** In der Claude-Desktop-App Cowork öffnen und deinen
+   ABA-Ordner auswählen – den ganzen Ordner, nicht nur `mein/`, weil die Skills die
+   Regelwerke in `regeln/` lesen.
+3. **Anfangen.** Erste Nachricht:
 
-## Schritt 2: Die Anweisung einfügen
+   > Lies CLAUDE.md und lass uns starten.
 
-Öffne `projektanweisung.md`, kopiere **alles unterhalb der Trennlinie** und füge
-es ein:
+## Weg 2: ChatGPT Work (ChatGPT-Desktop-App)
 
-- **Claude:** im Projekt bei **Projektanweisungen** („Anweisungen festlegen“).
-- **ChatGPT:** im Projekt über das Menü oben → **Anweisungen**.
+ChatGPT Work kann in der Desktop-App auf einen lokalen Ordner zugreifen.
 
-Das ist der wichtigste Schritt. Der Text passt in die 8.000 Zeichen, die ChatGPT
-erlaubt.
+1. In der ChatGPT-Desktop-App ein **Projekt** anlegen und den Text aus
+   `projektanweisung.md` (alles unterhalb der Trennlinie) in die **Anweisungen**
+   des Projekts kopieren.
+2. Deinem Projekt oder Gespräch den **ABA-Ordner freigeben**.
+3. Erste Nachricht:
 
-## Schritt 3: Die fünf Dateien hochladen
+   > Lies CLAUDE.md in meinem Ordner und lass uns starten.
 
-Alle fünf Dateien aus `wissen/` ins Projekt ziehen – bei Claude ins
-**Projektwissen**, bei ChatGPT zu den **Dateien** des Projekts.
+ChatGPT kennt die Skills nicht als Skills, liest sie aber als Anleitungen in
+`.claude/skills/`, wenn du darauf hinweist („Arbeite nach
+`.claude/skills/schreiben/SKILL.md`“).
 
-## Schritt 4: Anfangen
+## Weg 3: Im Browser (claude.ai oder chatgpt.com) – Notbehelf
 
-Neues Gespräch im Projekt, erste Nachricht:
+Ohne Ordnerzugriff kann die KI nichts bei dir speichern. Du bekommst alles als Text
+oder Datei zum Herunterladen und legst es selbst in deinen Ordner. Geht, ist aber
+mühsamer, und was du nicht ablegst, ist nach dem Gespräch weg.
 
-> Lass uns starten.
+1. Ein **Projekt** anlegen (Claude: links **Projekte**; ChatGPT: **Neues Projekt**).
+2. Den Text aus `projektanweisung.md` (alles unterhalb der Trennlinie) in die
+   **Anweisungen** des Projekts kopieren. Er passt in die 8.000 Zeichen, die
+   ChatGPT erlaubt.
+3. Die fünf Dateien aus `wissen/` hochladen – fünf, weil ChatGPT im Gratis-Tarif
+   genau fünf pro Projekt annimmt. In Claude kannst du zusätzlich die Skills aus
+   `skills/` wie in Weg 1 hochladen.
+4. Erste Nachricht: „Lass uns starten.“
 
-Du bekommst drei kurze Fragen, danach den ausgefüllten Profiltext zum Kopieren –
-und gleich einen ersten echten Schritt an deiner Arbeit.
+**Was du selbst ablegen musst:** Am Ende jeder Sitzung bekommst du einen
+Protokolleintrag und eine Übergabe für die nächste Sitzung. Beides in deinen
+Ordner (`mein/begleitprotokoll.md`, `mein/uebergaben/`), und die aktualisierte
+`5-meine-unterlagen.md` neu hochladen – die alte vorher löschen, sonst liegen zwei
+Fassungen im Projekt.
 
 ---
 
-## Der eine Unterschied zu Claude Code
+## Welcher Weg wofür
 
-**In der App kann die KI deine Dateien lesen, aber nicht speichern.** Profil und
-Begleitprotokoll bekommst du deshalb als Text, den du selbst einfügst.
-
-1. Am Ende einer Sitzung bekommst du den Protokolleintrag. Kopier ihn in deine
-   eigene Fassung von `5-meine-unterlagen.md` (oder in Word, Notion, wo du magst).
-2. Ändert sich etwas am Profil – Zitierstil, Termine, Forschungsfrage –, lade die
-   aktualisierte `5-meine-unterlagen.md` neu hoch und **lösch die alte vorher**.
-   Sonst liegen zwei Fassungen im Projekt, und die KI weiß nicht, welche gilt.
+- **Cowork oder ChatGPT Work:** alles wird lokal gespeichert, nichts geht verloren,
+  Word-Dateien werden direkt gelesen und angelegt.
+- **Browser:** funktioniert überall, aber du bist das Gedächtnis.
+- **Claude Code** (Terminal): für alle, die das schon nutzen – Anleitung in der
+  README.
 
 **Führ das Begleitprotokoll wirklich mit.** Es ist Pflicht, es ist ein
-Beurteilungskriterium, und es lässt sich rückwirkend nicht rekonstruieren. Der
-Kopierschritt ist lästig – ein leeres Protokoll im Februar ist teurer.
-
-## Was in der App fehlt
-
-- **Die Kurzbefehle** (`thema`, `kritik`, `abgabe` …). Schreib stattdessen in
-  normalen Sätzen, was du willst: „Ich will an meiner Forschungsfrage arbeiten“
-  oder „Prüf bitte mein Kapitel 3.“
-- **Das Prüfwerkzeug** `werkzeuge/text-pruefen.py`. Die KI prüft den eingefügten
-  Text dann selbst – Muster findet sie, genau zählen kann sie nicht. Zahlen wie
-  Satzlängen sind dort nur Schätzungen.
-
-## Wenn du später umsteigst
-
-Der Wechsel zu Claude Code kostet nichts. Du überträgst deine Einträge aus
-`5-meine-unterlagen.md` zurück in die einzelnen Dateien in `mein/` und arbeitest
-weiter.
+Beurteilungskriterium, und es lässt sich rückwirkend nicht rekonstruieren.
