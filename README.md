@@ -18,6 +18,11 @@ Schritt für Schritt, belegt und offengelegt.
 
 </div>
 
+> **Nur den Link in Claude oder ChatGPT eingefügt?** Das reicht zum Reinschnuppern: Die
+> KI liest die Regeln und fängt mit dem Onboarding an. Für die echte Arbeit brauchst du
+> den Ordner auf deinem Rechner, sonst geht nach dem Gespräch alles verloren –
+> [so geht's](#starten).
+
 Die abschließende Arbeit (ABA, früher VWA) darf mit KI geschrieben werden – das
 Bildungsministerium stellt ausdrücklich fest: „Ein generelles Verbot von
 KI-Tools im Rahmen der abschließenden Arbeit ist nicht zulässig.“ Erlaubt ist sie
