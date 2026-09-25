@@ -1,93 +1,73 @@
+<div align="center">
+
 # ABA-Setup
 
-**Ein Arbeits-Setup für Claude, mit dem man die abschließende Arbeit (ABA, früher
-„vorwissenschaftliche Arbeit"/VWA) an einer österreichischen AHS schreibt – ohne
-dabei die Regeln zu verletzen, die für genau diese Arbeit gelten.**
+**Schreib deine abschließende Arbeit mit Claude oder ChatGPT.**<br/>
+Schritt für Schritt, belegt und offengelegt.
 
-Es besteht aus drei Dingen:
+[![Texte: CC BY-SA 4.0](https://img.shields.io/badge/Texte-CC%20BY--SA%204.0-3F6E4E.svg)](LICENSE)
+[![Code: MIT](https://img.shields.io/badge/Code-MIT-8A6D3B.svg)](LICENSE)
+[![Für: AHS Österreich](https://img.shields.io/badge/F%C3%BCr-AHS%20%C3%96sterreich-B5452F.svg)](https://www.ahs-aba.at)
+[![Läuft mit: Claude · ChatGPT](https://img.shields.io/badge/L%C3%A4uft%20mit-Claude%20%C2%B7%20ChatGPT-D97706.svg)](fuer-die-app/ANLEITUNG.md)
+[![Stand: September 2026](https://img.shields.io/badge/Stand-September%202026-555555.svg)](#stand-und-pflege)
 
-- **Regelwerke** – was für die ABA tatsächlich gilt: Aufbau, Zitieren, Fristen,
-  Beurteilungsraster, KI-Kennzeichnung. Belegt an Verordnung, SchUG und der
-  offiziellen FAQ des Bildungsministeriums, mit Fundstelle an jeder Aussage.
-- **Arbeitsschritte** – ein Fahrplan in sieben Etappen und je ein Skill dafür.
-  Man tippt `thema` und arbeitet an der Fragestellung, `kritik` und bekommt eine
-  Kapitelkritik mit Fundstellen.
-- **Grenzen** – vier Regeln, die die KI nicht überschreitet. Keine erfundenen
-  Quellen, kein fertiger Fließtext, jede Nutzung protokolliert, keine Note.
+[Starten](#starten) · [Die vier Regeln](#die-vier-regeln) · [Was drin ist](#was-drin-ist) · [Fahrplan](FAHRPLAN.md) · [Erste Schritte](START-HIER.md)
 
----
+</div>
 
-## Warum überhaupt
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/banner-dark.svg">
+  <img alt="ABA-Setup: Ein Blatt füllt sich Zeile für Zeile, eine Feder schreibt mit, daneben haken sich die vier Regeln ab – keine erfundenen Quellen, schreibt mit dir, Protokoll läuft mit, sauber gekennzeichnet." src=".github/assets/banner-light.svg" width="100%">
+</picture>
 
-KI-Nutzung ist bei der abschließenden Arbeit erlaubt. Die offizielle FAQ des
-Bildungsministeriums stellt ausdrücklich fest: „Ein generelles Verbot von
-KI-Tools im Rahmen der abschließenden Arbeit ist nicht zulässig."
+Die abschließende Arbeit (ABA, früher VWA) darf mit KI geschrieben werden – das
+Bildungsministerium stellt ausdrücklich fest: „Ein generelles Verbot von
+KI-Tools im Rahmen der abschließenden Arbeit ist nicht zulässig.“ Erlaubt ist sie
+unter drei Bedingungen: **dokumentiert, kritisch reflektiert, weiterverarbeitet.**
 
-Erlaubt ist sie unter drei Bedingungen: **dokumentiert, kritisch reflektiert,
-weiterverarbeitet.** Wer sie nicht offenlegt, riskiert die Wertung als
-vorgetäuschte Leistung – das heißt keine Note, neues Thema, Wiederholung ohne
-Betreuung.
+Ein nacktes Chatfenster erfüllt keine davon. Es erfindet Literaturangaben,
+schreibt Absätze, die niemand verteidigen kann, und führt kein Protokoll. Dieses
+Setup ändert den Standardzustand: **fünfzehn Regelwerke mit Fundstellen, neun
+Arbeitsschritte und vier Regeln** – damit die KI mit dir schreibt, ohne Quellen zu
+erfinden, und alles so festhält, wie es die Prüfungsordnung verlangt.
 
-Das Problem ist nicht das Werkzeug, sondern der Standardzustand. Ein Chatfenster
-ohne Regeln erfindet Literaturangaben, schreibt Absätze, die niemand verteidigen
-kann, und führt kein Protokoll. Dieses Setup ändert den Standardzustand.
-
-Nebenbei zahlt es sich in der Beurteilung aus: Kriterium K1.2 bewertet den
-„transparenten Einsatz technischer Hilfsmittel", Kriterium K3.4 verlangt, ihn in
-der Diskussion mündlich zu begründen. Wer sauber dokumentiert, gewinnt dort,
-statt zu verlieren.
+Du gibst Claude oder ChatGPT den Ordner, bekommst drei kurze Fragen – und dann
+arbeitet ihr an deiner Arbeit.
 
 ---
 
-## Einrichten
+## Starten
 
-### Weg 1 – Claude Code (empfohlen, Terminal oder Desktop-App)
+### Mit Claude Code (empfohlen)
+
+Den Ordner holen – per `git clone` oder auf dieser Seite **Code → Download ZIP**
+und entpacken. Dann den Ordner in Claude Code öffnen (Desktop-App oder Terminal)
+und schreiben:
+
+> Lass uns starten.
+
+Claude stellt drei kurze Fragen, trägt die Antworten in `mein/profil.md` ein und
+macht sofort einen ersten echten Schritt an deiner Arbeit. Kein Einrichten von
+Hand. Profil, Begleitprotokoll und die Liste der KI-Stellen schreibt Claude selbst
+mit.
 
 ```bash
-git clone https://github.com/DEIN-NAME/aba-setup.git
+git clone https://github.com/nikolajhh2008-svg/aba-setup.git
 cd aba-setup
 claude
 ```
 
-Dann als erste Nachricht: **„Lass uns starten."**
+### In der App – Claude oder ChatGPT, ohne Installation
 
-Claude stellt drei Fragen, füllt `mein/profil.md` aus und sagt, was als Nächstes
-dran ist. Kein Kopieren, kein Einrichten von Hand. Die Skills stehen sofort zur
-Verfügung.
+Ein Projekt anlegen, einen vorbereiteten Text in die Anweisungen kopieren, fünf
+Dateien hochladen. Funktioniert auch im Gratis-Tarif. Schritt für Schritt:
+**[fuer-die-app/ANLEITUNG.md](fuer-die-app/ANLEITUNG.md)**.
 
-Kein Git installiert? Auf der GitHub-Seite oben rechts auf **Code → Download ZIP**,
-entpacken, den Ordner in Claude Code öffnen.
+### Mit einem anderen KI-Dienst
 
-### Weg 2 – Claude-App (claude.ai, ohne Terminal)
-
-Siehe **[fuer-die-claude-app/ANLEITUNG.md](fuer-die-claude-app/ANLEITUNG.md)**.
-Kurzfassung: ein Projekt anlegen, einen Text in die Projektanweisungen einfügen,
-die Regelwerke ins Projektwissen hochladen. Dauert ein paar Minuten und
-funktioniert danach genauso.
-
-### Weg 3 – ein anderer KI-Dienst
-
-Die Regelwerke sind gewöhnliche Textdateien. Sie funktionieren überall dort, wo
-man Dateien hochladen oder Text einfügen kann. Was sie sagen, gilt unabhängig
+Die Regelwerke sind gewöhnliche Textdateien. Sie wirken überall, wo man Dateien
+hochladen oder Anweisungen hinterlegen kann – was sie sagen, gilt unabhängig
 davon, welches Modell sie liest.
-
----
-
-## Was drin ist
-
-```
-CLAUDE.md          Die Betriebsanweisung für die KI – die vier harten Regeln
-FAHRPLAN.md        Sieben Etappen von der Idee bis zur Diskussion
-START-HIER.md      Einstieg für alle, die noch nie mit Claude gearbeitet haben
-
-regeln/            13 Regelwerke, jedes mit Fundstellen
-mein/              Deine Dateien: Profil, Begleitprotokoll, Quellen, Arbeitsstand
-werkzeuge/         text-pruefen.py – zählt nach, was nachzählbar ist
-.claude/skills/    Die Arbeitsschritte
-fuer-die-claude-app/   Einrichtung ohne Terminal
-```
-
-Alles, was du selbst schreibst, liegt in `mein/`. Der Rest ändert sich nicht.
 
 ---
 
@@ -95,23 +75,65 @@ Alles, was du selbst schreibst, liegt in `mein/`. Der Rest ändert sich nicht.
 
 **1. Keine erfundenen Quellen.** Kein Titel, kein Jahr, keine Seitenzahl ohne
 Deckung. In einer Untersuchung von 636 modellerzeugten Literaturangaben waren je
-nach Modell 18 bis 55 Prozent vollständig erfunden, und von den existierenden
-enthielten 24 bis 43 Prozent falsche Angaben. Die KI sagt hier „das habe ich
-nicht", statt etwas Plausibles zu liefern.
+nach Modell 18 bis 55 Prozent vollständig erfunden
+([Walters & Wilder 2023](https://www.nature.com/articles/s41598-023-41032-5)).
+Hier gibt es stattdessen Kataloge, Suchbegriffe – und im Entwurf eine markierte
+Lücke, bis die Quelle da ist.
 
-**2. Kein fertiger Fließtext.** Du bekommst Rückmeldung zu dem, was du
-geschrieben hast – keine Kapitel. Der Grund ist keine Prinzipienreiterei: Sieben
-der dreizehn Beurteilungskriterien werden mündlich geprüft. Ein Absatz, den du
-nicht selbst gedacht hast, kostet dich vor der Kommission mehr, als er dir beim
-Schreiben erspart hat.
+**2. Geschrieben wird mit dir, Absatz für Absatz.** Erst Leitfrage, Quellen mit
+Seitenzahl und deine Aussage in einem Satz, dann der Plan des Kapitels, dann ein
+Absatz nach dem anderen – jeweils mit einer Rückfrage an dich. Sieben der
+dreizehn Beurteilungskriterien werden mündlich geprüft; einen Absatz, den du
+mitgebaut hast, kannst du verteidigen.
 
-**3. Jede Nutzung wird protokolliert.** Nach jeder Sitzung ein Eintrag im
-Begleitprotokoll – ungefragt. Das ist gesetzlich verlangt (§ 9 Abs. 2
-Prüfungsordnung AHS), es ist ein Beurteilungskriterium, und es lässt sich
-rückwirkend nicht rekonstruieren.
+**3. Guter Text statt generischer.** Jeder Entwurf wird vor dem Zeigen gegen
+eine Prüfliste gehalten: keine Floskeln, keine Verstärkerwörter, keine
+Dreierketten, kein „—“, kein Schlusssatz, der nur wiederholt. Konkret,
+wissenschaftlich, österreichisches Standarddeutsch.
 
-**4. Keine Note.** Keine Prognose, keine Prozentzahl, keine Niveaustufe. Nur:
-Was ist belegt, was fehlt, an welcher Stelle.
+**4. Alles wird offengelegt.** Jede Stelle aus einem Entwurf landet in
+`mein/ki-stellen.md`, jede Sitzung im Begleitprotokoll. Vor der Abgabe wird
+daraus die Kennzeichnung, die die amtliche FAQ verlangt. Genau das macht die
+Nutzung erlaubt – verschwiegene KI-Hilfe gilt als vorgetäuschte Leistung.
+
+---
+
+## Was drin ist
+
+```
+CLAUDE.md               Die Betriebsanweisung – liest Claude bei jedem Start
+FAHRPLAN.md             Sieben Etappen von der Idee bis zur Diskussion
+START-HIER.md           Für alle, die noch nie mit Claude gearbeitet haben
+
+regeln/                 15 Regelwerke mit Fundstellen, dazu ein Register
+mein/                   Deine Dateien: Profil, Schulvorgaben, Protokoll, Quellen
+werkzeuge/              text-pruefen.py zählt nach, was nachzählbar ist;
+                        buendeln.py und paket-pruefen.py halten das Setup stimmig
+.claude/skills/         Die neun Arbeitsschritte
+fuer-die-app/           Einrichtung für Claude- oder ChatGPT-App
+```
+
+**Die Regelwerke** decken ab, was bei der ABA tatsächlich zählt: Thema und
+Leitfragen · Aufbau · Methodik · Fristen und Abgabe · Recherchewege und seriöse
+Quellen · Quellen und Zitieren · Zitierstile · Plagiat und Eigenleistung ·
+wissenschaftliche Schreibweise · Schreibhandwerk · Sprachprüfung ·
+KI-Kennzeichnung · Begleitprotokoll · Beurteilung · Präsentation und Diskussion.
+Belegt an Prüfungsordnung, SchUG, der amtlichen FAQ und dem Beurteilungsraster.
+
+**Die Arbeitsschritte** – normale Sätze funktionieren genauso, aber diese Wörter
+treffen direkt:
+
+- `start` – Einstieg, oder „wo stehe ich?“
+- `thema` – Forschungsfrage und Leitfragen schärfen
+- `quellen` – eine Quelle prüfen und aufnehmen
+- `gliederung` – Kapitel den Leitfragen zuordnen
+- `schreiben` – ein Kapitel gemeinsam schreiben, Absatz für Absatz
+- `kritik` – ein Kapitel hart und mit Fundstellen prüfen
+- `protokoll` – Eintrag fürs Begleitprotokoll
+- `abgabe` – Endkontrolle vor dem Hochladen
+- `pruefung` – Präsentation und Diskussion üben
+
+Alles, was du selbst schreibst, liegt in `mein/`. Der Rest ändert sich nicht.
 
 ---
 
@@ -120,9 +142,10 @@ Was ist belegt, was fehlt, an welcher Stelle.
 - **Keine Rechtsauskunft.** Ein Arbeitsstand mit Fundstellen. Die offizielle FAQ
   wird ohne Ankündigung geändert und trägt kein Versionsdatum. Bei allem, was
   zählt, gilt die Auskunft deiner Schule.
-- **Kein Ghostwriter.** Wer eine fertige Arbeit sucht, ist hier falsch – und
-  zwar auch praktisch: Was hier entsteht, ist Rückmeldung, keine Kapitel.
-- **Kein KI-Detektor und keine Tarnung.** Über Detektoren wird hier in keine
+- **Kein Knopf für eine fertige Arbeit.** Es entsteht Absatz für Absatz, aus
+  deinem Material und mit deinen Entscheidungen – weil du die Arbeit am Ende
+  vor einer Kommission vertrittst.
+- **Kein KI-Detektor und kein Versteckspiel.** Über Detektoren wird hier in keine
   Richtung eine Aussage gemacht. Die Forschung misst Falsch-Positiv-Raten
   zwischen 4 und über 60 Prozent; kontrolliert wird in Österreich ohnehin anders,
   nämlich über Begleitprotokoll und Diskussion.
@@ -134,39 +157,34 @@ Was ist belegt, was fehlt, an welcher Stelle.
 ## Für welche Variante
 
 Ausgearbeitet ist **Variante A: die schriftliche Arbeit mit forschendem Zugang.**
+Für **Variante B** (gestalterisches oder künstlerisches Vorhaben mit
+Dokumentation) gilt fast alles ebenso – Quellen, Zitieren, Sprache,
+KI-Kennzeichnung, Begleitprotokoll, Fristen, Präsentation. Anders ist der
+Beurteilungsraster in K1.
 
-**Variante B** (gestalterisches oder künstlerisches Vorhaben mit Dokumentation)
-ist nicht ausgeschlossen, aber nur teilweise abgedeckt. Was vollständig gilt:
-Quellen und Zitieren, Schreibweise, Schreibhandwerk, Sprachprüfung,
-KI-Kennzeichnung, Begleitprotokoll, Fristen, Präsentation und Diskussion – also
-der weitaus größte Teil, denn die Dokumentation des Entstehungsprozesses ist ein
-wissenschaftlicher Text und wird als solcher gelesen. Was fehlt: der
-Beurteilungsraster für K1, der bei B vollständig anders aussieht.
-
-⚠️ **Der Punkt, der überrascht:** Auch eine *forschende* Arbeit fällt unter
-Variante B, sobald sie in einem gestalterischen Format umgesetzt wird – ein
-Video-Podcast über ein Forschungsthema wird nach B beurteilt. Das Onboarding
-fragt danach und sagt dir, was dann zu tun ist.
+⚠️ Auch eine *forschende* Arbeit fällt unter Variante B, sobald sie in einem
+gestalterischen Format abgegeben wird – ein Video-Podcast über ein
+Forschungsthema etwa. Das Onboarding fragt danach.
 
 ---
 
 ## Stand und Pflege
 
-Die Regelwerke tragen im Kopf ein `stand`-Feld. Sie wurden im August 2026 an den
-Primärquellen geprüft: Prüfungsordnung AHS (BGBl. II Nr. 174/2012 i.d.g.F.),
-SchUG, https://www.ahs-aba.at samt FAQ, amtlicher Beurteilungsraster.
+Jedes Regelwerk trägt im Kopf ein `stand`-Feld. Geprüft an den Primärquellen:
+Prüfungsordnung AHS (BGBl. II Nr. 174/2012 i.d.g.F.), SchUG,
+[ahs-aba.at](https://www.ahs-aba.at) samt FAQ, amtlicher Beurteilungsraster.
 
-**Prüf die Fristen und Formvorgaben immer selbst nach.** Termine setzt das
-Bundesland oder die Schule, nicht die Verordnung.
+**Termine und Formvorgaben setzen Bundesland, Schule und Betreuungsperson** – sie
+schlagen jede Regel hier. Prüf sie immer selbst nach.
 
-Fehler gefunden oder etwas veraltet? Issue oder Pull Request – besonders
-willkommen sind Belege aus Primärquellen und Erfahrungen aus anderen
-Bundesländern.
+Fehler gefunden oder etwas veraltet? [Issue öffnen](../../issues/new/choose) –
+am liebsten mit Link zur Primärquelle. Wie Beiträge aussehen:
+[CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
 ## Lizenz
 
-CC BY-SA 4.0 für die Texte, MIT für das Skript in `werkzeuge/`. Siehe
-[LICENSE](LICENSE). Nutzen, ändern, weitergeben ist ausdrücklich erwünscht –
-auch für die eigene Schule.
+Texte unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de),
+das Skript in `werkzeuge/` unter MIT – siehe [LICENSE](LICENSE). Nutzen, ändern,
+weitergeben ist ausdrücklich erwünscht, auch für die eigene Schule.

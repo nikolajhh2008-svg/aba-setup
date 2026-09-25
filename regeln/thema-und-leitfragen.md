@@ -1,8 +1,8 @@
 ---
 name: thema-und-leitfragen
 beschreibung: Woran eine tragfähige Forschungsfrage erkennbar ist, wie aus einem Thema beantwortbare Leitfragen werden und welche Fragen fachlich nicht tragen
-version: 1
-stand: 2026-08-01
+version: 2
+stand: 2026-09-25
 ---
 
 # Thema, Forschungsfrage und Leitfragen
@@ -13,6 +13,14 @@ Quellen gebraucht werden, welche Methode nötig ist, wie die Kapitel geschnitten
 werden und ob das Schlusskapitel überhaupt eine Antwort geben kann. Eine
 schlechte Frage lässt sich später nicht durch Fleiß reparieren – der Titel ist
 nach der Zustimmung der Schulleitung nicht mehr änderbar.
+
+Rechtsstatus-Marken an den Kernaussagen: **[Verordnung]** Prüfungsordnung AHS ·
+**[Handreichung/FAQ]** Handreichungen und FAQ des Bildungsministeriums auf
+ahs-aba.at, nicht rechtsverbindlich · **[Verwaltungspraxis]** ABA-Portal ·
+**[nicht amtlich geregelt]** fachliche Empfehlung dieses Regelwerks. Die
+Merkmale einer tragfähigen Frage in den Abschnitten 2 bis 6 sind fachliche
+Empfehlungen **[nicht amtlich geregelt]**; amtlich sind die Fristen, der
+Erwartungshorizont und die Portalfelder (Abschnitt 7).
 
 ## 1. Der Unterschied zwischen Thema und Frage
 
@@ -102,9 +110,15 @@ den OECD-Erhebungen 2015 bis 2022 ab?“
 **Beschreibungsfrage** – erfasst systematisch, was ist. Trägt eine ganze Arbeit
 nur, wenn die Beschreibung selbst noch nicht vorliegt; sonst ist sie eine
 Leitfrage.
-Beispiel: „Welche Regelungen zur Kennzeichnung KI-generierter Inhalte enthalten
-die Prüfungsordnungen der neun österreichischen Bundesländer für die
-Reifeprüfung?“
+Beispiel: „Welche Vorgaben zur Kennzeichnung KI-generierter Inhalte machen die
+schulinternen Leitfäden zur abschließenden Arbeit an den öffentlichen AHS in
+Wien?“
+
+Achtung bei der Prämisse: Die Prüfungsordnung AHS ist eine **Bundesverordnung**
+(BGBl. II Nr. 174/2012); eigene Prüfungsordnungen der Bundesländer gibt es
+nicht, und die Bildungsdirektionen regeln die ABA materiell nicht – sie setzen
+nur die Prüfungstermine fest. Eine Frage, die eine nicht existierende
+Regelungsebene voraussetzt, fällt bei der ersten Recherche in sich zusammen.
 
 **Erklärungsfrage** – sucht Ursachen oder Mechanismen. Der häufigste tragfähige
 Typ für eine ABA.
@@ -236,14 +250,36 @@ wie belastbar sind ihre Designs?“
 
 Die Themeneinreichung erfolgt über https://aba.bildung.gv.at. Die Felder sind
 zeichenbegrenzt; wer das erst beim Eintragen merkt, kürzt unter Zeitdruck. Alle
-Angaben zählen Zeichen **inklusive Leerzeichen**.
+Angaben zählen Zeichen **inklusive Leerzeichen**. Felder und Limits sind
+Portalvorgaben **[Verwaltungspraxis]**.
+
+**Was die Felder zusammen leisten: den Erwartungshorizont.** Thema und
+Erwartungshorizont sind bis Ende März der vorletzten Schulstufe der
+Schulleitung vorzulegen (§ 8 Abs. 2 Prüfungsordnung AHS) **[Verordnung]**. Was
+der Erwartungshorizont enthält, sagt die Handreichung **[Handreichung/FAQ]**: Er
+„vermittelt Außenstehenden Informationen über das geplante Vorhaben“ und
+beantwortet Fragen nach
+
+- dem **WARUM** – Motivation, persönliche Gründe der Themenwahl,
+- dem **WAS** – Thema, Fragen zum Thema, Forschungsinteresse und
+  Gestaltungsvorhaben,
+- dem **WIE** – grobe Gliederung, Methoden und Techniken,
+- dem **WOZU** – beabsichtigte Wirkung, Ziele.
+
+https://www.ahs-aba.at/lehrpersonen/betreuung-beurteilung/einreichung-unterstuetzen
+
+Als Prüfung vor dem Absenden: Jede der vier Fragen muss sich aus den Feldern
+beantworten lassen – WARUM und WAS aus dem Impuls, WAS zusätzlich aus den
+Leitfragen, WIE aus Methoden und Gliederung, WOZU aus Impuls oder Leitfragen
+**[nicht amtlich geregelt]**.
 
 - **Titel: maximal 200 Zeichen.** Er erscheint wörtlich im Reifeprüfungszeugnis
   und ist nach der Zustimmung der Schulleitung **nicht mehr änderbar**. Der Titel
   muss nicht die Forschungsfrage sein, darf ihr aber nicht widersprechen. Ein
   Untertitel ist optional und erscheint nicht im Zeugnis – er ist der richtige
   Ort für die Eingrenzung.
-- **Impuls: maximal 2.500 Zeichen.** Inhalt: persönlicher Zugang, zentrale
+- **Impuls (im Portal: „Impuls, Fragestellung, Literatur“): maximal 2.500
+  Zeichen.** Inhalt: persönlicher Zugang, zentrale
   Fragestellung und drei bis fünf einführende Quellen mit Autor, Titel,
   Erscheinungsjahr, bei Onlinequellen zusätzlich URL und Zugriffsdatum im Format
   [Zugriff: TT.MM.JJJJ]. Die Quellenangaben verbrauchen erfahrungsgemäß 600 bis
@@ -296,5 +332,6 @@ Erhebungsdesign und Kontrollvariablen.“
 - Hat jede Leitfrage ein Kapitel, und jedes Kapitel eine Leitfrage?
 - Passen Titel, Leitfragen, Methoden und Gliederung in die Zeichenlimits des
   ABA-Portals?
+- Beantworten die Felder zusammen WARUM, WAS, WIE und WOZU (Abschnitt 7)?
 - Ist der Titel so formuliert, dass er auch nach einer Präzisierung der Arbeit
   noch stimmt? Er ist nach der Zustimmung nicht mehr änderbar.

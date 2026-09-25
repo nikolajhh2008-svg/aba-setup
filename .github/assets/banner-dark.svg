@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="t d">
+  <title id="t">ABA-Setup</title>
+  <desc id="d">Ein Blatt füllt sich Zeile für Zeile, eine Feder schreibt mit, daneben haken sich die vier Regeln ab: keine erfundenen Quellen, schreibt mit dir, Protokoll läuft mit, sauber gekennzeichnet.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#12181A"/><stop offset="1" stop-color="#1A2326"/></linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#A9B4AE" fill-opacity="0.18"/></pattern>
+  </defs>
+  <style>
+    @keyframes w0 { 0%,4.00% { stroke-dashoffset: 1; } 11.00%,90% { stroke-dashoffset: 0; } 96%,100% { stroke-dashoffset: 1; } }
+    .l0 { stroke-dasharray: 1; stroke-dashoffset: 1; animation: w0 9s linear infinite; }
+    @keyframes w1 { 0%,12.00% { stroke-dashoffset: 1; } 19.00%,90% { stroke-dashoffset: 0; } 96%,100% { stroke-dashoffset: 1; } }
+    .l1 { stroke-dasharray: 1; stroke-dashoffset: 1; animation: w1 9s linear infinite; }
+    @keyframes w2 { 0%,20.00% { stroke-dashoffset: 1; } 27.00%,90% { stroke-dashoffset: 0; } 96%,100% { stroke-dashoffset: 1; } }
+    .l2 { stroke-dasharray: 1; stroke-dashoffset: 1; animation: w2 9s linear infinite; }
+    @keyframes w3 { 0%,28.00% { stroke-dashoffset: 1; } 35.00%,90% { stroke-dashoffset: 0; } 96%,100% { stroke-dashoffset: 1; } }
+    .l3 { stroke-dasharray: 1; stroke-dashoffset: 1; animation: w3 9s linear infinite; }
+    @keyframes w4 { 0%,36.00% { stroke-dashoffset: 1; } 43.00%,90% { stroke-dashoffset: 0; } 96%,100% { stroke-dashoffset: 1; } }
+    .l4 { stroke-dasharray: 1; stroke-dashoffset: 1; animation: w4 9s linear infinite; }
+    @keyframes w5 { 0%,44.00% { stroke-dashoffset: 1; } 51.00%,90% { stroke-dashoffset: 0; } 96%,100% { stroke-dashoffset: 1; } }
+    .l5 { stroke-dasharray: 1; stroke-dashoffset: 1; animation: w5 9s linear infinite; }
+    @keyframes w6 { 0%,52.00% { stroke-dashoffset: 1; } 59.00%,90% { stroke-dashoffset: 0; } 96%,100% { stroke-dashoffset: 1; } }
+    .l6 { stroke-dasharray: 1; stroke-dashoffset: 1; animation: w6 9s linear infinite; }
+    @keyframes pen { 0% { transform: translate(0px,0px); } 4.00% { transform: translate(0px,0px); } 11.00% { transform: translate(330px,0px); } 12.00% { transform: translate(0px,28px); } 19.00% { transform: translate(300px,28px); } 20.00% { transform: translate(0px,56px); } 27.00% { transform: translate(338px,56px); } 28.00% { transform: translate(0px,84px); } 35.00% { transform: translate(250px,84px); } 36.00% { transform: translate(0px,112px); } 43.00% { transform: translate(322px,112px); } 44.00% { transform: translate(0px,140px); } 51.00% { transform: translate(290px,140px); } 52.00% { transform: translate(0px,168px); } 59.00% { transform: translate(180px,168px); } 90% { transform: translate(180px,168px); } 98%,100% { transform: translate(0px,0px); } }
+    .pen { animation: pen 9s linear infinite; }
+    @keyframes foot { 0%,19.00% { opacity: 0; transform: scale(.4); } 22.00%,88% { opacity: 1; transform: scale(1); } 94%,100% { opacity: 0; transform: scale(.6); } }
+    .foot { opacity: 0; transform-box: fill-box; transform-origin: center; animation: foot 9s cubic-bezier(.2,.9,.3,1.4) infinite; }
+    @keyframes c0 { 0%,10.00% { opacity: 0; transform: translateY(10px) scale(.92); } 14.00%,90% { opacity: 1; transform: none; } 96%,100% { opacity: 0; transform: scale(.96); } }
+    @keyframes t0 { 0%,12.00% { stroke-dashoffset: 20; } 16.00%,90% { stroke-dashoffset: 0; } 96%,100% { stroke-dashoffset: 20; } }
+    .c0 { opacity: 0; transform-box: fill-box; transform-origin: center; animation: c0 9s cubic-bezier(.2,.9,.3,1.3) infinite; } .t0 { stroke-dasharray: 20; stroke-dashoffset: 20; animation: t0 9s ease-out infinite; }
+    @keyframes c1 { 0%,22.00% { opacity: 0; transform: translateY(10px) scale(.92); } 26.00%,90% { opacity: 1; transform: none; } 96%,100% { opacity: 0; transform: scale(.96); } }
+    @keyframes t1 { 0%,24.00% { stroke-dashoffset: 20; } 28.00%,90% { stroke-dashoffset: 0; } 96%,100% { stroke-dashoffset: 20; } }
+    .c1 { opacity: 0; transform-box: fill-box; transform-origin: center; animation: c1 9s cubic-bezier(.2,.9,.3,1.3) infinite; } .t1 { stroke-dasharray: 20; stroke-dashoffset: 20; animation: t1 9s ease-out infinite; }
+    @keyframes c2 { 0%,34.00% { opacity: 0; transform: translateY(10px) scale(.92); } 38.00%,90% { opacity: 1; transform: none; } 96%,100% { opacity: 0; transform: scale(.96); } }
+    @keyframes t2 { 0%,36.00% { stroke-dashoffset: 20; } 40.00%,90% { stroke-dashoffset: 0; } 96%,100% { stroke-dashoffset: 20; } }
+    .c2 { opacity: 0; transform-box: fill-box; transform-origin: center; animation: c2 9s cubic-bezier(.2,.9,.3,1.3) infinite; } .t2 { stroke-dasharray: 20; stroke-dashoffset: 20; animation: t2 9s ease-out infinite; }
+    @keyframes c3 { 0%,46.00% { opacity: 0; transform: translateY(10px) scale(.92); } 50.00%,90% { opacity: 1; transform: none; } 96%,100% { opacity: 0; transform: scale(.96); } }
+    @keyframes t3 { 0%,48.00% { stroke-dashoffset: 20; } 52.00%,90% { stroke-dashoffset: 0; } 96%,100% { stroke-dashoffset: 20; } }
+    .c3 { opacity: 0; transform-box: fill-box; transform-origin: center; animation: c3 9s cubic-bezier(.2,.9,.3,1.3) infinite; } .t3 { stroke-dasharray: 20; stroke-dashoffset: 20; animation: t3 9s ease-out infinite; }
+    @keyframes bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+    .card1 { animation: bob 6s ease-in-out infinite; } .card2 { animation: bob 7s ease-in-out infinite reverse; }
+    @keyframes blink { 50% { opacity: 0; } } .blink { animation: blink 1.1s steps(1) infinite; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .l0,.l1,.l2,.l3,.l4,.l5,.l6,.t0,.t1,.t2,.t3 { stroke-dashoffset: 0; } .c0,.c1,.c2,.c3,.foot { opacity: 1; } .pen { transform: translate(180px,168px); } }
+  </style>
+  <rect y="0" width="1280" height="440" fill="url(#bg)"/>
+  <rect y="0" width="1280" height="440" fill="url(#dots)"/>
+
+  <text x="70" y="150" font-size="84" font-weight="700" fill="#F3EEE4" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" letter-spacing="-1.5">ABA-Setup<tspan class="blink" fill="#F59E0B">.</tspan></text>
+  <text x="72" y="202" font-size="24" fill="#A9B4AE" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">Deine ABA, Schritt für Schritt – belegt und offengelegt.</text>
+  <text x="72" y="240" font-size="15" fill="#A9B4AE" fill-opacity="0.85" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" letter-spacing="0.5">Für Claude und ChatGPT · Abschließende Arbeit an der AHS</text>
+
+  <g class="c0">
+    <rect x="72" y="300" width="248" height="38" rx="19" fill="#1E2729" stroke="#4A5A5E"/>
+    <circle cx="92" cy="319" r="10" fill="#6FBF8A"/>
+    <path class="t0" d="M87 319.5 l3.6 3.6 l6.6 -7.2" fill="none" stroke="#12181A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="110" y="324.5" font-size="15.5" fill="#F3EEE4" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="600">Keine erfundenen Quellen</text>
+  </g>
+  <g class="c1">
+    <rect x="332" y="300" width="176" height="38" rx="19" fill="#1E2729" stroke="#4A5A5E"/>
+    <circle cx="352" cy="319" r="10" fill="#6FBF8A"/>
+    <path class="t1" d="M347 319.5 l3.6 3.6 l6.6 -7.2" fill="none" stroke="#12181A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="370" y="324.5" font-size="15.5" fill="#F3EEE4" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="600">Schreibt mit dir</text>
+  </g>
+  <g class="c2">
+    <rect x="72" y="352" width="196" height="38" rx="19" fill="#1E2729" stroke="#4A5A5E"/>
+    <circle cx="92" cy="371" r="10" fill="#6FBF8A"/>
+    <path class="t2" d="M87 371.5 l3.6 3.6 l6.6 -7.2" fill="none" stroke="#12181A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="110" y="376.5" font-size="15.5" fill="#F3EEE4" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="600">Protokoll läuft mit</text>
+  </g>
+  <g class="c3">
+    <rect x="280" y="352" width="228" height="38" rx="19" fill="#1E2729" stroke="#4A5A5E"/>
+    <circle cx="300" cy="371" r="10" fill="#6FBF8A"/>
+    <path class="t3" d="M295 371.5 l3.6 3.6 l6.6 -7.2" fill="none" stroke="#12181A" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="318" y="376.5" font-size="15.5" fill="#F3EEE4" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="600">Sauber gekennzeichnet</text>
+  </g>
+
+  <g class="card1"><g transform="rotate(-9 700 150)">
+    <rect x="640" y="96" width="120" height="84" rx="8" fill="#20292C" stroke="#4A5A5E"/>
+    <line x1="654" y1="118" x2="740" y2="118" stroke="#F59E0B" stroke-width="2.4" stroke-linecap="round"/>
+    <line x1="654" y1="138" x2="728" y2="138" stroke="#4A5A5E" stroke-width="2.2" stroke-linecap="round"/>
+    <line x1="654" y1="156" x2="714" y2="156" stroke="#4A5A5E" stroke-width="2.2" stroke-linecap="round"/>
+  </g></g>
+  <g class="card2"><g transform="rotate(7 700 330)">
+    <rect x="648" y="290" width="112" height="78" rx="8" fill="#20292C" stroke="#4A5A5E"/>
+    <text x="664" y="324" font-size="22" font-weight="700" fill="#6FBF8A" font-family="Georgia, serif">S. 42</text>
+    <line x1="664" y1="344" x2="740" y2="344" stroke="#4A5A5E" stroke-width="2.2" stroke-linecap="round"/>
+  </g></g>
+
+  <rect x="804" y="80" width="400" height="320" rx="14" fill="rgba(0,0,0,0.35)"/>
+  <rect x="796" y="70" width="400" height="320" rx="14" fill="#20292C" stroke="#4A5A5E"/>
+  <line x1="806" y1="70" x2="806" y2="390" stroke="#F59E0B" stroke-opacity="0.35" stroke-width="2"/>
+  <text x="820" y="118" font-size="17" font-weight="700" fill="#F3EEE4" font-family="Georgia, serif">2  Forschungsstand</text>
+  <line class="l0" x1="820" y1="150" x2="1150" y2="150" stroke="#F3EEE4" stroke-opacity="0.72" stroke-width="3.2" stroke-linecap="round" pathLength="1"/>
+    <line class="l1" x1="820" y1="178" x2="1120" y2="178" stroke="#F3EEE4" stroke-opacity="0.72" stroke-width="3.2" stroke-linecap="round" pathLength="1"/>
+    <line class="l2" x1="820" y1="206" x2="1158" y2="206" stroke="#F3EEE4" stroke-opacity="0.72" stroke-width="3.2" stroke-linecap="round" pathLength="1"/>
+    <line class="l3" x1="820" y1="234" x2="1070" y2="234" stroke="#F3EEE4" stroke-opacity="0.72" stroke-width="3.2" stroke-linecap="round" pathLength="1"/>
+    <line class="l4" x1="820" y1="262" x2="1142" y2="262" stroke="#F3EEE4" stroke-opacity="0.72" stroke-width="3.2" stroke-linecap="round" pathLength="1"/>
+    <line class="l5" x1="820" y1="290" x2="1110" y2="290" stroke="#F3EEE4" stroke-opacity="0.72" stroke-width="3.2" stroke-linecap="round" pathLength="1"/>
+    <line class="l6" x1="820" y1="318" x2="1000" y2="318" stroke="#F3EEE4" stroke-opacity="0.72" stroke-width="3.2" stroke-linecap="round" pathLength="1"/>
+    
+  <g class="foot">
+    <circle cx="1166" cy="176" r="13" fill="#F59E0B"/>
+    <text x="1166" y="181.5" text-anchor="middle" font-size="15" font-weight="700" fill="#12181A" font-family="Georgia, serif">1</text>
+  </g>
+  <text x="820" y="366" font-size="13" fill="#A9B4AE" font-family="ui-monospace, 'SF Mono', Menlo, monospace">¹ Huber 2019, S. 42 · KI-Stelle 2.1 notiert ✓</text>
+
+  <g class="pen"><g transform="translate(820 150)"><g transform="rotate(-38)">
+    <rect x="-4" y="-66" width="10" height="54" rx="4" fill="#F3EEE4"/>
+    <rect x="-4" y="-40" width="10" height="5" fill="#F59E0B"/>
+    <path d="M-4 -12 L6 -12 L1 0 Z" fill="#F59E0B"/>
+  </g></g></g>
+</svg>

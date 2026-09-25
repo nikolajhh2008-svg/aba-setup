@@ -1,14 +1,19 @@
 ---
 name: praesentation
 beschreibung: Regelwerk für Präsentation und Diskussion der abschließenden Arbeit vor der Prüfungskommission, einschließlich Fragetypen, Antwortaufbau und den offiziellen Musterfragen zum Hilfsmitteleinsatz.
-version: 1
-stand: 2026-08-01
+version: 2
+stand: 2026-09-25
 ---
 
 # Präsentation und Diskussion
 
 Dieses Regelwerk gilt für jede Auskunft zum mündlichen Teil der abschließenden Arbeit (ABA):
 Vorbereitung, Aufbau, Zeitplanung, Fragetypen, Antwortverhalten.
+
+Rechtsstatus-Marken an den Kernaussagen: **[Gesetz]** Schulunterrichtsgesetz · **[Verordnung]**
+Prüfungsordnung AHS bzw. BMHS · **[Handreichung/FAQ]** Handreichungen und FAQ des
+Bildungsministeriums auf ahs-aba.at, nicht rechtsverbindlich · **[nicht amtlich geregelt]**
+Empfehlung dieses Regelwerks.
 
 ## 1. Warum dieser Teil über die Note entscheidet
 
@@ -40,8 +45,14 @@ bekommt diesen Hinweis und keine Zahl.
 ## 2. Der formale Rahmen
 
 - **Höchstens 25 Minuten** für Präsentation und Diskussion **zusammen**, pro Kandidatin und
-  Kandidat. Rechtsgrundlage ist § 9 Abs. 4 Prüfungsordnung AHS
+  Kandidat. Rechtsgrundlage ist § 9 Abs. 4 Prüfungsordnung AHS **[Verordnung]**
   (https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007845).
+  Technische oder andere Vorbereitungen zählen nicht mit **[Handreichung/FAQ]**.
+- **Öffentlich.** „Die mündliche Prüfung sowie die Präsentation und Diskussion im Rahmen der
+  abschließenden Arbeit sind öffentlich vor der jeweiligen Prüfungskommission abzuhalten.“
+  (§ 37 Abs. 5 SchUG) **[Gesetz]**. Auf dem Serviceportal steht das nicht; es gehört trotzdem in
+  jede Vorbereitung – es können also Zuhörerinnen und Zuhörer im Raum sein. Die Beurteilung
+  selbst erfolgt unter Ausschluss der Öffentlichkeit (§ 38 Abs. 6 SchUG).
 - **Vor der Prüfungskommission**, nicht allein vor der Betreuungsperson. In der Kommission
   sitzen in der Regel Personen, die die Arbeit nicht betreut haben und im Thema nicht zu Hause
   sind. Das ist für den Zuschnitt entscheidend: Die Präsentation muss auch für fachfremde
@@ -49,19 +60,32 @@ bekommt diesen Hinweis und keine Zahl.
 - **Schulintern terminiert**, innerhalb des von der Schulbehörde zugewiesenen Zeitfensters.
   Termin, Raumausstattung und Technik sind je Schule verschieden und vorab zu klären
   (https://www.ahs-aba.at/lehrpersonen/betreuung-und-beurteilung/info-service/fristen-termine).
-- **Für die AHS ist kein Verhältnis zwischen Präsentation und Diskussion vorgeschrieben.** Die
-  Verordnung nennt nur den Gesamtdeckel. Eine schulinterne Vorgabe kann abweichen und ist dann
-  maßgeblich.
-- **An BHS gilt zusätzlich, dass der überwiegende Teil der Zeit auf die Diskussion entfallen
-  muss** (§ 9 Abs. 4 Prüfungsordnung BMHS). **Hinweis zur Quellenlage: Diese BHS-Angabe ist bei
-  der Gegenprüfung am Verordnungsvolltext nicht verifiziert worden**, weil das
-  Rechtsinformationssystem wiederholt nicht erreichbar war und die BMBWF-Plattform
-  diplomarbeiten-bbs.at die Bestimmung nicht im Wortlaut zitiert. Sie ist als plausibel, aber
-  nicht verifiziert zu führen und vor jeder Planung am Volltext nachzuziehen
-  (https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007846).
+- **Die Diskussion soll den überwiegenden Teil der Zeit einnehmen.** Wörtlich: „Präsentations-
+  und Diskussionsteil sind als Einheit zu betrachten, doch soll die Diskussion den überwiegenden
+  Teil der Zeit einnehmen.“ **[Handreichung/FAQ]** Die Verordnung selbst nennt für die AHS nur
+  den Gesamtdeckel; das Verhältnis steht nur in der Handreichung. Eine schulinterne Vorgabe kann
+  abweichen und ist dann maßgeblich.
+  (https://www.ahs-aba.at/lehrpersonen/betreuung-beurteilung/praesentation-und-diskussion-vorbereiten)
+- **Die Präsentation kann abgebrochen werden.** „Gegebenenfalls ist die Präsentation von der
+  prüfenden Lehrperson oder der/dem Vorsitzenden der Prüfungskommission zu beenden und zur
+  Diskussion überzuleiten.“ **[Handreichung/FAQ]** Wer überzieht, verliert also nicht nur Zeit,
+  sondern das Ende des eigenen Vortrags.
+- **Die Präsentation ist eigenständig zu erarbeiten** **[Handreichung/FAQ]** – das gilt auch für
+  Folien und Visualisierungen; KI-Einsatz dabei gehört ins Begleitprotokoll.
+- **Präsentation und Diskussion in einer Fremdsprache** nur, wenn die Arbeit in dieser lebenden
+  Fremdsprache verfasst wurde, auf Wunsch der Kandidatin oder des Kandidaten und „mit Zustimmung
+  aller Kommissionsmitglieder“ (§ 8 Abs. 6 Prüfungsordnung AHS) **[Verordnung]**. Laut
+  Handreichung ist dieses Einverständnis im Vorhinein einzuholen **[Handreichung/FAQ]**.
+- **An BHS steht der Diskussionsvorrang in der Verordnung:** „wobei der überwiegende Teil für die
+  Diskussion verwendet werden muss“ (§ 9 Abs. 4 Prüfungsordnung BMHS) **[Verordnung]**. Am
+  Volltext geprüft (RIS-Fassung vom 07.08.2026, nachgelesen am 25.09.2026):
+  https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007846
+  Inhaltlich gilt an beiden Schularten dasselbe; verschieden ist nur der Rang – „muss“ in der
+  BHS-Verordnung, „soll“ in der AHS-Handreichung.
 
-**Praktische Folge aus dem 25-Minuten-Deckel:** Wer 20 Minuten präsentiert, hat die Diskussion
-auf 5 Minuten verkürzt. Das ist keine Zeitersparnis, sondern die Verkleinerung des Fensters, in
+**Praktische Folge aus dem 25-Minuten-Deckel und dem Diskussionsvorrang:** Wer 20 Minuten
+präsentiert, hat die Diskussion auf 5 Minuten verkürzt – und läuft Gefahr, vorher unterbrochen zu
+werden. Das ist keine Zeitersparnis, sondern die Verkleinerung des Fensters, in
 dem 4 der 13 Kriterien überhaupt sichtbar werden können. Eine überlange Präsentation schadet
 doppelt.
 
@@ -124,7 +148,8 @@ Reihenfolge, die trägt:
    Forschung“, wenn er nicht konkret ist.
 
 **Realistische Zeitaufteilung bei 25 Minuten Gesamtzeit und ohne abweichende schulinterne
-Vorgabe:** rund 10 Minuten Präsentation, rund 15 Minuten Diskussion. Innerhalb der 10
+Vorgabe:** rund 10 Minuten Präsentation, rund 15 Minuten Diskussion – damit ist der
+Diskussionsvorrang der Handreichung erfüllt **[nicht amtlich geregelt]**. Innerhalb der 10
 Präsentationsminuten: Einstieg etwa 1 Minute, Fragestellung und Relevanz etwa 1 Minute, Methode
 und Materialbasis etwa 1,5 Minuten, Ergebnisse etwa 4 Minuten, Grenzen etwa 1 Minute, Schluss
 etwa 1 Minute, Puffer etwa 30 Sekunden.
@@ -136,13 +161,14 @@ unter dem Ziel liegt, ist der sichere Zustand.
 
 ## 5. Was in der Präsentation nichts verloren hat
 
-**Ablesen.** Der Raster verlangt ausdrücklich freien Vortrag, auf der höchsten Stufe
-„durchgehend freier Vortrag“. Ein abgelesener Vortrag deckelt K2 unabhängig von der Qualität
-des Inhalts. Zulässig und sinnvoll ist eine Karte mit Stichworten, nicht mit Sätzen.
+**Ablesen.** Der Raster beschreibt ausdrücklich den freien Vortrag, auf der höchsten Stufe
+„durchgehend freier Vortrag“. Ein abgelesener Vortrag verfehlt diesen Deskriptor in K2,
+Kriterium 2, unabhängig von der Qualität des Inhalts. Zulässig und sinnvoll ist eine Karte mit Stichworten, nicht mit Sätzen.
 
 **Foliengrab.** Folien mit Fließtext, den die Kommission mitliest, während gesprochen wird. Der
 Effekt ist negativ, weil Lesen und Zuhören konkurrieren. Eine Folie trägt eine Aussage; Text
-auf der Folie sind Stichworte, Zahlen, ein Bild, ein Diagramm.
+auf der Folie sind Stichworte, Zahlen, ein Bild, ein Diagramm. Die Handreichung empfiehlt
+„maximal eine Folie pro Minute“ **[Handreichung/FAQ]** – bei 10 Minuten also höchstens zehn.
 
 **Wiederholung des Inhaltsverzeichnisses.** „Zuerst gebe ich einen Überblick, dann komme ich zu
 den Grundlagen, dann …“ Die Kommission hat die Arbeit vor sich liegen. Eine Gliederungsfolie
@@ -160,11 +186,17 @@ Negativbeispiel: „Künstliche Intelligenz ist ein Teilgebiet der Informatik, d
 Automatisierung intelligenten Verhaltens befasst. Man unterscheidet zwischen schwacher und
 starker KI. In meiner Arbeit geht es um …“
 
-Positivbeispiel: „Im Mai 2025 verschafften sich bei einer Deutsch-Matura in Niederösterreich
-mehrere Kandidaten Internetzugang. Ein Kandidat wurde bei der Nutzung eines Chatbots ertappt;
-seine Arbeit wurde nicht beurteilt. Meine Frage war: Woran genau erkennt eine
+Positivbeispiel: „Im Mai 2025 verschafften sich bei der Deutsch-Klausur der Reife- und
+Diplomprüfung an der HBLFA Francisco Josephinum in Wieselburg laut Medienberichten mehrere
+Kandidaten Internetzugang. Ein Kandidat wurde bei der Nutzung eines Chatbots ertappt; seine
+Klausurarbeit wurde nicht beurteilt. Meine Frage war: Woran genau erkennt eine
 Prüfungskommission das eigentlich? Ich habe dafür die Beurteilungspraxis an drei Schulen
 untersucht.“
+
+Zum Beispiel selbst: Der Vorfall betraf eine Klausur an einer berufsbildenden höheren Schule,
+keine abschließende Arbeit (https://noe.orf.at/stories/3305615/). Als Einstieg taugt er nur,
+wenn er so benannt wird – wer ihn als ABA-Fall erzählt, liefert der Kommission die erste
+Quellenfrage.
 
 ## 6. Die Diskussion: sechs Fragetypen
 
@@ -356,11 +388,11 @@ Wer eine davon nicht beantworten kann, hat eine Lücke, die in der Diskussion si
 
 - Bei jeder Frage zum mündlichen Teil zuerst den Rahmen klären: AHS oder BHS, Variante A oder
   B, schulinterne Vorgaben zur Zeitaufteilung bekannt oder nicht.
-- Keine Notenprognose und keine Einschätzung, welche Niveaustufe erreicht würde. Stattdessen
-  die betroffenen Kriterien benennen und die Frage zurückgeben.
+- Keine Notenprognose. Eine Einschätzung einzelner Kriterien nur so, wie `beurteilung.md`,
+  Abschnitt 2, sie erlaubt: mit der Stelle, die sie trägt, und als vorläufig gekennzeichnet.
 - Übungsfragen erzeugen, aber die Antworten nicht vorformulieren. Wer die Antwort geliefert
   bekommt, übt nichts, und genau diese Antworten sind der Gegenstand von 7 der 13 Kriterien.
-- Bei der BHS-Vorgabe zur Diskussionsdauer immer den Verifikationsvorbehalt aus Abschnitt 2
-  mitliefern.
+- Beim Verhältnis von Präsentation und Diskussion den Rang mitliefern: an der AHS Handreichung
+  („soll“), an der BHS Verordnung („muss“), Abschnitt 2.
 - Die beiden Musterfragen aus Abschnitt 9 im Wortlaut verwenden und als offizielle Fundstelle
   kennzeichnen; keine weiteren Fragen als offiziell ausgeben.

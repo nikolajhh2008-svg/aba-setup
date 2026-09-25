@@ -1,6 +1,6 @@
 ---
 name: thema
-description: Thema, Forschungsfrage und Leitfragen schärfen, bis sie beantwortbar sind. Nutzen bei „Thema finden", „Forschungsfrage", „Leitfragen", „ist meine Frage gut", vor der Einreichung im ABA-Portal.
+description: Thema, Forschungsfrage und Leitfragen schärfen, bis sie beantwortbar sind. Nutzen bei „Thema finden“, „Forschungsfrage“, „Leitfragen“, „ist meine Frage gut“, vor der Einreichung im ABA-Portal.
 license: CC-BY-SA-4.0
 ---
 
@@ -20,8 +20,8 @@ deshalb, weil sie in der Diskussion begründet werden muss.
 
 ### 1. Ausgangslage aufnehmen
 
-Frag nach dem Interesse, nicht nach der Frage. „Was interessiert dich daran?" und
-„Was hast du schon dazu gelesen?" führen weiter als „wie lautet deine
+Frag nach dem Interesse, nicht nach der Frage. „Was interessiert dich daran?“ und
+„Was hast du schon dazu gelesen?“ führen weiter als „wie lautet deine
 Forschungsfrage".
 
 Wichtig sind drei Dinge, und sie werden oft nicht gesagt:
@@ -37,10 +37,10 @@ Jede einzeln durchgehen und das Ergebnis benennen, nicht als Gesamturteil:
    bräuchte man eine Studie, die es nicht gibt?
 2. **Zu breit?** Test: Gäbe es zu der Frage ein ganzes Buch, ist sie zu breit.
 3. **Zu eng?** Test: Ist sie mit einem Satz beantwortet, trägt sie keine Arbeit.
-4. **Offen gestellt?** Eine Frage, auf die „ja" die Antwort ist, ist keine
-   Forschungsfrage. „Ist Videoüberwachung wirksam?" wird zu „Unter welchen
+4. **Offen gestellt?** Eine Frage, auf die „ja“ die Antwort ist, ist keine
+   Forschungsfrage. „Ist Videoüberwachung wirksam?“ wird zu „Unter welchen
    Bedingungen wirkt Videoüberwachung auf welche Deliktarten?"
-5. **Wertungsfrei?** „Warum ist X schädlich?" setzt voraus, was zu zeigen wäre.
+5. **Wertungsfrei?** „Warum ist X schädlich?“ setzt voraus, was zu zeigen wäre.
 
 ### 3. Leitfragen bilden
 

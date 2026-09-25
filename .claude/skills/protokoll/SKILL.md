@@ -1,6 +1,6 @@
 ---
 name: protokoll
-description: Einen Eintrag für das Begleitprotokoll erzeugen und das Hilfsmittelverzeichnis pflegen. Nutzen am Ende jeder Arbeitssitzung, bei „Protokoll", „Begleitprotokoll", „dokumentieren".
+description: Einen Eintrag für das Begleitprotokoll erzeugen und das Hilfsmittelverzeichnis pflegen. Nutzen am Ende jeder Arbeitssitzung, bei „Protokoll“, „Begleitprotokoll“, „dokumentieren“.
 license: CC-BY-SA-4.0
 ---
 
@@ -50,7 +50,7 @@ Drei Merkmale eines brauchbaren Eintrags:
 - Er ist in einem Jahr noch verständlich
 
 Sprache: reflektierendes Fachdeutsch, Ich-Form, ganze Sätze. **Kein technisches
-Log.** „19:32 – ChatGPT, Prompt: …" erfüllt die Form und leistet nichts.
+Log.** „19:32 – ChatGPT, Prompt: …“ erfüllt die Form und leistet nichts.
 
 ---
 

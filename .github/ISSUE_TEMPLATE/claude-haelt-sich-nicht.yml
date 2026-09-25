@@ -1,0 +1,33 @@
+name: Claude hält sich nicht an eine Regel
+description: Claude hat Quellen erfunden, Text geschrieben, eine Note gegeben oder das Protokoll vergessen.
+labels: ["verhalten"]
+body:
+  - type: dropdown
+    id: weg
+    attributes:
+      label: Wie verwendest du das Setup?
+      options:
+        - Claude Code (Terminal oder Desktop-App)
+        - Claude-App mit Projekt (claude.ai)
+        - Anderer KI-Dienst
+    validations:
+      required: true
+  - type: dropdown
+    id: regel
+    attributes:
+      label: Welche Regel wurde gebrochen?
+      options:
+        - Erfundene Quelle, Zahl oder Seitenangabe
+        - Fertiger Fließtext für die Arbeit
+        - Kein Vorschlag fürs Begleitprotokoll
+        - Note, Prozentwert oder Prognose
+        - Etwas anderes
+    validations:
+      required: true
+  - type: textarea
+    id: verlauf
+    attributes:
+      label: Was hast du geschrieben, was kam zurück?
+      description: Bitte keine persönlichen Daten und keine Passagen aus deiner Arbeit, die du nicht veröffentlichen willst. Ein nachgestelltes Beispiel reicht.
+    validations:
+      required: true

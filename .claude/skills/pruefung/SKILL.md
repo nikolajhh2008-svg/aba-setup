@@ -1,6 +1,6 @@
 ---
 name: pruefung
-description: Präsentation und Diskussion üben – Fragen im Stil der Kommission, Aufbau des Vortrags. Nutzen bei „Präsentation", „Diskussion üben", „Prüfungsfragen", nach der Abgabe.
+description: Präsentation und Diskussion üben – Fragen im Stil der Kommission, Aufbau des Vortrags. Nutzen bei „Präsentation“, „Diskussion üben“, „Prüfungsfragen“, nach der Abgabe.
 license: CC-BY-SA-4.0
 ---
 
@@ -28,7 +28,7 @@ Was regelmäßig schiefgeht:
 - Die Hälfte der Zeit geht für die Grundlagen drauf, die Ergebnisse kommen unter
   Zeitdruck.
 - Die Methode fehlt ganz, obwohl der Raster sie ausdrücklich nennt.
-- Es wird abgelesen. **„Freier Vortrag" steht auf jeder Niveaustufe des Rasters,
+- Es wird abgelesen. **„Freier Vortrag“ steht auf jeder Niveaustufe des Rasters,
   auch auf der untersten** – Ablesen erfüllt keine.
 - Die Folien tragen den Vortrag, statt ihn zu stützen.
 
@@ -37,8 +37,9 @@ Gewichtung an den Minuten, nicht an den Folien.
 
 ### B – Diskussion üben
 
-Du stellst Fragen und führst den Dialog. **Du bewertest nicht.** Keine Note, kein
-„das war eine gute Antwort".
+Du stellst Fragen und führst den Dialog. Während der Übung **kein Kommentar zur
+Antwort** – kein „gute Antwort“, das nimmt der nächsten Frage die Schärfe. Die
+Auswertung kommt am Ende, ehrlich und mit Stelle.
 
 So läuft es ab:
 1. Eine Frage stellen. Eine, nicht drei.
@@ -50,26 +51,32 @@ So läuft es ab:
 
 Die vier Fragetypen, aus denen du mischst:
 
-- **Zum Inhalt:** „Sie schreiben auf Seite 14, dass X. Woraus schließen Sie das?"
+- **Zum Inhalt:** „Sie schreiben auf Seite 14, dass X. Woraus schließen Sie das?“
 - **Zur Methode:** „Warum haben Sie interviewt und nicht befragt? Was hätte die
   andere Methode gezeigt?"
 - **Zum Prozess:** „An welcher Stelle haben Sie Ihre Fragestellung geändert, und
   warum?"
 - **Zu den Hilfsmitteln:** „Wofür haben Sie KI eingesetzt, und was haben Sie mit
-  dem Ergebnis gemacht?" – ein eigenes Kriterium (K3.4). Die Antwort steht im
+  dem Ergebnis gemacht?“ – ein eigenes Kriterium (K3.4). Die Antwort steht im
   Begleitprotokoll, wenn es geführt wurde.
 
+**Die KI-Stellen zuerst.** Geh `mein/ki-stellen.md` durch und frag zu jedem
+Absatz, der aus einem Entwurf stammt, nach wie eine Kommission: „Erklären Sie
+diesen Absatz in eigenen Worten.“ „Warum stützen Sie sich hier auf diese
+Quelle?“ „Was haben Sie am Entwurf geändert, und warum?“ Das ist die Stelle, an
+der eine Arbeit mit KI-Anteil gewonnen oder verloren wird.
+
 Dazu die unangenehmen, die trotzdem kommen:
-- „Was würden Sie heute anders machen?"
-- „Welche Quelle hat Sie am meisten überzeugt, und warum?"
-- „Was ist die stärkste Kritik an Ihrem Ergebnis?"
-- „Was haben Sie weggelassen, und warum?"
+- „Was würden Sie heute anders machen?“
+- „Welche Quelle hat Sie am meisten überzeugt, und warum?“
+- „Was ist die stärkste Kritik an Ihrem Ergebnis?“
+- „Was haben Sie weggelassen, und warum?“
 
 ---
 
 ## Was du nie tust
 
-- Eine Note oder Einschätzung des Niveaus geben
+- Während der Übung werten – die Einschätzung kommt am Ende
 - Loben, um zu motivieren
 - Nachsichtig sein, weil eine Antwort schwerfällt – eine geschonte Übung ist
   keine Übung

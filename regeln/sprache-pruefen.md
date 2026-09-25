@@ -1,240 +1,331 @@
 ---
 name: sprache-pruefen
-beschreibung: Prüfbare Verbotsliste gegen maschinentypisches Deutsch, mit Ersatzformulierungen und ausgewiesener Belegstärke
-version: 1
-stand: 2026-08-01
+beschreibung: Stilprüfung für jeden eigenen Entwurf und jeden geprüften Text – generische, formelhafte Sprache im Deutschen mit ihrer Wirkung auf die Leserin, Ersatzformulierungen und ausgewiesener Belegstärke
+version: 2
+stand: 2026-09-25
 ---
 
-# Marker generischer Maschinensprache im Deutschen
+# Generische und formelhafte Sprache prüfen
 
-Dieses Regelwerk hat zwei Aufgaben. Erstens: die Marker benennen, an denen ein
-deutscher Text nach Sprachmodell klingt. Zweitens – und das ist der wichtigere
-Teil – trennen, welche Gegenmaßnahmen tatsächlich wirken und welche Aberglaube
-sind. Wer die wirkungslosen Maßnahmen mitführt, verbrennt Rechenzeit und
-suggeriert eine Sicherheit, die es nicht gibt.
+Dieses Regelwerk hat zwei Aufgaben. Erstens: die Wendungen und Muster benennen,
+die einen deutschen Fachtext schwerer lesbar machen – weil sie ermüden, die
+Kernaussage verwischen, etwas behaupten, ohne es zu belegen, oder Platz füllen,
+ohne etwas zu sagen. Zweitens – und das ist der wichtigere Teil – trennen, welche
+Gegenmaßnahmen tatsächlich wirken und welche Aberglaube sind. Wer die
+wirkungslosen Maßnahmen mitführt, verbrennt Zeit und suggeriert eine Sicherheit,
+die es nicht gibt.
+
+## Grundregel für jede Rückmeldung
+
+Jeder Befund wird mit seiner **Wirkung auf die Leserin** begründet: was sie beim
+Lesen verliert, wo sie stolpert, welche Frage offenbleibt, welche Behauptung sie
+nicht prüfen kann. Nie mit einer Vermutung darüber, wie der Text entstanden ist.
+Die Muster in diesem Regelwerk kommen in Texten jeder Herkunft vor – in
+Schulaufsätzen, Verwaltungsprosa, Werbetexten und Fachartikeln –, und ihr
+Vorkommen sagt über die Entstehung eines Textes nichts.
+
+So klingt eine Rückmeldung nach diesem Regelwerk:
+
+- „Absatz 3, Sätze 2 bis 5: vier Sätze mit 19 bis 22 Wörtern hintereinander. Der
+  gleiche Takt ermüdet, und die Leserin erkennt nicht, welcher der vier Gedanken
+  der tragende ist. Kürze den Satz, auf den es ankommt.“
+- „Kapitel 2, erster Satz: ‚spielt eine entscheidende Rolle‘ sagt nicht, welche
+  Rolle. Die Leserin muss raten, ob der Faktor etwas verursacht, begrenzt oder nur
+  begleitet. Setz das Verb ein, das du meinst.“
+- „Absatz 5, letzter Satz: Er wiederholt den ersten Satz des Absatzes. Die Leserin
+  liest dieselbe Aussage zweimal und sucht vergeblich nach dem Neuen. Streich ihn
+  oder ersetze ihn durch den Ertrag für die Leitfrage.“
+
+## Prüfliste für jeden Entwurf
+
+Diese Liste misst jeden Entwurf, den das Setup selbst formuliert, **bevor er
+gezeigt wird** – Absatzentwürfe für die Arbeit ebenso wie Rückmeldungen und
+E-Mails. Dieselbe Liste gilt für die Prüfung eines Textes der Person. Ziel ist
+ein Text, der sich gut liest: präzise, sachlich, belegt, von einer Person
+verantwortet. Jeder Punkt nennt Muster, Wirkung und Ersatz. Zeichenfehler (1
+und 2) werden immer behoben; bei allen anderen Punkten heißt ein Treffer: Stelle
+ansehen und entscheiden, nicht mechanisch ersetzen. Details und Belegstärke in
+den Schichten 1 bis 3.
+
+1. **Geviertstrich (U+2014) als Gedankenstrich.** Wirkung: Verstoß gegen die
+   deutsche Norm, sichtbare Lücke im Satzbild. Ersatz: Halbgeviertstrich mit
+   Leerzeichen („Wort – Wort“). [belegt, Sprachnorm]
+2. **Gerade oder englische Anführungszeichen** (U+0022, oder oben-oben mit
+   U+201C am Anfang). Wirkung: uneinheitliches Satzbild, Verstoß gegen die
+   deutsche Norm. Ersatz: „…“ und innen ‚…‘. [belegt, Sprachnorm]
+3. **„nicht nur …, sondern auch …“ als Reflex.** Wirkung: stellt das zweite
+   Glied als Überraschung dar, auch wenn es keine ist; der Satz wird länger, ohne
+   Information zu gewinnen. Ersatz: „und“ oder zwei Sätze; die Konstruktion nur,
+   wenn das zweite Glied tatsächlich unerwartet ist. [normativ]
+4. **Dreierketten aus Adjektiven oder Substantiven** („schnell, günstig und
+   zuverlässig“). Wirkung: verwischt, welche Eigenschaft zählt; belegt wird meist
+   keine. Ersatz: die eine Eigenschaft, auf die es für die Leitfrage ankommt, mit
+   Beleg. [normativ]
+5. **„X ist nicht A, sondern B“ als Spannungsformel.** Wirkung: widerlegt eine
+   Position, die niemand vertritt; die Leserin sucht vergeblich, wer A behauptet.
+   Ersatz: B direkt behaupten und belegen; A nur nennen, wenn eine Quelle A
+   vertritt – dann mit Beleg. [normativ]
+6. **Doppelpunkt-Enthüllung** („Die Antwort: …“, „Das Ergebnis: …“). Wirkung:
+   inszeniert Spannung, wo ein Fachtext mitteilen soll; der Satz hat kein Verb,
+   das die Beziehung klärt. Ersatz: vollständiger Satz („Die Auswertung ergibt,
+   dass …“). [normativ]
+7. **Rhetorische Fragen.** Wirkung: Die Leserin erwartet eine Antwort, bekommt
+   aber eine Behauptung ohne Beleg; der Raster verlangt einen
+   „sachlich-informativen Stil“ (K1.5). Ersatz: die Aussage selbst. Fragen gehören als
+   Forschungs- und Leitfragen in die Arbeit, nicht als Stilmittel. [normativ]
+8. **Schlusssatz, der den Absatz zusammenfasst.** Wirkung: Die Leserin liest
+   dieselbe Aussage zweimal und sucht vergeblich nach dem Neuen. Ersatz: der
+   Ertrag für die Leitfrage – oder streichen. [normativ]
+9. **Gleichförmige Satzlängen.** Wirkung: gleichmäßiger Takt, der ermüdet; kein
+   Satz bekommt Gewicht. Ersatz: Länge variieren, die Kernaussage in einen kurzen
+   Satz. [normativ]
+10. **Gleich gebaute Absätze und Absatzanfänge.** Wirkung: Der Text liest sich
+    wie eine Liste, die Gliederung wirkt schematisch. Ersatz: Absatzlänge nach
+    Inhalt; der erste Satz nennt, was der Absatz leistet. [plausibel]
+11. **Füll-Übergänge** („Darüber hinaus“, „Des Weiteren“, „Zudem“, „Hierbei“,
+    „Nicht zuletzt“). Wirkung: sagen nur, dass noch etwas kommt, nicht, wie es
+    mit dem Vorigen zusammenhängt. Ersatz: ein Übergang, der die Beziehung
+    benennt („dagegen“, „deshalb“, „allerdings“), oder keiner (`schreibweise.md`,
+    Abschnitt 6). [normativ]
+12. **Bedeutungsverstärker** („entscheidend“, „maßgeblich“, „vielschichtig“,
+    „facettenreich“, „zentral“, „wegweisend“). Wirkung: behaupten Gewicht, ohne es
+    zu zeigen; gehäuft nutzen sie sich ab, und am Ende trägt keines mehr. Ersatz:
+    sagen, wofür etwas entscheidend ist und woran man das sieht – oder streichen.
+    Fachbegriffe bleiben („zentrale Fragestellung“ ist der Wortlaut des Rasters).
+    [normativ]
+13. **Leere Wertwörter** („umfassend“, „vielfältig“, „nahtlos“, „präzise“ ohne
+    Wert). Wirkung: Die Leserin kann die behauptete Eigenschaft nicht prüfen.
+    Ersatz: die fehlende Angabe (Umfang, Anzahl, Wert), siehe 2.1. [plausibel]
+14. **Bildsprache statt Fachwort** („Landschaft“, „Reise“, „eintauchen“,
+    „Schlüssel“, „beleuchten“). Wirkung: Das Bild verschweigt, was gemeint ist
+    oder was getan wurde. Ersatz: „Forschungsstand“, „untersuchen“,
+    „Voraussetzung“, „darstellen“. [normativ]
+15. **Ankündigungsfloskeln** („In der heutigen Zeit“, „Es ist wichtig zu
+    beachten, dass“). Wirkung: kündigen an, statt zu sagen; „heute“ ist
+    undatiert. Ersatz: den Inhalt direkt sagen; Zeitangaben datieren („seit
+    2024“). [normativ]
+16. **Hedging-Stapel** („könnte möglicherweise unter Umständen“). Wirkung: Die
+    Leserin erfährt nicht, wie sicher die Aussage ist und warum; jede weitere
+    Einschränkung entwertet die vorige. Ersatz: eine Einschränkung mit Grund
+    („Die Stichprobe umfasst zwölf Cafés; der Befund gilt daher nur für diese.“).
+    [normativ]
+17. **Behauptungswörter statt Beleg** („natürlich“, „bekanntlich“,
+    „offensichtlich“, „zweifellos“). Wirkung: ersetzen einen Beleg durch
+    Selbstverständlichkeit und laden die Kommission zur Nachfrage ein. Ersatz:
+    belegen oder streichen (`schreibweise.md`, Abschnitt 4). [normativ]
+18. **Nominalketten** („Die Durchführung der Überprüfung der …“). Wirkung: Die
+    Leserin muss die Handlung aus Substantiven zurückbauen. Ersatz: das Verb
+    („… wurde überprüft“). [normativ]
+19. **Aufzählung, wo Fließtext hingehört.** Wirkung: Die Beziehungen zwischen den
+    Punkten (weil, obwohl, daraus folgt) fehlen; das Argument zerfällt in
+    Einzelbehauptungen. Ersatz: Fließtext mit Konnektoren. Listen nur für
+    gleichrangige, zählbare Elemente wie Kriterien oder Arbeitsschritte.
+    [normativ]
+20. **Fettdruck im Fließtext.** Wirkung: lenkt, statt zu überzeugen; bei mehreren
+    Hervorhebungen trägt keine mehr, und das Layout wird uneinheitlich (K1.6).
+    Ersatz: Gewicht über Satzbau und Stellung im Absatz; Hervorhebung nur, wo die
+    Vorgabe sie vorsieht. [normativ]
+
+---
 
 ## Belegstärke – wie dieses Regelwerk seine Aussagen kennzeichnet
 
 Jede Regel trägt eine von drei Marken:
 
-- **[belegt]** – durch eine peer-reviewte Studie oder eine amtliche Sprachnorm
-  gedeckt. Die Fundstelle steht dabei.
-- **[plausibel]** – aus Praxisliteratur oder aus einer Studie mit
-  nicht offengelegter Methodik; inhaltlich nachvollziehbar, aber nicht belegt.
-- **[normativ]** – kein Echtheitsmarker, sondern eine Regel guten
-  wissenschaftlichen Schreibens, die unabhängig von der Frage gilt, wer den Text
-  verfasst hat.
+- **[belegt]** – durch eine amtliche Sprachnorm, den Beurteilungsraster oder eine
+  begutachtete Studie gedeckt. Die Fundstelle steht dabei.
+- **[plausibel]** – aus Praxisliteratur oder aus Beobachtung ohne offengelegte
+  Methodik; inhaltlich nachvollziehbar, aber nicht gemessen.
+- **[normativ]** – eine Regel guten wissenschaftlichen Schreibens. Sie braucht
+  keinen weiteren Beleg, weil ihre Wirkung beim Lesen an jedem Satz unmittelbar
+  prüfbar ist.
 
-Das ist kein Formalismus. Die belastbare Forschung zu Sprachmodellmarkern ist
-fast vollständig englischsprachig und auf englische Korpora bezogen. Für
-deutschsprachige Marker existiert im Wesentlichen Praxisliteratur, aber keine
-auffindbare peer-reviewte Korpusstudie. Wer die deutsche Markerliste als belegt
+Das ist kein Formalismus. Die begutachtete Forschung zur Häufigkeit solcher
+Wendungen ist fast vollständig englischsprachig. Für das Deutsche existiert im
+Wesentlichen Praxisliteratur, aber keine auffindbare begutachtete Korpusstudie.
+Die deutschen Wortlisten unten gelten deshalb als [plausibel]. Wer sie als belegt
 ausgibt, behauptet mehr, als die Quellenlage hergibt.
 
-Offene Aufgabe mit hohem Ertrag: ein eigener Messkorpus aus echten
-deutschsprachigen Schülerarbeiten und modellgenerierten Texten zu denselben
-Themen, gerechnet nach der offen dokumentierten Excess-Frequency-Methodik von
-Kobak et al. (Repository: https://github.com/berenslab/llm-excess-vocab). Bis
-das vorliegt, gelten die deutschen Wortlisten unten als [plausibel], nicht als
-belegt.
+Offene Aufgabe: die Schwellenwerte der Schicht 3 an einem Korpus gut lesbarer
+deutschsprachiger Fachtexte kalibrieren. Die offen dokumentierte
+Häufigkeitsmethodik von Kobak et al. (Repository:
+https://github.com/berenslab/llm-excess-vocab) ist dafür ein brauchbares Vorbild.
 
 ---
 
-## Schicht 1 – harte Zeichenfehler, automatisch korrigierbar
+## Schicht 1 – Zeichenfehler, automatisch korrigierbar
 
 Dies ist der einzige Bereich, in dem eine Ersetzung ohne Rückfrage vertretbar
-ist: eindeutige Regelverstöße gegen die deutsche Typografie, ohne
-Bedeutungsrisiko, in Sekunden per Suchen-und-Ersetzen prüfbar.
+ist: eindeutige Verstöße gegen die deutsche Typografie, ohne Bedeutungsrisiko, in
+Sekunden per Suchen-und-Ersetzen prüfbar.
 
-### 1.1 Der Geviertstrich – der schärfste Marker im deutschen Text [belegt]
+Die Wirkung ist in allen Fällen dieselbe: Ein falsches Zeichen stört das
+Satzbild, die Leserin stolpert, und neben richtig gesetzten Zeichen wirkt der Text
+uneinheitlich. Dazu kommt ein benanntes Kriterium: Der Beurteilungsraster fragt in
+K1.5 nach der „richtigen Anwendung der Regeln der Orthografie, Zeichensetzung und
+Grammatik“ (`beurteilung.md`).
+
+### 1.1 Geviertstrich statt Gedankenstrich [belegt, Sprachnorm]
 
 Regel: Im Deutschen ist der Gedankenstrich der **Halbgeviertstrich** U+2013
-(„–") und wird beidseitig durch Leerzeichen abgetrennt. Der **Geviertstrich**
-U+2014 ist in deutschen Fließtexten unüblich; er kommt allenfalls als längerer
-Nullersatzstrich in Tabellen vor („45,— €").
+(„–“) und wird beidseitig durch Leerzeichen abgetrennt. Der **Geviertstrich**
+U+2014 ist in deutschen Fließtexten nicht normgerecht; er kommt allenfalls als
+Nullersatzstrich bei Geldbeträgen in Tabellen vor.
 
-Falsch: `Der Befund war eindeutig` U+2014 `alle drei Werkzeuge versagten.`
-Richtig: `Der Befund war eindeutig – alle drei Werkzeuge versagten.`
+Falsch: `Der Befund war eindeutig` U+2014 `alle drei Proben waren verunreinigt.`
+Richtig: „Der Befund war eindeutig – alle drei Proben waren verunreinigt.“
 
-Warum dieser eine Marker so scharf ist, ergibt sich aus dem Zusammentreffen von
-drei Umständen:
+Wirkung: Der längere Strich reißt eine sichtbare Lücke ins Satzbild. Steht er mit
+Leerzeichen auf beiden Seiten, entspricht er weder der deutschen noch der
+englischen Typografie – der Fehler ist dann doppelt.
 
-1. Er ist im Deutschen nicht normgerecht. Quellen zur Norm:
-   https://de.wikipedia.org/wiki/Halbgeviertstrich und
-   https://www.typolexikon.de/gedankenstrich/ ; amtliches Regelwerk unter
-   https://www.rechtschreibrat.com/
-2. Deutsche Tastaturbelegungen erzeugen ihn nicht, und die Autokorrektur
-   deutscher Textverarbeitung setzt ihn nicht. Ein Mensch, der auf einer
-   deutschen Tastatur schreibt, tippt ihn praktisch nie.
-3. Englischtrainierte Sprachmodelle produzieren ihn massenhaft. Eine Messung der
-   Geviertstrich-Frequenz je 1.000 Wörter ergab für GPT-4.1 den Wert 10,62, für
-   Claude Opus 4.6 den Wert 9,09, für DeepSeek V3 6,95 und für Metas
-   Llama-Modelle 0. Quelle: https://arxiv.org/html/2603.27006v1
+Quellen zur Norm: https://de.wikipedia.org/wiki/Halbgeviertstrich und
+https://www.typolexikon.de/gedankenstrich/ ; amtliches Regelwerk unter
+https://www.rechtschreibrat.com/
 
-Zusatzbefund derselben Quelle: Die Frequenz ist gezielt feinjustierbar – Sam
-Altman hat öffentlich bestätigt, dass sie in ChatGPT-Ausgaben nach Nutzerkritik
-angepasst wurde. Der Marker ist also nicht naturgesetzlich, sondern eine
-Trainingsartefakt-Signatur, die sich ändern kann. Als Prüfregel bleibt er
-trotzdem gültig, weil die deutsche Norm unabhängig davon gilt.
-
-Die dritte Variante ist die schlimmste: Geviertstrich mit Leerzeichen beidseits.
-Diese Mischform aus englischem Zeichen und deutschem Abstand existiert in keiner
-der beiden Typografien und ist damit der eindeutigste Hinweis überhaupt.
+Warum der Fehler häufig ist, steht im Abschnitt „Hintergrund“ am Ende. Für die
+Rückmeldung zählt nur die Norm: Der Strich ist falsch, gleich wie er in den Text
+kam.
 
 Ausnahmen, in denen U+2014 stehen bleiben darf: in Zeichenklassen regulärer
-Ausdrücke, die Altbestand erkennen sollen, und dort, wo der Geviertstrich das
-Gegenbeispiel ist – also in genau diesem Regelwerk.
+Ausdrücke, die ihn finden sollen, und in Regelwerken, die ihn als Gegenbeispiel
+nennen.
 
 ### 1.2 Weitere automatisch korrigierbare Zeichenfehler [belegt, Sprachnorm]
 
-- Gerade Anführungszeichen `"` und `'` statt der typografischen „…" und ‚…'
+- Gerade Anführungszeichen (U+0022 und U+0027) statt der typografischen „…“ und
+  ‚…‘. Häufigster Einzelfall: richtiges „ am Anfang, gerades Zeichen am Ende.
 - Halbgeviertstrich im Gedankenstrich-Kontext ohne umgebende Leerzeichen
 - Doppelte Leerzeichen; Leerzeichen vor Satzzeichen
 - Auslassungspunkte als drei einzelne Punkte statt U+2026
-- Fehlende geschützte Leerzeichen bei „S. 14", „z. B.", „Abb. 3", „Nr. 7",
-  „vgl. S. 22" und bei Maßeinheiten („15 km", „30 %")
-- Bindestrich statt Streckenstrich bei Spannen: „2010-2024" wird zu „2010–2024"
+- Fehlende geschützte Leerzeichen bei „S. 14“, „z. B.“, „Abb. 3“, „Nr. 7“,
+  „vgl. S. 22“ und bei Maßeinheiten („15 km“, „30 %“)
+- Bindestrich statt Streckenstrich bei Spannen: „2010-2024“ wird zu „2010–2024“
   (Halbgeviertstrich, hier ohne Leerzeichen)
 
 ---
 
-## Schicht 2 – Wortlisten und Floskeln, nur markieren, nie ersetzen
+## Schicht 2 – Wendungen, nur markieren, nie ersetzen
 
 Ab hier gilt: Es werden Fundstellen angezeigt und Ersatz vorgeschlagen, aber
-nichts selbsttätig ersetzt. Ein Wort aus der Markerliste kann im Einzelfall
-genau das richtige sein.
+nichts selbsttätig ersetzt. Jedes Wort dieser Listen kann im Einzelfall genau das
+richtige sein. Beanstandet wird es erst, wenn es an einer Stelle steht, an der die
+Leserin eine Angabe erwartet und keine bekommt.
 
-### 2.1 Der belegte englische Befund [belegt]
+### 2.1 Leere Wertwörter [plausibel und normativ]
 
-Die methodisch stärkste Arbeit ist die Excess-Vocabulary-Studie von Kobak et al.
-Sie untersucht über 15 Millionen biomedizinische Abstracts aus PubMed der Jahre
-2010 bis 2024 und überträgt die Methodik der Übersterblichkeitsrechnung auf
-Wortfrequenzen. Befunde:
+Gemeinsame Wirkung: Diese Wörter behaupten eine Eigenschaft, ohne sie zu zeigen.
+Die Leserin kann nicht prüfen, ob „umfassend“ zehn oder tausend Fälle heißt, und
+liest über das Wort hinweg, weil es in jedem beliebigen Text stehen könnte. Die
+Ersetzung besteht deshalb fast nie im Austausch des Wortes, sondern in der
+Angabe, die fehlt.
 
-- Mindestens 13,5 Prozent der Abstracts des Jahres 2024 wurden mit
-  Sprachmodellunterstützung verfasst; in einzelnen Teilkorpora bis zu 40 Prozent.
-- Die Markerwörter des Jahres 2024 bestehen zu 66 Prozent aus Verben und zu
-  14 Prozent aus Adjektiven. Frühere Frequenzverschiebungen (etwa durch Covid)
-  wurden von Substantiven dominiert. Diese Verschiebung zu Verben und Adjektiven
-  erzeugt den charakteristisch blumigen Klang.
-- Extremwerte im Anstieg: „delves" 28-fach, „underscores" 13,8-fach,
-  „showcasing" 10,7-fach.
+- „essenziell“ → „notwendig für X“, oder: streichen und sagen, wofür genau
+- „vielfältig“ → die Vielfalt aufzählen: „in drei Formen: …“
+- „nahtlos“ → streichen; im Fachtext fast immer Werbesprache, die nichts
+  Prüfbares sagt
+- „maßgeschneidert“ → „für X angepasst“, mit Angabe, was angepasst wurde
+- „ganzheitlich“ → streichen oder benennen, welche Aspekte einbezogen sind
+- „umfassend“ → durch den Umfang ersetzen: „alle 14 geprüften Werkzeuge“
+- „präzise“ → durch den Wert ersetzen: „auf zwei Nachkommastellen“
+- „eintauchen“ (in ein Thema) → „untersuchen“, „auswerten“, „analysieren“; das
+  Bild verschweigt, was tatsächlich gemacht wurde
+- „beleuchten“ → „untersuchen“, „darstellen“ – aus demselben Grund
+- „revolutionär“, „bahnbrechend“, „wegweisend“ → streichen; das sind Urteile ohne
+  Maßstab, die die Leserin nicht nachprüfen kann
+- „von entscheidender Bedeutung“ → sagen, wofür es entscheidend ist
 
-Quellen: https://arxiv.org/abs/2406.07016 ,
-https://www.science.org/doi/10.1126/sciadv.adt3813 ,
-https://github.com/berenslab/llm-excess-vocab
+Herkunft der Liste: Praxisliteratur, siehe „Hintergrund“.
 
-Übertragbar auf das Deutsche ist daraus nicht die Wortliste, sondern das
-Strukturmerkmal: **eine Häufung wertender Verben und Adjektive dort, wo ein
-Fachtext Substantive und Sachverhalte erwartet.**
+### 2.2 Ankündigungsfloskeln [normativ]
 
-Eine Übersichtsarbeit zu linguistischen Merkmalen maschinell erzeugter Texte
-nennt zusätzlich: formellerer und unpersönlicherer Stil, höherer Anteil von
-Nomen, Determinierern und Adpositionen, geringerer Anteil von Adjektiven und
-Adverbien, niedrigere lexikalische Vielfalt, kleinerer Wortschatz, repetitive
-Muster. Die Autoren benennen selbst als Forschungslücke, dass die Forschung
-stark auf Englisch und auf GPT-Modelle konzentriert ist. Quelle:
-https://arxiv.org/abs/2510.05136
+Wirkung: Diese Wendungen kündigen eine Aussage an, statt sie zu machen. Die
+Leserin muss den Satz bis zum „dass“ lesen, um zu erfahren, worum es geht, und die
+Ankündigung „wichtig“ ersetzt die Begründung, warum es wichtig ist.
 
-### 2.2 Deutsche Markerwörter [plausibel]
-
-Wiederkehrend genannt in der Praxisliteratur. Je Wort ein tauglicher Ersatz –
-und die Ersetzung besteht fast nie im Austausch des Wortes, sondern in der
-Konkretisierung der Aussage.
-
-- „essenziell" → „notwendig für X", oder: streichen und sagen, wofür genau
-- „vielfältig" → die Vielfalt aufzählen: „in drei Formen: …"
-- „nahtlos" → streichen; im Fachtext fast immer Werbesprache
-- „maßgeschneidert" → „für X angepasst", mit Angabe, was angepasst wurde
-- „ganzheitlich" → streichen oder benennen, welche Aspekte einbezogen sind
-- „umfassend" → durch den Umfang ersetzen: „alle 14 geprüften Werkzeuge"
-- „präzise" → durch den Wert ersetzen: „auf zwei Nachkommastellen"
-- „eintauchen" (in ein Thema) → „untersuchen", „auswerten", „analysieren"
-- „beleuchten" → „untersuchen", „darstellen"
-- „revolutionär", „bahnbrechend", „wegweisend" → streichen; das sind Urteile
-  ohne Maßstab
-- „von entscheidender Bedeutung" → sagen, wofür es entscheidend ist
-
-Quellen (Praxisliteratur, nicht begutachtet):
-https://korrektur.de/ki-texte-erkennen-merkmale-checkliste ,
-https://lillikoisser.at/ki-texte-erkennen/ ,
-https://www.contentconsultants.de/ki-texte-erkennen-warum-man-texte-besser-selbst-schreibt/
-
-### 2.3 Brückenfloskeln [plausibel und normativ]
-
-Diese Wendungen sind unabhängig von ihrer Markerqualität schlechtes
-wissenschaftliches Deutsch: Sie kündigen eine Aussage an, statt sie zu machen.
-
-- „Es ist wichtig zu beachten, dass X." → „X."
-- „Es ist entscheidend hervorzuheben, dass X." → „X."
-- „In der heutigen Zeit / in der heutigen Gesellschaft" → streichen oder
-  datieren: „seit der Novelle 2024"
-- „spielt eine entscheidende Rolle" → das Verb einsetzen, das gemeint ist:
-  „bestimmt", „begrenzt", „ermöglicht", „verhindert"
-- „Insgesamt lässt sich festhalten, dass" → nur behalten, wenn danach etwas
+- „Es ist wichtig zu beachten, dass X.“ → „X.“
+- „Es ist entscheidend hervorzuheben, dass X.“ → „X.“
+- „In der heutigen Zeit / in der heutigen Gesellschaft“ → streichen oder
+  datieren: „seit der Novelle 2024“
+- „spielt eine entscheidende Rolle“ → das Verb einsetzen, das gemeint ist:
+  „bestimmt“, „begrenzt“, „ermöglicht“, „verhindert“
+- „Insgesamt lässt sich festhalten, dass“ → nur behalten, wenn danach etwas
   steht, das nicht schon dasteht
-- „Zusammenfassend lässt sich sagen" → im Fazit überflüssig, weil dort ohnehin
+- „Zusammenfassend lässt sich sagen“ → im Fazit überflüssig, weil dort ohnehin
   zusammengefasst wird
-- „An dieser Stelle sei erwähnt" → erwähnen, ohne es anzukündigen
-- „Nicht zuletzt", „Darüber hinaus", „Des Weiteren" als reine Reihung → durch
+- „An dieser Stelle sei erwähnt“ → erwähnen, ohne es anzukündigen
+- „Nicht zuletzt“, „Darüber hinaus“, „Des Weiteren“ als reine Reihung → durch
   einen Übergang ersetzen, der die logische Beziehung benennt (siehe
-  `schreibweise.md`, Abschnitt 6)
+  `schreibweise.md`, Abschnitt 6). Die Reihung sagt der Leserin nur, dass noch
+  etwas kommt, nicht, wie es mit dem Vorigen zusammenhängt.
 
-Eine Praxisquelle nennt für „spielt eine entscheidende Rolle" 43 Prozent
-Vorkommen in mutmaßlich maschinell erzeugten studentischen Einleitungen gegenüber
-6 Prozent in nachweislich menschlichen. Die Methodik ist nicht offengelegt; die
-Zahl wird hier als **plausibel, nicht belegt** geführt und darf nicht als Beleg
-weiterzitiert werden – schon gar nicht in der eigenen Arbeit.
+### 2.3 Satzmuster [plausibel und normativ]
 
-### 2.4 Satzmuster [plausibel und normativ]
-
-- **„nicht nur …, sondern auch …"** – Zählung je 1.000 Wörter. Die Konstruktion
-  ist nicht falsch, aber in maschineller Prosa stark überrepräsentiert. Ersatz:
-  zwei Sätze, oder die Aufzählung ohne Aufwertungsrahmen.
-  Negativ: „Die Methode ist nicht nur schnell, sondern auch kostengünstig."
-  Positiv: „Die Methode ist schnell und kostet nichts."
+- **„nicht nur …, sondern auch …“** – Zählung je 1.000 Wörter. Die Konstruktion
+  ist nicht falsch. Gehäuft stellt sie jedes zweite Glied als Überraschung dar,
+  auch wenn es keine ist; der Text klingt nach Werbung, und die Sätze werden
+  länger, ohne Information zu gewinnen. Ersatz: zwei Sätze, oder die Aufzählung
+  ohne Aufwertungsrahmen.
+  Negativ: „Die Methode ist nicht nur schnell, sondern auch kostengünstig.“
+  Positiv: „Die Methode ist schnell und kostet nichts.“
 - **Dreiergruppen** aus gleichrangigen Adjektiven oder Substantiven („intuitiv,
-  schnell und effizient"). Ersatz: die Eigenschaft nennen, auf die es ankommt.
-- **Zusammenfassungssatz am Absatzende, der nichts Neues sagt.** Beginnt
-  typischerweise mit „Somit", „Damit", „Folglich", „Insgesamt",
-  „Zusammenfassend". Prüfbar: Warnung, wenn mehr als ein Drittel der Absätze so
-  endet.
-- **Der Antithesen-Rahmen** „Es geht nicht um X, sondern um Y", wenn niemand X
-  behauptet hat.
+  schnell und effizient“). Drei Eigenschaften nebeneinander verwischen, welche
+  zählt, und belegt wird meist keine der drei. Ersatz: die Eigenschaft nennen,
+  auf die es für die Leitfrage ankommt, und sie belegen.
+- **Zusammenfassungssatz am Absatzende, der nichts Neues sagt.** Beginnt oft mit
+  „Somit“, „Damit“, „Folglich“, „Insgesamt“, „Zusammenfassend“. Die Leserin liest
+  dieselbe Aussage zweimal und fragt sich, ob sie etwas übersehen hat. Prüfbar:
+  Warnung, wenn mehr als ein Drittel der Absätze so endet.
+- **Der Antithesen-Rahmen** „Es geht nicht um X, sondern um Y“, wenn niemand X
+  behauptet hat. Die Leserin sucht vergeblich, wer X vertritt, und Y wirkt größer,
+  als es ist, weil es gegen eine Position gestellt wird, die es nicht gibt.
 
 ---
 
-## Schicht 3 – statistische Merkmale, berechenbar ohne Modell
+## Schicht 3 – Rhythmus und Verteilung, berechenbar ohne Modell
 
-Diese Merkmale sind mit einer NLP-Bibliothek in unter einer Sekunde berechenbar
-und kosten nichts. Sie sind der eigentliche Substanzteil der Prüfung, weil sie
-nicht auf Wortlisten angewiesen sind.
+Diese Merkmale sind mit einfachen Zählungen in unter einer Sekunde berechenbar und
+kosten nichts. Sie sind der eigentliche Substanzteil der Prüfung, weil sie nicht
+auf Wortlisten angewiesen sind.
 
-- **Satzlängenvarianz je Absatz.** Der Marker ist nicht die Länge, sondern die
-  Gleichförmigkeit. Startwert für die Warnung: Standardabweichung der
-  Satzlängen innerhalb eines Absatzes unter 4 Wörtern. Der Schwellenwert ist am
-  eigenen Korpus zu kalibrieren. [belegt für Englisch, übertragbar]
+- **Satzlängenvarianz je Absatz.** Das Problem ist nicht die Länge, sondern die
+  Gleichförmigkeit: Sätze gleicher Länge hintereinander ergeben einen
+  gleichmäßigen Takt, in dem kein Satz Gewicht bekommt. Die Leserin ermüdet und
+  erkennt den tragenden Gedanken nicht. Startwert für die Warnung:
+  Standardabweichung der Satzlängen innerhalb eines Absatzes unter 4 Wörtern. Der
+  Schwellenwert ist am eigenen Korpus zu kalibrieren. [normativ, Schwellenwert
+  plausibel]
 - **Absatzlängenverteilung.** Warnung bei drei oder mehr aufeinanderfolgenden
-  Absätzen mit gleicher Satzanzahl. Praxisbeobachtung für maschinelle Prosa:
-  Absätze aus drei bis fünf Sätzen zu je 18 bis 24 Wörtern. [plausibel]
-- **Type-Token-Ratio**, gleitend über 500-Wort-Fenster. Niedrige lexikalische
-  Vielfalt ist ein belegter Marker. [belegt für Englisch]
-- **Wortartenverteilung**: Anteil Nomen und Adpositionen gegen Anteil Adjektive
-  und Adverbien. [belegt für Englisch]
-- **Absatz-Anfangsvarianz**: Wie viele Absätze beginnen mit demselben
-  syntaktischen Muster (Subjekt-Prädikat, Adverbiale, Nebensatz)? [plausibel]
-- **Aufzählungsdreier je 1.000 Wörter.** [plausibel]
-- **Nullstelle Umgangssprache**: Anteil von Redensarten und Idiomen aus einer
-  Referenzliste. Ein Wert von exakt null über 2.000 Wörter ist selbst ein
-  Signal. Zu behandeln als Hinweis, nicht als Fehler – in einer Fachtextsorte ist
-  ein niedriger Wert normal. [plausibel]
+  Absätzen mit gleicher Satzanzahl. Gleich gebaute Absätze lassen die Gliederung
+  schematisch wirken; die Leserin sieht nicht, welcher Absatz mehr trägt.
+  [plausibel]
+- **Type-Token-Ratio** (Verhältnis verschiedener Wörter zur Gesamtwortzahl),
+  gleitend über 500-Wort-Fenster. Ein niedriger Wert heißt: Dieselben Wörter
+  kehren wieder, der Text tritt auf der Stelle. Der Raster nennt auf der
+  Referenzstufe „variantenreiche Wortwahl“ (K1.5, `beurteilung.md`). **Zielkonflikt
+  beachten:** Fachbegriffe sollen durchgehend gleich bleiben (`schreibweise.md`,
+  Abschnitt 7). Ein niedriger Wert, der durch konsequent gleiche Fachbegriffe
+  entsteht, ist richtig und kein Befund. [belegt als Kriterium, Schwellenwert
+  plausibel]
+- **Wortartenverteilung.** Ein hoher Anteil von Nomen und Präpositionen zeigt
+  Nominalstil, der schwer lesbar ist (`schreibweise.md`, Abschnitt 4). Ein hoher
+  Anteil wertender Adjektive und Adverbien zeigt Urteile ohne Maßstab (2.1).
+  [normativ]
+- **Absatz-Anfangsvarianz.** Beginnen viele Absätze mit demselben syntaktischen
+  Muster (Subjekt-Prädikat, Adverbiale, Nebensatz), liest sich der Text wie eine
+  Liste, und die Übergänge zwischen den Gedanken fehlen. [plausibel]
+- **Aufzählungsdreier je 1.000 Wörter.** Wirkung wie in 2.3. [plausibel]
 
 Der Prüfbericht dieser Schicht ist zugleich die Eingabe für den zweiten Durchgang
-(siehe Abschnitt „Was wirkt", Punkt 4).
+(siehe Abschnitt „Was wirkt“, Punkt 4).
 
 ---
 
 ## Was wirkt und was Aberglaube ist
+
+Dieser Teil betrifft zwei Fälle: Texte, die dieses Setup selbst schreibt
+(Absatzentwürfe, Rückmeldungen, Protokollvorschläge, E-Mail-Entwürfe), und die
+Frage, welche Überarbeitungsverfahren einem Text tatsächlich helfen.
 
 ### 1. Wirkt: deterministische Nachbearbeitung auf Zeichenebene
 
@@ -254,20 +345,22 @@ https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agent
 
 Konsequenz: Jede Rollendefinition trägt zwei bis vier ausformulierte
 Positivbeispiele in der Zielsprache. Das ist wirksamer als eine dreißigzeilige
-Verbotsliste.
+Verbotsliste. Und: Beispiele werden nachgesprochen – samt ihrer Begründung. Ein
+Beispiel, das eine Regel falsch begründet, bringt die falsche Begründung in jede
+Antwort. Deshalb begründen alle Beispiele in diesem Regelwerk mit der Wirkung.
 
 ### 3. Wirkt eingeschränkt: Verbotslisten im Systemprompt
 
-Sie funktionieren für einzelne, eindeutig identifizierbare Marker („verwende
-niemals den Geviertstrich"), verlieren aber schnell an Wirkung, je länger die
+Sie funktionieren für einzelne, eindeutig identifizierbare Muster („verwende
+niemals den Geviertstrich“), verlieren aber schnell an Wirkung, je länger die
 Liste wird, und können gegenteilige Effekte haben.
 
 Instruktiver dokumentierter Fall: Bei Claude Opus 5 **erhöht** eine Anweisung,
 nicht zu denken oder nicht zu reasonieren, das Durchsickern von
 `<thinking>`-Markierungen in die sichtbare Ausgabe, statt es zu unterdrücken.
 Die generische Formulierung („keine internen oder System-XML-Tags in der
-Antwort") ist messbar wirksamer als das explizite Benennen. Übertragen: „Vermeide
-das Wort X" kann X salient machen.
+Antwort“) ist messbar wirksamer als das explizite Benennen. Übertragen: „Vermeide
+das Wort X“ kann X salient machen.
 
 Regel für dieses Setup: Verbotslisten kurz halten, generisch formulieren, und
 die Detailprüfung dem Nachzählen überlassen statt der Anweisung.
@@ -294,8 +387,8 @@ funktioniert.
 
 Umsetzung: Pass 1 schreibt. Die Prüfung zählt nach. Pass 2 bekommt konkrete
 Fundstellen („Zeile 14: Geviertstrich; Absätze 2 bis 4: Satzlängenvarianz unter
-Schwelle") und überarbeitet gezielt. **Ein zweiter Durchgang ohne diesen
-Prüfbericht ist Aberglaube** – „schau nochmal drüber, ob es nach KI klingt"
+Schwelle“) und überarbeitet gezielt. **Ein zweiter Durchgang ohne diesen
+Prüfbericht ist Aberglaube** – „schau nochmal drüber, ob es sich gut liest“
 erzeugt Betriebsamkeit und keine Verbesserung.
 
 In diesem Setup liefert `werkzeuge/text-pruefen.py` genau diesen Prüfbericht.
@@ -321,72 +414,126 @@ Bei den aktuellen Anthropic-Modellen sind `temperature`, `top_p` und `top_k`
 entfernt; Anfragen, die sie setzen, werden mit HTTP 400 abgelehnt. Quelle:
 https://platform.claude.com/docs/en/about-claude/models/migration-guide
 
-Jede Anleitung im Netz, die „Temperatur hoch für menschlicheren Klang"
-empfiehlt, ist auf aktuellen Modellen technisch nicht mehr umsetzbar.
+Jede Anleitung im Netz, die über eine höhere Temperatur abwechslungsreichere
+Sprache verspricht, ist auf aktuellen Modellen technisch nicht mehr umsetzbar.
 Stilvarianz läuft über Prompting und Beispiele. Beim Anbieter Mistral existieren
 die Parameter noch – das ist kein Argument für einen Anbieterwechsel, weil der
 behauptete Effekt ohnehin nie belegt war.
 
-### 7. Aberglaube: „Schreibe wie ein Mensch"
+### 7. Aberglaube: pauschale Stilanweisungen
 
-Es gibt keinen Beleg, dass generische Anweisungen dieser Art die messbaren Marker
-senken. Sie verschieben den Text plausibel nur auf ein anderes Standardregister.
-Ein analoger, gut dokumentierter Effekt: Bei Designaufgaben führen generische
-Anweisungen („nicht cremefarben", „sauber und minimalistisch") dazu, dass das
-Modell zu einer anderen festen Palette wechselt statt Varianz zu erzeugen.
-Wirksam sind stattdessen konkrete Spezifikationen oder das Vorschlagen mehrerer
-Richtungen zur Auswahl.
+„Schreib natürlicher“, „schreib lebendiger“: Es gibt keinen Beleg, dass
+Anweisungen dieser Art formelhafte Wendungen seltener machen. Sie verschieben den
+Text plausibel nur auf ein anderes Standardregister. Ein analoger, gut
+dokumentierter Effekt: Bei Designaufgaben führen generische Anweisungen („nicht
+cremefarben“, „sauber und minimalistisch“) dazu, dass das Modell zu einer anderen
+festen Palette wechselt statt Varianz zu erzeugen. Wirksam sind stattdessen
+konkrete Spezifikationen oder das Vorschlagen mehrerer Richtungen zur Auswahl.
 
 ### 8. Unklar: Stilproben der Nutzerin oder des Nutzers
 
 Eine EMNLP-Findings-Studie 2025 untersuchte über 400 reale Autorinnen und Autoren
-und über 40.000 Generierungen je Modell, mit einem Ensemble aus
-Autorschaftszuordnung, Autorschaftsverifikation, Stilabgleich und KI-Erkennung.
-Befund: Sprachmodelle funktionieren gut bei strukturierten Formaten
-(Nachrichten, E-Mail), scheitern aber bei nuanciertem, informellem Schreiben.
-Quellen: https://arxiv.org/abs/2509.14543 ,
+und über 40.000 Generierungen je Modell, ausgewertet mit mehreren Verfahren der
+Autorschafts- und Stilanalyse. Befund: Sprachmodelle treffen den Stil bei
+strukturierten Formaten (Nachrichten, E-Mail) gut, scheitern aber bei
+nuanciertem, informellem Schreiben. Quellen: https://arxiv.org/abs/2509.14543 ,
 https://aclanthology.org/2025.findings-emnlp.532.pdf
 
 Für eine Schularbeit ist die Lage günstiger, als die Studie nahelegt –
 akademisches Deutsch ist ein strukturiertes Format. Aber es gibt keine Daten für
-Deutsch. Die Zusage „schreibt in deinem Stil" ist damit nicht belegbar.
+Deutsch. Die Zusage „schreibt in deinem Stil“ ist damit nicht belegbar.
 Textproben dürfen genutzt werden, aber als Annäherung, nicht als Imitation.
 
 ---
 
 ## Was über Erkennungswerkzeuge gesagt werden darf
 
-Keine Aussage in beide Richtungen. Weder „das ist jetzt unerkennbar" noch eine
-Entwarnung „0 Prozent KI laut Detektor". Beides ist aus derselben Faktenlage
+Keine Aussage in irgendeine Richtung. Weder „das ist jetzt unerkennbar“ noch
+eine Entwarnung nach einem Detektorergebnis. Beides ist aus derselben Faktenlage
 angreifbar, weil die unabhängige Forschung Falsch-Positiv-Raten zwischen 4 und
 über 60 Prozent misst. Belege in `ki-kennzeichnung.md`, Abschnitt 10.
 
-Was gesagt werden darf: Der Text wurde gegen die Merkmale geprüft, die
-sprachwissenschaftlich oder normativ als typisch für generierte Sprache belegt
-sind – vom falschen Gedankenstrich bis zum gleichförmigen Satzrhythmus. Das ist
-eine Aussage über die Prüfung, nicht über ein Detektorergebnis.
+Was gesagt werden darf: „Der Text wurde auf Zeichenfehler, formelhafte Wendungen
+und gleichförmigen Satzrhythmus geprüft, weil diese das Lesen erschweren und die
+Kernaussage verwischen.“ Das ist eine Aussage über die Lesbarkeit – nicht über
+die Entstehung des Textes und nicht über ein Detektorergebnis.
 
-**Und der wichtigere Punkt:** Wer diese Prüfliste benutzt, um Spuren zu
-verwischen, benutzt sie falsch. Der Kontrollmechanismus in Österreich ist nicht
-der Detektor, sondern die Diskussion vor der Kommission und das Begleitprotokoll
-(siehe `ki-kennzeichnung.md`). Die Liste ist dafür da, dass ein selbst
-geschriebener Text nicht unnötig hölzern klingt und dass ein überarbeiteter
-Entwurf wirklich überarbeitet ist – nicht dafür, eine fehlende Kennzeichnung zu
-ersetzen.
+**Und der wichtigere Punkt:** Diese Liste ist dafür da, dass ein selbst
+geschriebener Text sich gut liest und dass ein überarbeiteter Entwurf wirklich
+überarbeitet ist. Sie ersetzt keine Kennzeichnung. Der Kontrollmechanismus in
+Österreich ist nicht der Detektor, sondern die Diskussion vor der Kommission und
+das Begleitprotokoll (siehe `ki-kennzeichnung.md`).
 
 ---
 
 ## Anwendung beim Schreiben
 
-Sinnvoll sind zwei Zeitpunkte, und einer davon ist nicht offensichtlich:
+**Eigene Entwürfe des Setups** werden vor dem Zeigen gegen die Prüfliste oben
+gemessen, bei längeren Passagen zusätzlich mit `werkzeuge/text-pruefen.py`
+(Zwei-Pass-Verfahren, „Was wirkt“, Punkt 4).
+
+**Für Texte der Person** sind zwei Zeitpunkte sinnvoll, und einer davon ist
+nicht offensichtlich:
 
 1. **Nach jedem fertigen Kapitel.** Erst Schicht 1 automatisch beheben, dann die
    Fundstellen aus Schicht 2 und 3 einzeln durchgehen.
-2. **Nicht während des Schreibens.** Wer beim ersten Entwurf schon auf Marker
+2. **Nicht während des Schreibens.** Wer beim ersten Entwurf schon auf Formeln
    achtet, schreibt langsamer und nicht besser. Der Prüflauf gehört in die
    Überarbeitung.
 
 Die Kriterien der dritten Schicht sind binär, nicht skaliert. „Enthält dieser
-Absatz einen Zusammenfassungssatz, der nichts Neues sagt? ja oder nein" ist
-auswertbar. „Natürlichkeit 7 von 10" ist bedeutungslos, weil niemand weiß, was
-eine Verschiebung auf 7,5 bedeuten würde.
+Absatz einen Zusammenfassungssatz, der nichts Neues sagt? ja oder nein“ ist
+auswertbar. „Lesbarkeit 7 von 10“ ist bedeutungslos, weil niemand weiß, was eine
+Verschiebung auf 7,5 bedeuten würde.
+
+---
+
+## Hintergrund: warum diese Wendungen überhand nehmen
+
+Dieser Abschnitt ist nicht für die Rückmeldung bestimmt. Er erklärt, warum die
+Listen oben so aussehen, wie sie aussehen, und warum dieselben Wendungen derzeit
+in so vielen Texten stehen.
+
+**Wertende Verben und Adjektive vermehren sich messbar.** Kobak et al. untersuchen
+über 15 Millionen biomedizinische Abstracts aus PubMed der Jahre 2010 bis 2024 und
+übertragen die Methodik der Übersterblichkeitsrechnung auf Wortfrequenzen. Seit
+2023 steigt die Häufigkeit einzelner Wörter sprunghaft: „delves“ 28-fach,
+„underscores“ 13,8-fach, „showcasing“ 10,7-fach. Die Wörter mit dem stärksten
+Anstieg des Jahres 2024 sind zu 66 Prozent Verben und zu 14 Prozent Adjektive;
+frühere Frequenzverschiebungen (etwa durch Covid) betrafen vor allem Substantive,
+also Sachen. Die Autoren führen den Anstieg auf den verbreiteten Einsatz von
+Sprachmodellen beim Schreiben zurück. Quellen: https://arxiv.org/abs/2406.07016 ,
+https://www.science.org/doi/10.1126/sciadv.adt3813 ,
+https://github.com/berenslab/llm-excess-vocab
+
+Übertragbar auf das Deutsche ist daraus nicht die Wortliste, sondern das
+Strukturmerkmal: **eine Häufung wertender Verben und Adjektive dort, wo ein
+Fachtext Substantive und Sachverhalte erwartet.** Was das beim Lesen anrichtet,
+steht in 2.1.
+
+**Gleichförmigkeit ist in der Forschung beschrieben.** Eine Übersichtsarbeit zu
+sprachlichen Merkmalen generierter Texte nennt unter anderem einen formelleren,
+unpersönlicheren Stil, geringere lexikalische Vielfalt und wiederkehrende Muster.
+Die Autoren benennen selbst als Forschungslücke, dass die Forschung stark auf
+Englisch konzentriert ist. Quelle: https://arxiv.org/abs/2510.05136
+
+**Der Geviertstrich kommt über Umwege in deutsche Texte.** Deutsche
+Tastaturbelegungen erzeugen ihn nicht, und die Autokorrektur deutscher
+Textverarbeitung setzt ihn nicht. Er gelangt über Kopien aus englischsprachigen
+Vorlagen, englisch eingestellte Software und Textgeneratoren hinein [plausibel];
+eine Messung der Geviertstrich-Frequenz je 1.000 Wörter zeigt, dass manche
+Sprachmodelle ihn sehr häufig setzen und andere gar nicht. Quelle:
+https://arxiv.org/html/2603.27006v1
+
+**Die deutschen Wortlisten stammen aus Praxisratgebern**, die sie als
+Erkennungsmerkmale führen. Dieses Regelwerk übernimmt die Wörter, nicht diesen
+Zweck. Quellen (nicht begutachtet):
+https://korrektur.de/ki-texte-erkennen-merkmale-checkliste ,
+https://lillikoisser.at/ki-texte-erkennen/ ,
+https://www.contentconsultants.de/ki-texte-erkennen-warum-man-texte-besser-selbst-schreibt/
+
+**Warum das für die Rückmeldung nichts ändert.** Dieselben Wendungen standen lange
+vor diesen Werkzeugen in Schulaufsätzen, Verwaltungstexten und Werbung, und was
+häufig gelesen wird, wird nachgeahmt. Ein einzelner Text lässt sich an ihnen
+nicht zuordnen – und die Rückmeldung muss es auch nicht, weil die Wirkung auf die
+Leserin dieselbe ist, gleich wer den Satz geschrieben hat.

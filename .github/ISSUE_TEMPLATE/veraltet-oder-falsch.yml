@@ -1,0 +1,25 @@
+name: Regel veraltet oder falsch
+description: Eine Aussage in einem Regelwerk stimmt nicht (mehr) mit der Quelle überein.
+labels: ["regelwerk"]
+body:
+  - type: input
+    id: datei
+    attributes:
+      label: Welche Datei, welcher Abschnitt?
+      placeholder: regeln/fristen-und-abgabe.md, Abschnitt 3
+    validations:
+      required: true
+  - type: textarea
+    id: aussage
+    attributes:
+      label: Was steht dort?
+      description: Bitte wörtlich hereinkopieren.
+    validations:
+      required: true
+  - type: textarea
+    id: richtig
+    attributes:
+      label: Was stimmt stattdessen – und woher weißt du das?
+      description: Am besten mit Link zur Primärquelle (ahs-aba.at, RIS, Ministerium, Handout deiner Schule). Eine Auskunft deiner Schule gilt für deine Schule – schreib dazu, ob sie allgemein gilt.
+    validations:
+      required: true

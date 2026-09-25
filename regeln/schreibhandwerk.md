@@ -40,7 +40,7 @@ des Themas, persönliche Motivation.
 ## 1.2 Einleitung: das CARS-Modell
 
 Die brauchbarste Bauanleitung stammt von John Swales (*Genre Analysis*, 1990) und
-heißt CARS – „Create a Research Space". Drei Züge:
+heißt CARS – „Create a Research Space“. Drei Züge:
 
 **Zug 1 – Ein Gebiet abstecken.** Was ist der Gegenstand, und was weiß man schon?
 Nicht die Weltgeschichte, sondern der Forschungsstand in wenigen Sätzen, mit
@@ -91,7 +91,7 @@ gegenüber dem **Zuschnitt der eigenen Arbeit**. Drei tragfähige Formen:
 > aussagekräftig ist.
 
 ⚠️ Der letzte Satz zeigt, worauf es beim Aufbau-Absatz ankommt: Er **begründet
-die Reihenfolge**. „Kapitel 2 behandelt die Theorie, Kapitel 3 die Methode" ist
+die Reihenfolge**. „Kapitel 2 behandelt die Theorie, Kapitel 3 die Methode“ ist
 ein Inhaltsverzeichnis in Prosa und leistet nichts.
 
 ## 1.3 Theorie- und Grundlagenkapitel
@@ -115,11 +115,11 @@ realistische und ausreichende Ziel** – und der Sprung von Stufe 1 auf Stufe 3 
 der größte Qualitätsgewinn, den man in einem Kapitel erzielen kann.
 
 Woran man Stufe 1 erkennt: Die Kapitelstruktur folgt den Namen der Autoren.
-„3.1 Bauer, 3.2 Hofer und Reiter, 3.3 Steiner." Woran man Stufe 3 erkennt: Die
+„3.1 Bauer, 3.2 Hofer und Reiter, 3.3 Steiner.“ Woran man Stufe 3 erkennt: Die
 Struktur folgt den Aspekten, und in jedem Abschnitt kommen mehrere Quellen vor.
 
 Ein zweiter belegter Befund derselben Arbeit: Anfängerinnen und Anfänger sparen
-Gegenpositionen aus oder referieren sie „ohne abstützende Belege". Wer eine
+Gegenpositionen aus oder referieren sie „ohne abstützende Belege“. Wer eine
 Gegenposition ordentlich darstellt, hebt sich damit sichtbar ab.
 
 ## 1.4 Methodenkapitel
@@ -132,7 +132,7 @@ ausgewählt, wie erhoben, wie ausgewertet – und **warum so und nicht anders**.
 Begründung ist der Teil, der regelmäßig fehlt und in der Diskussion abgefragt
 wird.
 
-„Ich habe Literatur gelesen" ist keine Methodenbeschreibung. „Ich habe in drei
+„Ich habe Literatur gelesen“ ist keine Methodenbeschreibung. „Ich habe in drei
 Datenbanken mit den Suchbegriffen X und Y gesucht, 34 Treffer erhalten und
 diejenigen ausgewählt, die A, B und C erfüllen" ist eine.
 
@@ -263,7 +263,7 @@ Das ist der Motor einer Argumentation.
 > nicht erhoben. **Die fehlende Angabe** begrenzt daher die Aussagekraft des
 > Abendwerts, nicht aber die des Morgenwerts.
 
-Vier Sätze, kein einziges „Des Weiteren" – und der Leser wird trotzdem geführt.
+Vier Sätze, kein einziges „Des Weiteren“ – und der Leser wird trotzdem geführt.
 
 Der Fehlerfall, der entsteht, wenn Absätze aus Notizen zusammengesetzt statt
 geschrieben werden:
@@ -287,7 +287,7 @@ Vier Einbauformen, von der schwächsten zur stärksten:
 
 1. **Angehängt:** „Der Schlafbedarf sinkt in der Pubertät nicht (Bauer 2018,
    S. 44)." – korrekt, aber die Quelle bleibt stumm.
-2. **Genannt:** „Bauer (2018, S. 44) hält fest, dass …" – die Quelle bekommt eine
+2. **Genannt:** „Bauer (2018, S. 44) hält fest, dass …“ – die Quelle bekommt eine
    Stimme.
 3. **Eingebaut:** „Was Bauer (2018, S. 44) als Phasenverschiebung beschreibt,
    betrifft …" – der eigene Satz trägt das Zitat.
@@ -328,24 +328,24 @@ markiert den Geltungsanspruch.
 Eine Skala für die heikelste Stelle jeder Arbeit – den Übergang vom Befund zur
 Deutung, von stark nach schwach:
 
-1. „Die Daten zeigen, dass …" – nur, wenn sie genau das zeigen.
-2. „Die Daten legen nahe, dass …"
-3. „Die Daten deuten darauf hin, dass …"
-4. „Es spricht einiges dafür, dass …"
-5. „Es ist denkbar, dass …"
-6. „Ob …, lässt sich anhand der vorliegenden Daten nicht entscheiden."
+1. „Die Daten zeigen, dass …“ – nur, wenn sie genau das zeigen.
+2. „Die Daten legen nahe, dass …“
+3. „Die Daten deuten darauf hin, dass …“
+4. „Es spricht einiges dafür, dass …“
+5. „Es ist denkbar, dass …“
+6. „Ob …, lässt sich anhand der vorliegenden Daten nicht entscheiden.“
 
 **Stufe 6 ist keine Kapitulation, sondern häufig der ehrlichste und damit stärkste
 Satz einer Schularbeit.**
 
 Weitere Mittel, nach dem Infotext der Hochschule Osnabrück (Czech):
 - Absolutheit mildern: „einige Publikationen entbehren *einer hinreichenden*
-  theoretischen Fundierung" statt „jeglicher"
-- offenlassen, dass es auch für Ungenanntes gilt: „vorrangig", „insbesondere",
-  „exemplarisch"
-- Verallgemeinerung einschränken: „üblicherweise", „meist", „im Rahmen dieser
+  theoretischen Fundierung" statt „jeglicher“
+- offenlassen, dass es auch für Ungenanntes gilt: „vorrangig“, „insbesondere“,
+  „exemplarisch“
+- Verallgemeinerung einschränken: „üblicherweise“, „meist“, „im Rahmen dieser
   Arbeit"
-- Modalverben: „soll" und „kann" statt „wird" und „ist"
+- Modalverben: „soll“ und „kann“ statt „wird“ und „ist“
 
 https://www.hs-osnabrueck.de/fileadmin/HSOS/Homepages/LearningCenter/Dateien/Toolbox/TuE/Heckenausdruecke_in_wissenschaftlichen_Texten.pdf
 
@@ -358,17 +358,17 @@ distanziert, sondern als hätte niemand ihn verantwortet.
 
 Drei Sorten von Wertung, drei verschiedene Behandlungen:
 
-1. **Fachliche Einordnung** („Die Stichprobe ist zu klein, um X zu tragen") –
+1. **Fachliche Einordnung** („Die Stichprobe ist zu klein, um X zu tragen“) –
    gehört in den Text, mit Begründung. Das ist keine Meinung, sondern Analyse.
-2. **Eigene Position zur Sachfrage** („Ich halte den späteren Beginn für richtig")
+2. **Eigene Position zur Sachfrage** („Ich halte den späteren Beginn für richtig“)
    – gehört ausschließlich in einen ausgewiesenen Abschnitt der Diskussion oder
    des Fazits, markiert als eigene Position.
-3. **Geschmack und Empörung** („erschreckend", „unglaublich") – gehört nicht in
+3. **Geschmack und Empörung** („erschreckend“, „unglaublich“) – gehört nicht in
    die Arbeit.
 
-Marker, die Wertung verraten, wo keine hingehört: Adjektive wie „erschreckend",
-„beeindruckend", „katastrophal"; Adverbien wie „natürlich", „zweifellos",
-„leider"; Verben wie „entlarven", „zugeben müssen".
+Marker, die Wertung verraten, wo keine hingehört: Adjektive wie „erschreckend“,
+„beeindruckend“, „katastrophal“; Adverbien wie „natürlich“, „zweifellos“,
+„leider“; Verben wie „entlarven“, „zugeben müssen“.
 
 ---
 
@@ -378,8 +378,8 @@ Marker, die Wertung verraten, wo keine hingehört: Adjektive wie „erschreckend
 je zu sagen, was es bedeutet. Erkennungszeichen: Man kann den Absatz zu einem
 anderen Thema umschreiben, ohne dass die Struktur bricht.
 
-**2. Belegzuschreibung ohne Quelle.** „Die Forschung geht davon aus", „Studien
-zeigen", „es wird allgemein angenommen" – ohne Angabe, welche. Das ist der
+**2. Belegzuschreibung ohne Quelle.** „Die Forschung geht davon aus“, „Studien
+zeigen", „es wird allgemein angenommen“ – ohne Angabe, welche. Das ist der
 gefährlichste Satztyp der ganzen Arbeit: Er sieht aus wie ein Beleg und ist eine
 Behauptung. Regel: Entweder eine Quelle dazuschreiben oder den Satz streichen.
 
@@ -391,8 +391,8 @@ dass eine Leitfrage unbeantwortet bleibt. Streichen.
 Text zeigt, dass gelesen wurde, und nicht, dass gedacht wurde. Regel: Auf jeden
 referierten Absatz kommt mindestens ein Satz, der einordnet.
 
-**5. Wechselnde Terminologie.** Abwechselnd „Detektor", „Erkennungswerkzeug" und
-„Prüfsoftware" – im journalistischen Text eine Tugend, im wissenschaftlichen ein
+**5. Wechselnde Terminologie.** Abwechselnd „Detektor“, „Erkennungswerkzeug“ und
+„Prüfsoftware“ – im journalistischen Text eine Tugend, im wissenschaftlichen ein
 Fehler, weil es drei Gegenstände suggeriert. Einmal festlegen, dann durchhalten.
 
 ---

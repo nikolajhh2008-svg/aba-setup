@@ -1,12 +1,12 @@
 # Start hier
 
-Für alle, die noch nie mit Claude gearbeitet haben. Zehn Minuten, dann läuft es.
+Für alle, die noch nie so mit einer KI gearbeitet haben. Zehn Minuten, dann läuft es.
 
 ---
 
 ## Was du brauchst
 
-Ein Claude-Konto und diesen Ordner. Sonst nichts.
+Ein Konto bei Claude oder ChatGPT und diesen Ordner. Sonst nichts.
 
 Es gibt zwei Wege. **Weg A ist der bequemere**, wenn du dich traust, ein Programm
 zu installieren. **Weg B** braucht keine Installation, nur einen Browser.
@@ -58,17 +58,17 @@ funktionieren genauso. Aber diese Wörter treffen direkt:
 
 ---
 
-## Weg B: Claude im Browser (claude.ai)
+## Weg B: Claude oder ChatGPT im Browser
 
 Funktioniert ohne Installation. Einmal einrichten, danach ist es fast dasselbe.
 
-Die Anleitung dafür steht in **fuer-die-claude-app/ANLEITUNG.md**. Kurz: ein
-Projekt anlegen, einen vorbereiteten Text in die Projektanweisungen kopieren, die
-Regelwerke ins Projektwissen hochladen.
+Die Anleitung dafür steht in **fuer-die-app/ANLEITUNG.md**. Kurz: ein
+Projekt anlegen, einen vorbereiteten Text in die Anweisungen kopieren, die fünf
+Dateien aus `fuer-die-app/wissen/` hochladen. Geht auch im Gratis-Tarif.
 
 ---
 
-## Die drei Dateien, die dir gehören
+## Die Dateien, die dir gehören
 
 Alles, was du schreibst, liegt in `mein/`:
 
@@ -87,10 +87,12 @@ kopiert zum Prüfen einzelne Kapitel herein oder legt die Datei daneben.
 
 ## Was du wissen solltest, bevor du anfängst
 
-**Du bekommst keine fertigen Kapitel.** Das ist kein Versehen. Sieben der
-dreizehn Beurteilungskriterien werden mündlich geprüft – vor einer Kommission,
-die nachfragt, warum du etwas so geschrieben hast. Ein Absatz, den du nicht
-selbst gedacht hast, kostet dich dort mehr, als er dir jetzt erspart.
+**Claude schreibt mit dir – Absatz für Absatz, nicht in einem Rutsch.** Das ist
+kein Versehen. Sieben der dreizehn Beurteilungskriterien werden mündlich
+geprüft, vor einer Kommission, die nachfragt, warum etwas so dasteht. Einen
+Absatz, den du mitgebaut hast, kannst du verteidigen. Deshalb fragt Claude nach
+jedem Absatz nach, und jede Stelle aus einem Entwurf landet in
+`mein/ki-stellen.md`.
 
 **KI-Nutzung ist erlaubt, aber sie muss dokumentiert und gekennzeichnet werden.**
 Das sind zwei verschiedene Dinge, und beide sind Pflicht. Was genau, steht in
@@ -112,7 +114,7 @@ deine Betreuungsperson etwas anderes sagt, gilt das. Immer.
 **Claude kennt die Regeln nicht.** Prüfe, ob du wirklich in diesem Ordner
 arbeitest. In der App: Bist du im richtigen Projekt?
 
-**Claude schreibt dir doch ganze Absätze.** Sag: „Lies CLAUDE.md, Abschnitt 2.2."
+**Claude schreibt dir doch ganze Absätze.** Sag: „Lies CLAUDE.md, Abschnitt 2.2.“
 
 **Claude nennt Literatur, die du nicht findest.** Frag: „Woher hast du diese
 Angabe?" Wenn keine Quelle kommt, ist sie erfunden. Nicht übernehmen und Claude

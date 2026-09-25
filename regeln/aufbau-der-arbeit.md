@@ -1,8 +1,8 @@
 ---
 name: aufbau-der-arbeit
 beschreibung: Gliederung und Pflichtbestandteile einer abschließenden Arbeit (ABA) an österreichischen AHS – was in jeden Teil gehört, was nicht, und woran Arbeiten typisch scheitern
-version: 1
-stand: 2026-08-01
+version: 2
+stand: 2026-09-25
 ---
 
 # Aufbau einer abschließenden Arbeit
@@ -10,9 +10,17 @@ stand: 2026-08-01
 Geltungsbereich: abschließende Arbeit (ABA) an österreichischen AHS nach
 Prüfungsordnung AHS, BGBl. II Nr. 174/2012 in der Fassung BGBl. II Nr. 297/2024.
 Schwerpunkt ist der forschende Zugang mit schriftlicher Arbeit; die Variante
-„gestalterisches Vorhaben mit Dokumentation“ steht in Abschnitt 8.
+„gestalterisches Vorhaben mit Dokumentation“ steht in Abschnitt 14.
 Verordnung: https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007845
 Plattform: https://www.ahs-aba.at/schueler/planen/elemente-einer-aba
+
+Rechtsstatus-Marken an den Kernaussagen: **[Verordnung]** Prüfungsordnung AHS ·
+**[Handreichung/FAQ]** Handreichungen und FAQ des Bildungsministeriums auf
+ahs-aba.at, nicht rechtsverbindlich · **[Verwaltungspraxis]** ABA-Portal ·
+**[nicht amtlich geregelt]** fachliche Empfehlung dieses Regelwerks. Wichtig für
+dieses Regelwerk: Die Verordnung nennt Einleitung, Hauptteil und Schlusskapitel
+nur beim Namen. Was sie leisten sollen, steht ausschließlich in den
+Handreichungen.
 
 ## 1. Pflichtbestandteile
 
@@ -20,19 +28,21 @@ Plattform: https://www.ahs-aba.at/schueler/planen/elemente-einer-aba
 Dokumentation gemäß § 7 Abs. 1 Z 2 hat jedenfalls ein Titelblatt, ein Abstract,
 ein Inhaltsverzeichnis, eine Einleitung, einen Hauptteil, ein Schlusskapitel und
 ein Literatur- und Quellenverzeichnis zu enthalten.“ Sieben Teile, und es sind
-genau sieben. Fehlt einer, ist die Arbeit formal unvollständig.
+genau sieben **[Verordnung]**. Fehlt einer, ist die Arbeit formal unvollständig.
 
 Zwei Teile stehen nicht in dieser Liste und werden trotzdem gebraucht.
 
-Ein **Methodenkapitel** ist nicht ausdrücklich vorgeschrieben, aber praktisch
-unverzichtbar. § 8 Abs. 1a beschreibt die forschende Arbeit als etwas, das eine
-„schriftliche Arbeit unter Beschreibung der angewandten Methoden und Reflexion
-der Ergebnisse” sein *kann* – das ist eine Definition mit „kann”, kein Gebot.
-Der eigentliche Grund steht woanders: Der Beurteilungsraster bewertet den
-„weitgehend angemessenen Einsatz von Methoden”, und § 8 Abs. 1 verlangt, dass die
-„sichere Anwendung von Arbeitstechniken und Methoden unter Beweis gestellt” wird.
-Beides lässt sich nur beurteilen, wenn im Text steht, wie vorgegangen wurde. Das
-Kapitel lebt in der Einleitung oder im Hauptteil.
+Ein **Methodenkapitel** als eigene Überschrift ist nicht vorgeschrieben, die
+**Beschreibung der Methoden** aber schon. § 8 Abs. 1a: „Eine forschende Arbeit
+kann eine schriftliche Arbeit unter Beschreibung der angewandten Methoden und
+Reflexion der Ergebnisse oder das Ergebnis eines forschenden Prozesses unter
+Nutzung von medialen Formaten sein.“ Das „kann“ wählt zwischen diesen beiden
+Formen; wer die schriftliche Form wählt, beschreibt die angewandten Methoden
+**[Verordnung]**. Dazu verlangt § 8 Abs. 1, dass die „sichere Anwendung von
+Arbeitstechniken und Methoden unter Beweis gestellt“ wird, und die Handreichung
+legt die Beschreibung von Arbeitstechniken und Methoden in den Hauptteil
+**[Handreichung/FAQ]**. Ob daraus ein eigenes Kapitel wird oder ein Abschnitt in
+Einleitung oder Hauptteil, ist offen **[nicht amtlich geregelt]**.
 
 Eine **Diskussion** ist rechtlich nicht als eigener Teil vorgeschrieben, gehört
 aber inhaltlich zwingend irgendwohin – als eigenes Kapitel vor dem Schlusskapitel
@@ -44,25 +54,29 @@ Quellen voneinander ab: Dieselbe Seite listet das **Abbildungsverzeichnis** unte
 den erforderlichen Teilen, die Verordnung verlangt es in § 8 Abs. 4 nicht. Wer
 Abbildungen hat, legt eines an – die Diskrepanz löst man nicht durch Weglassen.
 
-Dazu das **Hilfsmittelverzeichnis** – offiziell optional, praktisch bei jeder
-KI-Nutzung angezeigt. Es folgt laut KI-FAQ 3.3 auf das Literatur- und
-Quellenverzeichnis „(ggf. Abbildungsverzeichnis, Abkürzungsverzeichnis)”, steht
-also nach allen anderen Verzeichnissen.
+Dazu das **Hilfsmittelverzeichnis** – offiziell optional und im Rechtsbestand
+nicht vorgesehen **[Handreichung/FAQ]**, praktisch bei jeder KI-Nutzung
+angezeigt. Es folgt laut KI-FAQ 3.3 auf das Literatur- und Quellenverzeichnis
+„(ggf. Abbildungsverzeichnis, Abkürzungsverzeichnis)“, steht also nach allen
+anderen Verzeichnissen.
 
 **Mit abgegeben, aber kein Kapitel der Arbeit:** Das Begleitprotokoll ist Pflicht
-nach § 9 Abs. 2 Prüfungsordnung AHS, wird beigelegt und im ABA-Portal als eigene
-PDF-Datei hochgeladen; Inhalt sind Arbeitsablauf, Hilfsmittel und Hilfestellungen,
-und wörtlich: „Sofern KI-Anwendungen genutzt werden, muss dies kenntlich gemacht
-werden.“ Die rechtliche Erklärung – in der KI-FAQ auch „Eigenständigkeitserklärung“
-genannt, beide Bezeichnungen sind amtlich – wird in Österreich nicht am Ende,
-sondern bereits bei der Themeneinreichung in der vorletzten Schulstufe
-unterschrieben. Beide gehören nicht ins Inhaltsverzeichnis.
+nach § 9 Abs. 2 Prüfungsordnung AHS **[Verordnung]**, wird beigelegt und im
+ABA-Portal als eigene PDF-Datei hochgeladen **[Verwaltungspraxis]**; Inhalt sind
+Arbeitsablauf, Hilfsmittel und Hilfestellungen, und wörtlich: „Sofern
+KI-Anwendungen genutzt werden, muss dies kenntlich gemacht werden.“ Die
+rechtliche Erklärung – in der KI-FAQ auch „Eigenständigkeitserklärung“ genannt,
+beide Bezeichnungen sind amtlich – wird in Österreich nicht am Ende, sondern
+bereits bei der Themeneinreichung in der vorletzten Schulstufe unterschrieben;
+sie ist Portal-Pflicht, keine Vorschrift der Verordnung **[Verwaltungspraxis]**.
+Beide gehören nicht ins Inhaltsverzeichnis.
 
 ## 2. Umfang: es gibt kein gesetzliches Limit
 
 Die offizielle FAQ: „Eine Mindest- oder Höchstgrenze des Umfangs der
 schriftlichen Arbeit bzw. der Dokumentation des Entstehungsprozesses ist in der
-Prüfungsordnung AHS nicht festgelegt.“
+Prüfungsordnung AHS nicht festgelegt.“ Das ist ein geprüfter Negativbefund: Die
+Verordnung enthält keine Umfangsnorm für die Arbeit **[Verordnung]**.
 https://www.ahs-aba.at/lehrpersonen/faqs/faqs-zur-abschliessenden-arbeit
 
 Die verbreitete Zahl „40.000 bis 60.000 Zeichen“ stammt aus der Zeit der
@@ -76,9 +90,11 @@ welchen Umfang sie erwartet.“ Falsch: „Deine Arbeit muss zwischen 40.000 und
 
 ## 3. Titelblatt
 
-Hinein: Titel exakt so, wie er nach der Zustimmung der Schulleitung im ABA-Portal
-steht, gegebenenfalls Untertitel, Name, Klasse, Schule mit Adresse,
-Betreuungsperson, Ort und Abgabejahr, Bezeichnung „Abschließende Arbeit“. Nicht
+Hinein, laut Handreichung: Thema der Arbeit, Name, Klasse, Name und Adresse der
+Schule, Name der Betreuungsperson, **Abgabedatum** **[Handreichung/FAQ]**. Der
+Titel steht exakt so da, wie er nach der Zustimmung der Schulleitung im
+ABA-Portal steht; gegebenenfalls Untertitel. Das Ministerium stellt ein Muster
+bereit (`ABA_Titelblatt_Muster.docx` auf ahs-aba.at). Nicht
 hinein: ein gegenüber dem Portal abgewandelter Titel, Bilder ohne Absprache,
 Seitenzahl. Typischer Fehler: Der Titel weicht vom eingereichten ab. Das ist kein
 Formalienstreit – der genehmigte Titel erscheint wörtlich im
@@ -88,7 +104,13 @@ Reifeprüfungszeugnis und ist nach der Zustimmung nicht mehr änderbar.
 
 § 8 Abs. 5 Prüfungsordnung AHS: Umfang „zirka 1 000 bis 1 500 Zeichen, inklusive
 Leerzeichen“, Inhalt sind Thema, Problemformulierung und wesentliche Ergebnisse,
-Sprache deutsch oder englisch.
+Sprache deutsch oder englisch **[Verordnung]**.
+
+Die Handreichung ergänzt: als vierten Inhalt eine kurze Darstellung der
+methodischen Vorgehensweise; Präsens; direkt nach dem Titelblatt, vor Vorwort
+und Inhaltsverzeichnis, ohne Kapitelnummer; keine Gliederungspunkte; ohne die
+Arbeit verständlich **[Handreichung/FAQ]**. Das erste nummerierte Kapitel ist
+deshalb „1 Einleitung“.
 
 ⚠️ Ein dritter Satz derselben Bestimmung wird oft übersehen: Wer die Arbeit nach
 § 8 Abs. 6 in einer lebenden Fremdsprache verfasst, muss das Abstract
@@ -97,7 +119,9 @@ eines.
 
 Hinein, in dieser Reihenfolge: worum es geht, welches Problem oder welche
 Forschungsfrage bearbeitet wird, wie vorgegangen wurde, was herauskam. Präsens,
-unpersönlich, verständlich für jemanden, der die Arbeit nicht gelesen hat.
+verständlich für jemanden, der die Arbeit nicht gelesen hat. Eine Vorschrift zur
+grammatischen Person (Ich-Form oder unpersönlich) gibt es für das Abstract
+nicht **[nicht amtlich geregelt]**; es gilt, was die Betreuungsperson vorgibt.
 
 Nicht hinein: Zitate, Fußnoten, Literaturangaben, unerklärte Abkürzungen,
 Ankündigungen statt Ergebnisse, Sätze über die Wichtigkeit des Themas,
@@ -128,7 +152,9 @@ welches Messdesign nötig wäre, um ihn aufzulösen.“
 ## 5. Inhaltsverzeichnis
 
 Hinein: alle Kapitel und Unterkapitel mit exakt der Nummerierung und dem
-Wortlaut aus dem Text, mit Seitenzahlen; ebenso Verzeichnisse und Anhang. Nicht
+Wortlaut aus dem Text, mit Seitenzahlen; ebenso Verzeichnisse und Anhang.
+Gliederung dezimal (1, 1.1, 1.1.1), in der Regel nicht mehr als drei Ebenen
+**[Handreichung/FAQ]**. Nicht
 hinein: Titelblatt und Inhaltsverzeichnis selbst, Kapitel, die es im Text nicht
 gibt. Typische Fehler: Automatisches Verzeichnis nicht aktualisiert, deshalb
 weichen Seitenzahlen oder Überschriften ab; uneinheitliche Gliederungstiefe;
@@ -140,16 +166,33 @@ ein 3.2.
 Aufgabe: von einem konkreten Anlass zur Forschungsfrage führen und den Weg durch
 die Arbeit ankündigen.
 
-Hinein, in dieser Reihenfolge: Hinführung mit Anlass, Forschungsstand in wenigen
+Was die Handreichung verlangt **[Handreichung/FAQ]**: „jedenfalls eine
+Hinleitung zum Thema und Informationen zur Vorgehensweise bzw. zum Aufbau der
+Arbeit“, im Einzelnen fünf Punkte – das Thema wird vorgestellt; die Wahl des
+Themas wird „umfassend und nachvollziehbar begründet (eine persönliche
+Verbundenheit zum Thema ist dabei ebenso gültig wie eine beobachtete
+gesellschaftliche Relevanz)“; die Bedeutung des Themas wird dargelegt
+(persönlich, gesellschaftlich, wissenschaftlich); Fragestellung und Leitfragen
+werden erläutert; Vorgehensweise und Aufbau werden dargestellt.
+https://www.ahs-aba.at/lehrpersonen/betreuung-beurteilung/arbeitsprozess-begleiten
+
+Die persönliche Motivation gehört also **in die Einleitung**, als Teil der
+Begründung der Themenwahl – nicht ins Vorwort. Das Vorwort dient laut
+Handreichung nur „Danksagungen für Unterstützung oder einer Widmung“.
+
+Hinein, in dieser Reihenfolge: Hinführung mit Anlass und Begründung der
+Themenwahl, gern auch persönlich; Bedeutung des Themas; Forschungsstand in wenigen
 Sätzen und erkennbarer Lücke; die Forschungsfrage wörtlich als Frage und
 typografisch auffindbar; die drei bis fünf Leitfragen; die Eingrenzung, also was
 die Arbeit ausdrücklich nicht behandelt und warum; ein kurzer Methodenabsatz oder
 der Verweis auf das Methodenkapitel; der Aufbauüberblick, der jedem Kapitel eine
-Leitfrage zuordnet.
+Leitfrage zuordnet. Die Reihenfolge ist eine Empfehlung **[nicht amtlich
+geregelt]**.
 
-Nicht hinein: Ergebnisse, auch nicht angedeutet. Ebenso wenig persönliche
-Lebensgeschichte (die gehört ins Vorwort, wenn überhaupt), Danksagungen,
-Lexikondefinitionen, Behauptungen über die Wichtigkeit des Themas ohne Beleg.
+Nicht hinein: Ergebnisse, auch nicht angedeutet. Ebenso wenig Danksagungen (die
+gehören ins Vorwort), eine Lebensgeschichte, die mit der Themenwahl nichts zu tun
+hat, Lexikondefinitionen, Behauptungen über die Wichtigkeit des Themas ohne
+Beleg.
 Typische Fehler: Die Einleitung beginnt bei Adam und Eva („Seit Anbeginn der
 Menschheit …“); die Forschungsfrage steht nur sinngemäß im Fließtext; der
 Aufbauüberblick zählt Kapitelüberschriften auf, statt ihren Zweck zu benennen.
@@ -166,9 +209,11 @@ zurück.“
 
 ## 7. Methodenkapitel
 
-Warum es auch bei reiner Literaturarbeit nötig ist: § 8 Abs. 1a verlangt die
-„Beschreibung der angewandten Methoden“, und eine Literaturarbeit hat eine
-Methode – Auswahl, Prüfung und Auswertung von Quellen. Wer keine beschreibt,
+Warum es auch bei einer Literaturarbeit nötig ist: Zur schriftlichen forschenden
+Arbeit gehört nach § 8 Abs. 1a die „Beschreibung der angewandten Methoden“
+(Abschnitt 1) **[Verordnung]**, und eine Literaturarbeit hat eine Methode –
+Auswahl, Prüfung und Auswertung von Quellen. FAQ 2.4 nennt genau das als ihre
+Eigenleistung **[Handreichung/FAQ]**. Wer keine beschreibt,
 behauptet implizit, seine Quellen seien zufällig zusammengekommen. Genau das ist
 der Angriffspunkt in der Diskussion vor der Prüfungskommission.
 
@@ -178,8 +223,8 @@ Ausschlusskriterien), wie ausgewertet wurde, welche Grenzen das Vorgehen hat.
 
 Nicht hinein: Lehrbuchreferate über Methodenlehre allgemein, Ergebnisse, breit
 ausgeführte Methoden, die erwogen, aber nicht angewendet wurden. Typischer
-Fehler: Die Methode wird benannt statt beschrieben. Ausführlich im Regelwerk
-„methodik-und-empirie“.
+Fehler: Die Methode wird benannt statt beschrieben. Ausführlich in
+`methodik.md`.
 
 ## 8. Hauptteil
 
@@ -222,8 +267,8 @@ Arbeit; offene Fragen für eine Anschlussarbeit.
 
 Nicht hinein: neue Belege, die vorher nicht vorkamen; Entschuldigungen für die
 eigene Arbeit; Wertungen ohne offengelegten Maßstab. Typische Fehler:
-Widersprüche zwischen Quellen werden verschwiegen, weil sie das Bild stören – das
-kostet die Diskussionsnote, und die Kommission findet sie ohnehin. Und „Grenzen
+Widersprüche zwischen Quellen werden verschwiegen, weil sie das Bild stören – die
+Kommission findet sie ohnehin und fragt in der Diskussion danach. Und „Grenzen
 der Arbeit“ wird zur Floskelliste statt zur konkreten Aussage.
 
 Negativbeispiel: „Aufgrund des begrenzten Umfangs konnten nicht alle Aspekte
@@ -237,12 +282,21 @@ entfällt.“
 
 ## 10. Schlusskapitel
 
-Der gesetzliche Name ist „Schlusskapitel“; „Fazit“ und „Schluss“ sind als
-Überschrift gebräuchlich und zulässig.
+Der Name in der Verordnung ist „Schlusskapitel“ **[Verordnung]**; „Fazit“ und
+„Schluss“ sind als Überschrift gebräuchlich und zulässig.
+
+Was die Handreichung verlangt **[Handreichung/FAQ]**: eine Zusammenfassung der
+Ergebnisse und Erkenntnisse; Schlussfolgerungen und weiterführende Fragen;
+gegebenenfalls einen Ausblick; und eine **Schlussreflexion** – „Die
+Verfasserin/der Verfasser reflektiert ihre/seine Erkenntnisse und die
+Arbeitstechniken und Methoden, die zur Beantwortung der Fragestellung geführt
+haben“. Der Beurteilungsraster (Variante A, K1, Kriterium 3) nennt dasselbe als
+„Reflexion der Ergebnisse und Erkenntnisse sowie des Arbeitsprozesses“.
 
 Hinein: die Antwort auf die Forschungsfrage, in einem Absatz und ausdrücklich als
 Antwort erkennbar; danach die Leitfragen verdichtet, der Rückbezug auf die
-Einleitung und ein knapper Ausblick.
+Einleitung, die Schlussreflexion – was hat das eigene Vorgehen geleistet, wo
+stieß es an Grenzen, was würde man anders machen – und ein knapper Ausblick.
 
 Nicht hinein: neue Belege, neue Quellen, neues Material, erstmals genannte
 Zahlen. Ebenso wenig eine Wiederholung des Abstracts, eine Zusammenfassung jedes
@@ -289,35 +343,76 @@ Bilddateien können im ABA-Portal nicht hochgeladen werden; sie sind den
 gedruckten Exemplaren auf einem Datenträger beizulegen, mit Vermerk in der
 Arbeit. https://www.ahs-aba.at/schueler/abschliessen/abgabe-der-arbeit
 
-**Hilfsmittelverzeichnis.** Hinein je Eintrag: Name des Werkzeugs samt URL,
-Einsatzbereich, Zweck, gegebenenfalls relevante Prompts. Es erfasst nicht nur KI,
-sondern auch Bild-, Ton- und Videoprogramme oder Geräte, sofern sie wesentlich
-zum Arbeitsprozess beigetragen haben. Nicht hinein: die vollständige
-Prompt-Historie, die die KI-FAQ ausdrücklich als nicht erforderlich bezeichnet.
+**Hilfsmittelverzeichnis** **[Handreichung/FAQ]**. Die amtliche Vorlage
+(`ABA_Hilfsmittelverzeichnis.docx` auf ahs-aba.at) hat drei Spalten:
+„Hilfsmittel/Tool (ggf. inkl. URL)“, „Einsatzbereich & Zweck“ und „Relevanter
+Prompt (falls zutreffend)“, und am Ende den Bestätigungssatz: „Ich bestätige,
+dass alle von mir im Rahmen der abschließenden Arbeit eingesetzten digitalen
+(technischen) Hilfsmittel/Tools vollständig im vorliegenden
+Hilfsmittelverzeichnis dokumentiert wurden.“ Es erfasst nicht nur KI, sondern
+auch Bild-, Ton- und Videoprogramme, 3D-Werkzeuge „oder auch physische Geräte
+wie 3D-Drucker“, „sofern sie wesentlich zum Arbeitsprozess beigetragen haben“
+(KI-FAQ 3.3). Es ergänzt das Begleitprotokoll, ersetzt aber weder dieses noch die
+Kennzeichnung an der Textstelle. Nicht hinein: die vollständige Prompt-Historie,
+die die KI-FAQ ausdrücklich als nicht erforderlich bezeichnet.
 
-**Reihenfolge in der fertigen Arbeit:** Titelblatt, Abstract,
-Inhaltsverzeichnis, gegebenenfalls Vorwort, Einleitung, Methodenkapitel,
-Hauptteil, gegebenenfalls Diskussion, Schlusskapitel, Literatur- und
-Quellenverzeichnis, dann die weiteren Verzeichnisse, zuletzt der Anhang. Die
-Position von Vorwort und Abstract wird an Schulen unterschiedlich gehandhabt; wo
-Betreuungsperson oder schulinterner Leitfaden etwas vorgeben, gilt das.
+**Reihenfolge in der fertigen Arbeit** laut Handreichung **[Handreichung/FAQ]**:
+Titelblatt, Abstract, gegebenenfalls Vorwort, Inhaltsverzeichnis, Einleitung als
+Kapitel 1, Hauptteil (mit Methodenbeschreibung und gegebenenfalls Diskussion),
+Schlusskapitel, Literatur- und Quellenverzeichnis, dann die weiteren
+Verzeichnisse (Abbildungen, Abkürzungen, Hilfsmittel), zuletzt Anhang und
+Glossar. Wo Betreuungsperson oder schulinterner Leitfaden etwas anderes
+vorgeben, gilt das.
 
-## 12. Die drei KI-Pflichten, sauber getrennt
+## 12. Formale Gestaltung – Empfehlungen der Handreichung
 
-- **Dokumentation** im Begleitprotokoll, also neben der Arbeit: immer, wenn
-  KI-generierte Inhalte einfließen oder weiterverarbeitet werden – einschließlich
-  Themenfindung, Leitfragen und Gliederung.
+Keine dieser Angaben steht in der Verordnung; es sind Empfehlungen des
+Ministeriums **[Handreichung/FAQ]**, und **die Schule oder die Betreuungsperson
+entscheidet**. Steht in `mein/schulvorgaben.md` etwas anderes, gilt das.
+
+- Format DIN A4; linker Rand ca. 2,5 cm plus ca. 1 cm Bundsteg, rechter Rand 2
+  bis 2,5 cm; vorzugsweise linksbündiger Flattersatz.
+- Eine gut lesbare Schrift (Beispiel der Handreichung: Calibri), höchstens zwei
+  Schriftarten; 12 pt für den Text, 10 pt für Fußnoten.
+- Text 1,5-zeilig, Fußnoten einzeilig. Zitate ab drei Zeilen als eingerückter
+  Block.
+- Überschriften durch Fettdruck und Schriftgrad, Hervorhebungen im Fließtext
+  kursiv.
+- Alle Bilder und Tabellen nummeriert und beschriftet, im Text darauf verwiesen,
+  Quellen in einem Verzeichnis am Ende.
+- Gliederung höchstens drei Ebenen (Abschnitt 5).
+- Seitennummerierung in einer von zwei Varianten: Das Titelblatt zählt als
+  Seite 1 ohne Nummer, Abstract, Vorwort und Inhaltsverzeichnis zählen mit, ohne
+  Seitenzahl; oder Abstract, Vorwort und Inhaltsverzeichnis römisch nummeriert,
+  die Einleitung beginnt mit der arabischen 1.
+
+Quelle: https://www.ahs-aba.at/lehrpersonen/betreuung-beurteilung/arbeitsprozess-begleiten
+
+**Gendern.** FAQ 4.5 zur abschließenden Arbeit: „Eine gendersensible Verwendung
+von Sprache ist anzustreben.“ Aber: „Eine generelle Verpflichtung dazu gibt es
+allerdings nicht. Die Verwendung von geschlechtsspezifischen bzw.
+geschlechtsneutralen Formulierungen ist nicht beurteilungsrelevant.“
+**[Handreichung/FAQ]** Eine Vereinbarung darüber trifft man mit der
+Betreuungsperson. https://www.ahs-aba.at/lehrpersonen/faqs/faqs-zur-abschliessenden-arbeit
+
+## 13. Die drei KI-Pflichten, sauber getrennt
+
+- **Dokumentation** im Begleitprotokoll, also neben der Arbeit: dass KI genutzt
+  wurde, ist nach § 9 Abs. 2 kenntlich zu machen **[Verordnung]**; wann genau –
+  immer, wenn KI-generierte Inhalte einfließen oder weiterverarbeitet werden,
+  einschließlich Themenfindung, Leitfragen und Gliederung – sagt die KI-FAQ 3.1
+  **[Handreichung/FAQ]**.
 - **Kennzeichnung** an der Textstelle: bei Inhalten, die mit KI erstellt und in
   die Arbeit integriert wurden, ähnlich wie Zitate, durch Werkzeug und Datum, zum
   Beispiel „Microsoft Copilot, 12.11.2025“. Sie gilt „unabhängig davon, ob die
-  Inhalte unverändert übernommen oder nachträglich bearbeitet wurden“
-  – Umschreiben hebt sie nicht auf.
+  Inhalte unverändert übernommen oder nachträglich bearbeitet wurden“ –
+  Umschreiben hebt sie nicht auf (KI-FAQ 4.2) **[Handreichung/FAQ]**.
 - **Verzeichnis** in der Arbeit: Hilfsmittelverzeichnis, nie
-  Literaturverzeichnis.
+  Literaturverzeichnis (KI-FAQ 4.3) **[Handreichung/FAQ]**.
 
 https://www.ahs-aba.at/lehrpersonen/faqs/faqs-zum-einsatz-von-ki-tools
 
-## 13. Variante: gestalterisches Vorhaben mit Dokumentation
+## 14. Variante: gestalterisches Vorhaben mit Dokumentation
 
 § 7 Abs. 1 Prüfungsordnung AHS lässt zwei Formen zu: entweder eine schriftliche
 Arbeit oder „das Ergebnis eines Prozesses und die schriftliche Dokumentation
@@ -357,10 +452,10 @@ beiden Aussagen einander widersprechen und eine musikalische Überblendung diese
 Widerspruch geglättet hätte. Die zuerst geschnittene Fassung mit Klavierunterlage
 habe ich nach dem Rohschnitt verworfen.“
 
-Bei Interviewanteil gelten zusätzlich die Standards aus dem Regelwerk
-„methodik-und-empirie“, insbesondere die schriftliche Einwilligung nach DSGVO.
+Bei Interviewanteil gelten zusätzlich die Standards aus `methodik.md`,
+insbesondere die schriftliche Einwilligung nach DSGVO.
 
-## 14. Prüfliste vor der Abgabe
+## 15. Prüfliste vor der Abgabe
 
 - Alle sieben Pflichtteile nach § 8 Abs. 4 vorhanden?
 - Abstract 1.000 bis 1.500 Zeichen inklusive Leerzeichen, mit Thema, Problem und

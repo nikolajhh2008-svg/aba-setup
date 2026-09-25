@@ -82,7 +82,7 @@ Skill: `gliederung`
 die du hast, tatsächlich durchführen kannst.
 
 Kurze Etappe, oft mit Etappe 1 oder 3 zusammen erledigt – aber sie fällt auf,
-wenn sie fehlt. „Ich habe Literatur gelesen" ist keine Methodenbeschreibung.
+wenn sie fehlt. „Ich habe Literatur gelesen“ ist keine Methodenbeschreibung.
 Wer Interviews führt, braucht Einverständniserklärung, Leitfaden und Transkript,
 und zwar bevor das Interview stattfindet.
 
@@ -103,10 +103,11 @@ Zwei Regeln, die zusammengehören:
 - **Rohfassung heißt Rohfassung.** Wer den ersten Absatz siebenmal überarbeitet,
   hat nach zwei Wochen einen guten Absatz und keine Arbeit.
 
-Hier gilt die Grenze dieses Setups am schärfsten: Du bekommst Rückmeldung zu
-Absätzen, die du geschrieben hast. Keine fertigen Absätze. Der Grund steht in
-`regeln/beurteilung.md` – sieben der dreizehn Kriterien werden mündlich geprüft,
-und dort trägt nur, was man selbst gedacht hat.
+So läuft es mit Claude: erst das Material (Leitfrage, Quellen mit Seitenzahl,
+deine Aussage in einem Satz), dann der Plan des Kapitels, dann Absatz für
+Absatz – jeder Entwurf gegen die Stilprüfliste geprüft, jede Stelle in
+`mein/ki-stellen.md` festgehalten. Nach jedem Absatz eine Rückfrage an dich,
+denn in der Diskussion musst du jeden davon erklären können.
 
 Wie im Deutschen wissenschaftlich formuliert wird: `regeln/schreibweise.md`
 
@@ -127,7 +128,7 @@ sie werden nicht gemischt:
    Beziehungen oder Füllwörter?
 3. **Sprache:** Modus, Tempus, Satzlängen, generische Wendungen. Hier läuft
    `werkzeuge/text-pruefen.py` – die Sprachprüfung wirkt nur mit einer echten
-   Fundstellenliste, nicht mit dem Auftrag „schau nochmal drüber".
+   Fundstellenliste, nicht mit dem Auftrag „schau nochmal drüber“.
 4. **Form:** Zitierweise durchgehend gleich? Literaturverzeichnis deckungsgleich
    mit dem Text, in beide Richtungen? Alle KI-Stellen gekennzeichnet?
 
@@ -149,7 +150,7 @@ der dreizehn Beurteilungskriterien betreffen die mündlichen Teile.** Wer gut
 schreibt und schlecht präsentiert, verliert mehr als die Hälfte der
 Bewertungsgrundlage.
 
-„Freier Vortrag" steht auf jeder Niveaustufe des Rasters. Ablesen erfüllt keine.
+„Freier Vortrag“ steht auf jeder Niveaustufe des Rasters. Ablesen erfüllt keine.
 
 Ein eigenes Kriterium (K3.4) verlangt, den Einsatz der eigenen Hilfsmittel
 mündlich zu begründen – wer KI verwendet hat, muss erklären können, wofür und
@@ -168,5 +169,5 @@ Skill: `protokoll`
 
 **Die Betreuung.** Vor jedem Termin drei konkrete Fragen aufschreiben, nach dem
 Termin festhalten, was vereinbart wurde. Der Raster bewertet ausdrücklich die
-„Berücksichtigung von Hilfestellungen" – eine Rückmeldung, die man ignoriert,
+„Berücksichtigung von Hilfestellungen“ – eine Rückmeldung, die man ignoriert,
 kostet zweimal.

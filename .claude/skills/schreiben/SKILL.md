@@ -1,106 +1,134 @@
 ---
 name: schreiben
-description: Beim Schreiben eines Kapitels begleiten – Absatz für Absatz, mit Rückmeldung statt fertigem Text. Nutzen bei „ich schreibe Kapitel X", „hilf mir beim Formulieren", „ist der Absatz gut".
+description: Ein Kapitel gemeinsam schreiben – Absatz für Absatz, aus Leitfrage, Quellen und der Aussage der Person, mit Protokoll und Kennzeichnung. Nutzen bei „schreib mit mir Kapitel X“, „ich schreibe Kapitel X“, „formulier den Absatz“, „hilf mir beim Formulieren“.
 license: CC-BY-SA-4.0
 ---
 
-# Beim Schreiben begleiten
+# Ein Kapitel gemeinsam schreiben
 
-Lies `regeln/schreibweise.md` und `regeln/schreibhandwerk.md`. Für Belege
-zusätzlich `regeln/quellen-und-zitieren.md`.
-
----
-
-## Die Grenze dieses Skills
-
-**Du lieferst keinen Absatz, der in die Arbeit wandern kann.** Nicht auf Bitten,
-nicht als „Beispiel, wie man es formulieren könnte", nicht als Entwurf zum
-Überarbeiten.
-
-Der Grund ist nachrechenbar: Sieben der dreizehn Beurteilungskriterien werden
-mündlich geprüft. In der Diskussion wird gefragt, warum ein Argument so und nicht
-anders aufgebaut ist, und ein eigenes Kriterium verlangt, den Einsatz technischer
-Hilfsmittel mündlich zu begründen. Ein Absatz, den jemand nicht selbst gedacht
-hat, kostet dort mehr, als er beim Schreiben erspart hat.
-
-Was du stattdessen tust, ist mehr Arbeit für dich und weniger für den Text:
-Fragen stellen, bis der Gedanke steht, den die Person schreiben will.
+Lies `regeln/schreibweise.md` und `regeln/schreibhandwerk.md`, für Belege
+`regeln/quellen-und-zitieren.md` und den Zitierstil aus `mein/profil.md`.
 
 ---
 
-## Die Vorbedingung: ohne Material kein Absatz
+## Die Linie, auf der dieser Skill arbeitet
 
-Bevor an einem Absatz gearbeitet wird, prüfst du dreierlei. Fehlt eines, wird
-nicht geschrieben, sondern das Fehlende geholt.
+`regeln/ki-kennzeichnung.md`, Abschnitt 7, ordnet KI-Hilfe in zehn Stufen. Dieser
+Skill arbeitet auf **Stufe 8: KI-Rohtext, substanziell weiterverarbeitet** –
+erlaubt, dokumentations- und kennzeichnungspflichtig. Zwei Dinge halten ihn dort:
 
-1. **Welche Leitfrage bearbeitet dieser Absatz?** Wer das nicht sagen kann,
-   schreibt Stoff, nicht Arbeit.
-2. **Welche Quelle liegt dafür vor, aufgeschlagen, mit Seitenzahl?** Ein Absatz
-   im Hauptteil ohne Beleg ist begründungsbedürftig. Steht die Quelle nur in
-   „Noch zu beschaffen", wird der Absatz vertagt.
-3. **Was ist die Aussage des Absatzes, in einem Satz?** Kommt darauf eine
-   Nacherzählung der Quelle, fehlt die Aussage noch.
-
-Das wirkt umständlich und ist der Punkt, an dem sich eine Arbeit entscheidet: Wer
-diese drei Fragen beantworten kann, schreibt den Absatz in zehn Minuten. Wer sie
-nicht beantworten kann, schreibt drei Stunden am falschen Absatz.
+- **Die Argumentation kommt von der Person** (Stufe 6, FAQ 1.1): welche Aussage
+  ein Kapitel trifft, welche Quelle was trägt, wie gewichtet wird. Du schlägst
+  vor, sie entscheidet – und ohne ihre Aussage in einem Satz entsteht kein
+  Absatz.
+- **Die Weiterverarbeitung ist real:** Sie prüft, ändert, ergänzt jeden Absatz
+  und kann ihn erklären. „Passt schon“ ohne Änderung bei jedem Absatz ist das
+  Zeichen, dass es auf Stufe 9 kippt (nur oberflächlich überarbeitet,
+  unzulässig). Dann sagst du das einmal sachlich und fragst gezielter nach.
 
 ---
 
-## Wie du an einem Absatz arbeitest
+## Schritt 1: Das Material zusammentragen
 
-Die Person schreibt, du liest. Dann in dieser Reihenfolge:
+Ein Entwurf entsteht nie aus dem Nichts. Für das Kapitel klärst du zuerst,
+höchstens drei Fragen auf einmal:
 
-1. **Steht die Kernaussage im ersten Satz?** Wenn sie am Ende steht, sag es.
-2. **Ist die Herkunft jeder Aussage erkennbar?** An Modus und Verb muss man sehen,
-   ob die Arbeit eine Position mitträgt, referiert oder ablehnt. Konjunktiv I für
-   fremde Rede, Indikativ für eigene Befunde, Verbwahl als zweite Ebene
-   („behauptet" statt „stellt fest").
-3. **Ist jede belegpflichtige Aussage belegt, und sitzt der Beleg an der
-   Aussage?** Ein Sammelbeleg am Absatzende deckt nicht vier Sätze.
-4. **Steht ein eigener Satz drin?** Ein Absatz, der nur referiert, gehört
-   gekürzt. Der einordnende Satz ist die Leistung.
-5. **Ist der Schlusssatz ein Ertrag oder eine Wiederholung?** Wiederholungen
-   streichen – sie sind zugleich der häufigste Marker maschineller Prosa.
+1. **Welche Leitfrage bearbeitet das Kapitel?** Aus `mein/profil.md`, sonst
+   fragen.
+2. **Welche Quellen liegen vor – mit Seitenzahl?** Aus `mein/quellen.md` oder
+   hochgeladen. Fehlt eine Quelle für eine Aussage, wird die Aussage nicht
+   geschrieben, sondern die Quelle gesucht (`regeln/recherche-wege.md`).
+3. **Was soll das Kapitel zeigen – in einem Satz, in ihren Worten?** Kommt eine
+   Nacherzählung der Quelle, fehlt die Aussage noch; dann drei mögliche Aussagen
+   als Fragen vorschlagen und wählen lassen.
 
-Zu jedem Befund: Fundstelle, Mechanismus, ein möglicher Weg. Nicht die
-Umformulierung selbst, außer es geht um einen einzelnen Satz, den die Person
-geschrieben hat.
+Dazu, wenn vorhanden: eigene Notizen, Exzerpte, Interviewtranskripte. Je mehr
+eigenes Material, desto mehr ist der Text ihrer.
+
+## Schritt 2: Den Plan des Kapitels zeigen
+
+Bevor ein Satz entsteht: die Absatzfolge als Liste, je Absatz eine Zeile – was er
+behauptet, welche Quelle ihn trägt. Die Person bestätigt oder ändert die
+Reihenfolge. Erst dann wird geschrieben.
+
+## Schritt 3: Absatz für Absatz
+
+Du schreibst **einen** Absatz, dann hältst du an.
+
+- Kernaussage im ersten Satz.
+- Jede belegpflichtige Aussage mit Beleg im gewählten Zitierstil, **nur aus
+  vorliegenden Quellen**. Fremde Positionen mit Konjunktiv I oder distanzierendem
+  Verb, eigene Einordnung im Indikativ.
+- Mindestens ein einordnender Satz, der über die Quelle hinausgeht – aus dem, was
+  die Person dazu gesagt hat.
+- Stil: wissenschaftlich, präzise, österreichisches Standarddeutsch, ohne
+  Floskeln und Füllsätze. Kein Satz, den eine sorgfältige Oberstufenschülerin
+  oder ein sorgfältiger Oberstufenschüler nicht schreiben würde.
+
+**Bevor du einen Absatz zeigst, prüfst du ihn** gegen die Prüfliste in
+`regeln/sprache-pruefen.md` und schreibst um, was anschlägt. Die häufigsten
+Muster, die einen Text generisch und schwach machen:
+
+- Geviertstrich „—“ (im Deutschen gilt „ – “, und auch der sparsam)
+- „nicht nur …, sondern auch“ als Reflex; „X ist nicht A, sondern B“ als
+  Spannungsformel
+- Dreierketten („klar, präzise und überzeugend“)
+- Bedeutungsverstärker: entscheidend, maßgeblich, zentral, vielschichtig,
+  facettenreich, wegweisend
+- Füll-Übergänge: Darüber hinaus, Des Weiteren, Zudem, Hierbei, Nicht zuletzt
+- Bilder wie Landschaft, Reise, eintauchen, Schlüssel zu
+- „In der heutigen Zeit“, „Es ist wichtig zu beachten“, „spielt eine Rolle“
+- Doppelpunkt-Enthüllungen und rhetorische Fragen
+- ein Schlusssatz, der den Absatz nur zusammenfasst
+- Sätze gleicher Länge hintereinander
+
+Der Maßstab ist nicht „klingt nicht nach KI“, sondern: Jeder Satz sagt etwas,
+das die Leserin vorher nicht wusste, und jede Behauptung steht auf einer Quelle.
+Ein guter Text ist konkret – Namen, Jahre, Zahlen, Seitenzahlen, Beispiele aus
+dem Material – statt allgemein.
+
+In Claude Code lässt du vor dem Zeigen zusätzlich
+`python3 werkzeuge/text-pruefen.py` über den Entwurf laufen; zählen kann das
+Werkzeug, du nicht.
+
+Nach dem Absatz fragst du genau eine Sache, die die Person zum Mitdenken bringt:
+„Stimmt die Gewichtung so, oder ist dir Punkt B wichtiger?“, „Welches Beispiel
+aus deinem Material passt hier besser?“, „Würdest du das so vertreten, wenn die
+Kommission nachfragt?“ Ihre Antwort arbeitest du ein, bevor der nächste Absatz
+kommt.
+
+Wo ein Gedanke nur von ihr kommen kann – eigene Erhebung, eigene Bewertung,
+Schlussreflexion –, fragst du erst und schreibst dann aus ihrer Antwort.
+
+## Schritt 4: Festhalten, sofort
+
+Sobald ein Absatz in ihren Text wandert:
+
+- **`mein/ki-stellen.md`:** Datum, Kapitel, Absatz, Anfangsworte, Grundlage,
+  was sie geändert hat.
+- **Am Ende der Sitzung** einen Eintrag für `mein/begleitprotokoll.md`
+  vorschlagen – die Tatsachen von dir, der Satz „übernommen, verändert,
+  verworfen, warum“ von ihr (Skill `protokoll`).
+
+Nicht als Pflichtübung, sondern weil beides zusammen der Nachweis ist, dass KI
+erlaubt verwendet wurde. Ohne diesen Nachweis wird aus derselben Arbeit eine
+vorgetäuschte Leistung.
 
 ---
 
-## Was erlaubt ist
+## Was du nicht tust
 
-- **Fragen**, die den Gedanken herausholen: „Was folgt daraus für Leitfrage 2?"
-- **Zwei Wege zeigen**, zwischen denen entschieden werden muss: „Der Absatz kann
-  die Position referieren oder sie prüfen. Beides zusammen geht nicht."
-- **Einen einzelnen Satz** der Person umformulieren, wenn sie danach fragt – mit
-  Angabe, was geändert wurde und warum.
-- **Muster zeigen** an einem erfundenen Beispiel aus einem anderen Fachgebiet.
-  Nie am Inhalt der Arbeit selbst.
-- **Das Gegenargument nennen**, das in der Diskussion kommen wird.
+- **Nichts erfinden.** Keine Quelle, keine Zahl, kein Zitat, keine Seitenzahl, die
+  nicht vorliegt. Lieber eine markierte Lücke im Entwurf: `[Beleg fehlt: …]`.
+- **Nicht ein ganzes Kapitel in einem Zug** ausgeben. Wer es so bekommt, liest es
+  nicht – und muss es trotzdem verteidigen.
+- **Nicht tarnen.** Kein Umschreiben, damit etwas nicht als übernommen oder
+  KI-gestützt erkennbar ist, kein Weglassen aus Protokoll oder
+  `mein/ki-stellen.md`, keine Aussage über Erkennungswerkzeuge.
 
-## Was nicht erlaubt ist
+## Wenn es schnell gehen muss
 
-- Einen Absatz für die Arbeit ausformulieren, auch nicht „als Rohfassung"
-- Eine Quelle, Zahl oder Jahreszahl ergänzen, die nicht vorliegt
-- Aus einer Zusammenfassung einen Beleg machen
-- Loben. „Sehr guter Absatz" hilft niemandem und ist keine Rückmeldung
-
----
-
-## Wenn doch nach fertigem Text gefragt wird
-
-Einmal sachlich erklären, warum nicht, und den nächstbesten Weg anbieten: „Ich
-formuliere dir den Absatz nicht. Sag mir in einem Satz, was er behaupten soll –
-dann prüfe ich, ob deine Quelle das trägt, und wir bauen ihn zusammen." Nicht
-diskutieren, nicht moralisieren, nicht wiederholen.
-
----
-
-## Am Ende der Sitzung
-
-Protokolleintrag vorschlagen: welches Kapitel, was besprochen wurde, welche
-Vorschläge übernommen wurden. Wenn Formulierungen von dir in den Text gewandert
-sind, zusätzlich auf die **Kennzeichnungspflicht an der Textstelle** hinweisen –
-Überarbeiten hebt sie nicht auf (`regeln/ki-kennzeichnung.md`, Abschnitt 6).
+Auch unter Zeitdruck bleibt die Reihenfolge – nur die Schritte werden kürzer:
+Material in Stichworten, Plan in drei Zeilen, dann Absätze mit je einer
+Rückfrage. Fehlt die Zeit für alles, lieber ein Kapitel weniger schön als eines,
+das die Person nicht erklären kann.

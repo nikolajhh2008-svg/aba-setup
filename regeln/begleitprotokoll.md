@@ -1,11 +1,17 @@
 ---
 name: begleitprotokoll
 beschreibung: Was das Begleitprotokoll leisten muss, in welcher Sprache es geführt wird und wie KI-Nutzung sachlich dokumentiert wird
-version: 1
-stand: 2026-08-01
+version: 2
+stand: 2026-09-25
 ---
 
 # Das Begleitprotokoll
+
+Rechtsstatus-Marken an den Kernaussagen: **[Gesetz]** Schulunterrichtsgesetz ·
+**[Verordnung]** Prüfungsordnung AHS · **[Handreichung/FAQ]** Handreichungen und
+FAQ des Bildungsministeriums auf ahs-aba.at, nicht rechtsverbindlich ·
+**[Verwaltungspraxis]** ABA-Portal · **[nicht amtlich geregelt]** Arbeitsweise
+dieses Setups.
 
 ## 1. Rechtsgrundlage
 
@@ -15,17 +21,39 @@ stand: 2026-08-01
 Prüfungskandidaten zu erstellenden Begleitprotokoll zu dokumentieren, welches
 jedenfalls den Arbeitsablauf sowie die verwendeten Hilfsmittel und Hilfestellungen
 anzuführen hat. Sofern KI-Anwendungen genutzt werden, muss dies kenntlich gemacht
-werden. Das Begleitprotokoll ist der abschließenden Arbeit beizulegen."
+werden. Das Begleitprotokoll ist der abschließenden Arbeit beizulegen.“
 
 Volltext:
 https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007845
 
-An der BHS gilt eine wortgleiche Bestimmung in § 9 Abs. 2 Prüfungsordnung BMHS,
-in Kraft seit 14.12.2024.
+An der BHS gilt in § 9 Abs. 2 Prüfungsordnung BMHS, in Kraft seit 14.12.2024,
+eine inhaltlich gleiche Bestimmung mit abweichender Satzstellung: „… Das
+Begleitprotokoll ist der schriftlichen Arbeit beizulegen. Sofern eine
+KI-Anwendung genutzt wird, muss diese kenntlich gemacht werden.“
 
-Das ist der gesamte Gesetzeswortlaut zum Thema KI in der abschließenden Arbeit.
-Ein Satz. Alles andere ist Auslegung, und die steht in den offiziellen FAQ:
-https://www.ahs-aba.at/lehrpersonen/faqs/faqs-zum-einsatz-von-ki-tools
+Das ist der gesamte Verordnungswortlaut zum Thema KI in der abschließenden
+Arbeit. Ein Satz. Alles andere ist Auslegung, und die steht in den offiziellen
+FAQ: https://www.ahs-aba.at/lehrpersonen/faqs/faqs-zum-einsatz-von-ki-tools
+
+**Was davon Verordnung ist und was nicht – diese Trennung zieht sich durch das
+ganze Regelwerk:**
+
+- **[Verordnung]** § 9 Abs. 2 verlangt drei Dinge: den Arbeitsablauf, die
+  verwendeten Hilfsmittel und Hilfestellungen, und die Kenntlichmachung genutzter
+  KI-Anwendungen. Dazu: Das Protokoll wird von der Kandidatin oder dem Kandidaten
+  erstellt und der Arbeit beigelegt.
+- **[Handreichung/FAQ]** Dass das Protokoll zeigt, **was vom KI-Output
+  übernommen, verworfen oder verändert wurde und warum**, steht nicht in der
+  Verordnung, sondern in KI-FAQ 1.1: „Die Schülerin bzw. der Schüler muss
+  nachvollziehbar dokumentieren, wie der KI-Output in den eigenen Arbeitsprozess
+  integriert wurde.“ Ebenso aus der Handreichung: die Auflistung der
+  Vereinbarungen und Besprechungen mit der Betreuungsperson, die amtliche
+  Vorlage und das Hilfsmittelverzeichnis.
+- **[Verwaltungspraxis]** Upload als eigene PDF-Datei im ABA-Portal.
+
+Die FAQ ist kein Verordnungsrecht, aber die ministerielle Auslegung, auf die das
+Ministerium selbst verweist (`ki-kennzeichnung.md`, Abschnitt 2). Wer nur die
+Verordnung erfüllt, hat ein Protokoll, das in der Diskussion wenig trägt.
 
 Nicht zu verwechseln: Die Betreuungsperson führt nach § 9 Abs. 3 ein **eigenes
 Betreuungsprotokoll**, das dem Prüfungsprotokoll angeschlossen wird. Das
@@ -39,10 +67,13 @@ geführt.
 Vier Funktionen, in dieser Reihenfolge nach Gewicht.
 
 **Erstens: Es ist ein benanntes Beurteilungskriterium.** Das erste Kriterium im
-Kompetenzbereich K1 verlangt wörtlich eine „nachvollziehbare Dokumentation des
-Entstehungsprozesses inkl. Begleitprotokoll und ggf. Hilfsmittelverzeichnis". Ein
-dünnes Protokoll kostet unmittelbar, ohne dass irgendetwas beanstandet werden
-müsste.
+Kompetenzbereich K1 beschreibt in Variante A (schriftliche Arbeit) eine
+„nachvollziehbare Dokumentation des Arbeitsprozesses im Begleitprotokoll und ggf.
+im Hilfsmittelverzeichnis“; Variante B (gestalterisch oder künstlerisch) spricht
+von der „Dokumentation des Entstehungsprozesses inkl. Begleitprotokoll und ggf.
+Hilfsmittelverzeichnis“. Der Raster ist eine „unverbindliche Orientierungshilfe“
+**[Handreichung/FAQ]**, aber ein dünnes Protokoll fällt genau unter dieses
+Kriterium, ohne dass irgendetwas beanstandet werden müsste.
 
 **Zweitens: Es ist das einzige Artefakt, das den Prozess für Dritte sichtbar
 macht.** Die abschließende Arbeit entsteht nach § 9 Abs. 1 außerhalb der
@@ -53,7 +84,7 @@ könnte. Was nicht im Protokoll steht, hat für die Kommission nicht stattgefund
 Themeneinreichung – also rund elf Monate vor der Abgabe – unterschreibt die
 Schülerin oder der Schüler die rechtliche Erklärung, „die Verwendung etwaiger
 Hilfsmittel (z. B. KI-Tools) im Begleitprotokoll bzw. in einem etwaigen
-Hilfsmittelverzeichnis anzuführen". Eine spätere Nicht-Offenlegung verstößt damit
+Hilfsmittelverzeichnis anzuführen“. Eine spätere Nicht-Offenlegung verstößt damit
 nicht nur gegen § 9 Abs. 2, sondern gegen eine zuvor persönlich unterfertigte
 Erklärung.
 
@@ -65,7 +96,7 @@ beim Schreiben schon einmal beantwortet hat.
 **Konsequenz:** Das Protokoll wird ab dem ersten Tag geführt, nicht am Ende
 rekonstruiert. Die Dokumentationspflicht beginnt ausdrücklich schon „zu Beginn
 des Arbeitsprozesses, z.B. bei der Themenfindung, der Formulierung geeigneter
-Leitfragen" (FAQ 3.1), also vor der Portal-Einreichung. Rückwirkend ist ein
+Leitfragen“ (FAQ 3.1), also vor der Portal-Einreichung. Rückwirkend ist ein
 Protokoll nicht rekonstruierbar – und ein rekonstruiertes sieht man ihm an.
 
 ---
@@ -73,8 +104,21 @@ Protokoll nicht rekonstruierbar – und ein rekonstruiertes sieht man ihm an.
 ## 3. Inhalte
 
 Die Prüfungsordnung verlangt „jedenfalls den Arbeitsablauf sowie die verwendeten
-Hilfsmittel und Hilfestellungen". Die offiziellen Handreichungen konkretisieren
-das auf fünf Stränge:
+Hilfsmittel und Hilfestellungen“ und die Kenntlichmachung von KI **[Verordnung]**.
+Die Handreichung nennt **drei Punkte** **[Handreichung/FAQ]**:
+
+- „die Protokollierung des Arbeitsverlaufs“,
+- „die Nennung der verwendeten Hilfsmittel und Hilfestellungen (auch Angaben zur
+  etwaigen Nutzung von KI-Tools)“,
+- „die übersichtliche Auflistung der Vereinbarungen und Besprechungen,
+  E-Mail-Kontakte etc. mit der Betreuungsperson“.
+
+https://www.ahs-aba.at/lehrpersonen/betreuung-beurteilung/betreuung-organisieren
+
+Für die Arbeit mit diesem Setup sind diese drei Punkte in fünf Stränge
+aufgefächert. **Die Aufteilung in fünf ist keine amtliche Vorgabe**, sondern eine
+Arbeitshilfe **[nicht amtlich geregelt]**; jeder Strang lässt sich einem der drei
+amtlichen Punkte zuordnen:
 
 1. **Arbeitsablauf.** Was wurde wann getan, in welcher Phase, mit welchem
    Ergebnis. Nicht jeder Handgriff, aber jeder Schritt, der die Arbeit verändert
@@ -99,7 +143,9 @@ Logfile.** Das ist der am häufigsten übersehene Punkt und zugleich der, an dem
 sich ein gutes von einem schwachen Protokoll unterscheidet.
 
 Es gelten die Regeln aus `schreibweise.md`, mit einer
-ausdrücklichen Abweichung: **Hier ist die Ich-Form der Normalfall.** Das
+ausdrücklichen Abweichung: **Hier ist die Ich-Form der Normalfall.** Das ist eine
+Empfehlung dieses Setups; eine Vorschrift zur Form der Einträge gibt es nicht
+**[nicht amtlich geregelt]**. Das
 Protokoll berichtet Entscheidungen einer Person; wer sie ins Passiv setzt,
 verdeckt genau das, was die Kommission wissen will.
 
@@ -127,7 +173,7 @@ noch warum, noch was daran eigene Leistung war. In der Diskussion trägt es nich
 ```
 14.10.2026 – Eingrenzung der Forschungsfrage
 
-Meine ursprüngliche Frage („Wie verändert KI die Überwachung?") war zu breit;
+Meine ursprüngliche Frage („Wie verändert KI die Überwachung?“) war zu breit;
 sie hätte sich mit den Quellen, auf die ich Zugriff habe, nicht beantworten
 lassen. Ich habe mir von einem Sprachmodell (Claude, Anthropic) fünf engere
 Varianten vorschlagen lassen und keine davon übernommen, weil alle fünf auf den
@@ -135,7 +181,7 @@ US-Rechtsraum zugeschnitten waren. Aus dem Vergleich der Vorschläge ist mir
 aufgefallen, dass mir eine räumliche Eingrenzung fehlte. Ich habe daraufhin
 selbst formuliert: „Welche Rechtsgrundlagen regeln in Österreich seit 2018 den
 Einsatz automatisierter Gesichtserkennung im öffentlichen Raum, und welche
-Kritikpunkte werden in der Fachliteratur dagegen vorgebracht?" Am 17.10. mit
+Kritikpunkte werden in der Fachliteratur dagegen vorgebracht?“ Am 17.10. mit
 meiner Betreuungsperson besprochen und in dieser Form bestätigt.
 ```
 
@@ -144,10 +190,10 @@ eingesetzt? Was wurde übernommen? Was war die eigene Leistung?
 
 ### Häufige Sprachfehler im Protokoll
 
-- „Es wurde recherchiert" statt „Ich habe recherchiert"
-- Werkzeugnamen ohne Zweckangabe („ChatGPT verwendet")
-- Ergebnisse ohne Entscheidung („Gliederung erstellt")
-- Wertungen ohne Grund („hat gut funktioniert")
+- „Es wurde recherchiert“ statt „Ich habe recherchiert“
+- Werkzeugnamen ohne Zweckangabe („ChatGPT verwendet“)
+- Ergebnisse ohne Entscheidung („Gliederung erstellt“)
+- Wertungen ohne Grund („hat gut funktioniert“)
 - Der nachträgliche Sammeleintrag über drei Wochen. Er ist erkennbar und
   entwertet das Protokoll insgesamt.
 
@@ -158,7 +204,7 @@ eingesetzt? Was wurde übernommen? Was war die eigene Leistung?
 ### 5.1 Zwei Pflichten, die laufend verwechselt werden
 
 Die offizielle FAQ warnt selbst davor (FAQ 3.2): „Die Dokumentation ist nicht zu
-verwechseln mit der Kennzeichnung von KI-generierten Inhalten."
+verwechseln mit der Kennzeichnung von KI-generierten Inhalten.“
 
 - **Dokumentation** – im Begleitprotokoll, auf der Prozessebene. Betrifft die
   Nutzung als solche.
@@ -187,7 +233,7 @@ Nicht pflichtig nach FAQ 3.6:
 - Wörterbücher (PONS, Leo)
 - einfache Übersetzung ohne Textoptimierung (DeepL Translate Basisversion)
 - reine Informationserschließung, „sofern keine Inhalte direkt übernommen
-  werden"
+  werden“
 
 Das Trennkriterium ist zweiteilig: **generativ ja oder nein**, und **fließt der
 Output in die Arbeit ein ja oder nein**. Ein KI-gestützter Schreibassistent liegt
@@ -200,7 +246,8 @@ praktisch immer auf der pflichtigen Seite – auch wenn er nur den Stil glättet
 - Einsatzbereich (Themenfindung, Recherche, Strukturierung, sprachliche
   Überarbeitung, Medienerstellung, Transkription)
 - Zweck: was sollte das Werkzeug leisten
-- Ergebnis: was wurde übernommen, was verworfen, und warum
+- Ergebnis: was wurde übernommen, was verworfen, und warum (KI-FAQ 1.1)
+  **[Handreichung/FAQ]**
 - Eigenleistung: was wurde daran verändert, geprüft, eingeordnet
 - bei maßgeblicher Beteiligung: der relevante Prompt
 
@@ -213,24 +260,38 @@ Wer sie beilegt, erzeugt Umfang ohne Aussagekraft.
 
 ### 5.4 Das Hilfsmittelverzeichnis
 
-Optional, aber empfohlen – und bei KI-Nutzung faktisch der saubere Weg. Es ist
-ein zusätzliches Verzeichnis der Arbeit und folgt auf das Literatur- und
-Quellenverzeichnis. Je Eintrag: Name des Werkzeugs mit URL, Einsatzbereich, Zweck
-der Verwendung, gegebenenfalls relevante Prompts.
+Optional, aber empfohlen – und bei KI-Nutzung faktisch der saubere Weg. Im
+Rechtsbestand ist es nicht vorgesehen **[Handreichung/FAQ]**. Es ist ein
+zusätzliches Verzeichnis der Arbeit und folgt auf das Literatur- und
+Quellenverzeichnis. Es „ergänzt das Begleitprotokoll, ersetzt aber nicht die in
+der Arbeit selbst erforderlichen Kennzeichnungen“.
+
+Die amtliche Vorlage (`ABA_Hilfsmittelverzeichnis.docx`,
+https://www.ahs-aba.at/fileadmin/ahsvwa/Redaktion/Fuer-Lehrpersonen/user_upload/Betreuen_Beurteilen/Betreuung/ABA_Hilfsmittelverzeichnis.docx)
+hat **drei Spalten**:
+
+1. „Hilfsmittel/Tool (ggf. inkl. URL)“
+2. „Einsatzbereich & Zweck“ – für welchen Arbeitsschritt oder Teil der Arbeit,
+   zu welchem Zweck
+3. „Relevanter Prompt (falls zutreffend)“
+
+Am Ende steht der Bestätigungssatz: „Ich bestätige, dass alle von mir im Rahmen
+der abschließenden Arbeit eingesetzten digitalen (technischen) Hilfsmittel/Tools
+vollständig im vorliegenden Hilfsmittelverzeichnis dokumentiert wurden.“
 
 Es erfasst nicht nur KI. Auch GIMP, DaVinci Resolve, Audacity, Tinkercad oder
 ein 3D-Drucker gehören hinein, „sofern sie wesentlich zum Arbeitsprozess
-beigetragen haben".
+beigetragen haben“ (KI-FAQ 3.3).
 
-Beispiel für einen Eintrag:
+Beispiel für einen Eintrag, nach den drei Spalten:
 
 ```
-Claude (Anthropic), https://claude.ai
-Einsatzbereich: Themeneingrenzung, sprachliche Überarbeitung
-Zweck: Vorschläge zur Verengung der Forschungsfrage (14.10.2026); Prüfung von
-Kapitel 3 auf Satzbau und Wortwiederholungen (03.01.2027). Inhaltliche Aussagen
-wurden nicht übernommen.
-Relevante Prompts: siehe Anhang C
+Hilfsmittel/Tool: Claude (Anthropic), https://claude.ai
+Einsatzbereich & Zweck: Themeneingrenzung – Vorschläge zur Verengung der
+Forschungsfrage (14.10.2026); sprachliche Überarbeitung – Prüfung von Kapitel 3
+auf Satzbau und Wortwiederholungen (03.01.2027). Inhaltliche Aussagen wurden
+nicht übernommen.
+Relevanter Prompt: siehe Anhang C
 ```
 
 ### 5.5 Was ausdrücklich nicht gilt
@@ -260,32 +321,49 @@ Bewertung und keine Formulierung in deinem Namen.
 mit dem Ergebnis gemacht hast. Übernommen, verworfen, verändert, und warum. Erst
 das macht aus einer Werkzeugliste eine Dokumentation.
 
-Wörtlich aus der offiziellen FAQ 1.1: „Die Schülerin bzw. der Schüler muss
+Diese Anforderung stammt nicht aus der Verordnung, sondern aus der offiziellen
+FAQ 1.1 **[Handreichung/FAQ]**: „Die Schülerin bzw. der Schüler muss
 nachvollziehbar dokumentieren, wie der KI-Output in den eigenen Arbeitsprozess
-integriert wurde." Genau diesen Satz kann kein automatischer Eintrag erzeugen.
+integriert wurde.“ Genau diesen Satz kann kein automatischer Eintrag erzeugen.
 
 **Wo es liegt:** in `mein/begleitprotokoll.md`, fortlaufend, neueste Einträge
 unten. Vor der Abgabe wird daraus ein PDF; der Upload im ABA-Portal erfolgt
-separat, zusätzlich liegt das Protokoll einem der gedruckten Exemplare bei.
+separat **[Verwaltungspraxis]**, zusätzlich liegt das Protokoll einem der
+gedruckten Exemplare bei **[Handreichung/FAQ]**.
 
-**Nicht abschließend geklärt:** ob es eine offizielle Vorlage oder ein
-vorgegebenes Format für das Begleitprotokoll gibt und ob ein selbst geführtes
-Protokoll überall in dieser Form akzeptiert wird. Frag deine Betreuungsperson
-früh danach – falls die Schule eine Vorlage hat, lässt sich der Inhalt in jede
-Vorlage kopieren, aber nicht rückwirkend erfinden.
+**Die amtliche Vorlage** **[Handreichung/FAQ]**: Das Ministerium stellt
+`ABA_Begleitprotokoll.docx` bereit
+(https://www.ahs-aba.at/fileadmin/ahsvwa/Redaktion/Fuer-Lehrpersonen/user_upload/Betreuen_Beurteilen/Betreuung/ABA_Begleitprotokoll.docx).
+Aufbau:
+
+- Kopf: Name der Schülerin oder des Schülers, Titel der Arbeit, Name der
+  Betreuungsperson.
+- Tabelle mit **drei Spalten**: „Datum“ · „Vorgangsweise, ausgeführte
+  Arbeitsschritte, verwendete Hilfsmittel, aufgesuchte Bibliotheken etc.“ ·
+  „Besprechungen mit der betreuenden Lehrperson, Fortschritte, offene Fragen,
+  Probleme, nächste Schritte“.
+- Fuß: Ort, Datum, Unterschrift – laut Vorlage „nur auf der Beilage zu den
+  ausgedruckten Exemplaren notwendig“, also nicht auf dem hochgeladenen PDF.
+
+Die Einträge aus `mein/begleitprotokoll.md` werden vor der Abgabe in diese
+Vorlage übertragen, sofern die Schule nichts anderes vorgibt: Datum in die erste
+Spalte, Handlung, Werkzeug und Entscheidung in die zweite, Betreuungstermine in
+die dritte. Ob die Vorlage verpflichtend ist, sagt keine amtliche Quelle – frag
+deine Betreuungsperson früh danach. Inhalt lässt sich in jede Vorlage kopieren,
+aber nicht rückwirkend erfinden.
 
 ---
 
 ## 7. Rechtsfolge bei Nicht-Offenlegung
 
-FAQ 3.9, wörtlich: „Wenn die Prüfungskommission zur Ansicht kommt, dass etwaige
+KI-FAQ 3.9 **[Handreichung/FAQ]**, wörtlich: „Wenn die Prüfungskommission zur Ansicht kommt, dass etwaige
 KI-Anwendungen bewusst nicht offengelegt wurden, gilt die Arbeit als
 vorgetäuschte Leistung und wird nicht beurteilt. Die Kandidatin bzw. der Kandidat
-muss das Prüfungsgebiet ‚Abschließende Arbeit' wiederholen und ein neues Thema
-einreichen."
+muss das Prüfungsgebiet ‚Abschließende Arbeit‘ wiederholen und ein neues Thema
+einreichen.“
 
 Die Kette dahinter: § 18 Abs. 4 SchUG – „Vorgetäuschte Leistungen sind nicht zu
-beurteilen." Es gibt also keine schlechte Note, sondern gar keine. Danach neue
+beurteilen.“ **[Gesetz]** Es gibt also keine schlechte Note, sondern gar keine. Danach neue
 Themenfestlegung, Wiederholung ohne kontinuierliche Betreuung, höchstens drei
 Wiederholungen nach § 40 Abs. 1 SchUG, und kein Reifeprüfungszeugnis bis zur
 positiven Wiederholung.

@@ -1,6 +1,6 @@
 ---
 name: abgabe
-description: Endkontrolle vor der Abgabe – Vollständigkeit, Form, Belege, Kennzeichnung, Archivierung. Nutzen bei „Abgabe", „Endkontrolle", „bin ich fertig", „was fehlt noch".
+description: Endkontrolle vor der Abgabe – Vollständigkeit, Form, Belege, Kennzeichnung, Archivierung. Nutzen bei „Abgabe“, „Endkontrolle“, „bin ich fertig“, „was fehlt noch“.
 license: CC-BY-SA-4.0
 ---
 
@@ -50,8 +50,11 @@ Getrennt abzugeben, kein Kapitel der Arbeit: das **Begleitprotokoll**.
 
 ## 4. Kennzeichnung
 
-- Ist jede Stelle, an der KI-Inhalt in die Arbeit eingegangen ist, im Text
-  gekennzeichnet – mit Werkzeug und Datum? Auch die überarbeiteten.
+- Ist jede Stelle aus `mein/ki-stellen.md` im Text gekennzeichnet – mit
+  Werkzeug und Datum? Auch die überarbeiteten. Liste und Text Eintrag für
+  Eintrag abgleichen, in beide Richtungen.
+- Deckt das Begleitprotokoll jede Sitzung ab, in der Entwürfe entstanden sind,
+  mit dem Satz, was übernommen, verändert oder verworfen wurde?
 - Sind KI-Bilder, -Grafiken oder -Tonspuren in Beschriftung beziehungsweise
   Abspann gekennzeichnet?
 - Steht kein KI-Werkzeug im Literaturverzeichnis?
@@ -83,7 +86,7 @@ wird ins Portal hochgeladen, bis wann, wer bekommt was. Trag die Antworten in
 
 ## Am Ende
 
-Keine Zusammenfassung im Sinne von „sieht gut aus". Stattdessen zwei Listen:
+Keine Zusammenfassung im Sinne von „sieht gut aus“. Stattdessen zwei Listen:
 
 1. **Was noch fehlt**, in der Reihenfolge, in der es erledigt werden muss
 2. **Was ich nicht prüfen konnte** und wer es prüfen muss

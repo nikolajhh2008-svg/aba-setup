@@ -29,7 +29,7 @@ ZEICHENREGELN = [
         "Im Deutschen steht der Halbgeviertstrich mit Leerzeichen: Wort – Wort",
     ),
     (
-        r'(?<!\w)"(?=\w)|(?<=\w)"(?!\w)',
+        r'(?<!\w)"(?=\w)|(?<=[\w.,;:!?…])"(?!\w)',
         "Gerades Anführungszeichen",
         "Typografisch richtig sind „…“",
     ),
@@ -87,6 +87,8 @@ MARKERWOERTER = {
     "eintauchen": "untersuchen, auswerten",
     "unerlässlich": "sagen, wofür",
     "facettenreich": "die Facetten nennen",
+    "vielschichtig": "die Schichten nennen",
+    "maßgeblich": "sagen, in welchem Maß",
 }
 
 FLOSKELN = {
@@ -102,6 +104,8 @@ FLOSKELN = {
     r"[Nn]icht zuletzt": "Übergang, der die Beziehung benennt",
     r"[Vv]on (großer|entscheidender) Bedeutung": "sagen, wofür",
     r"nicht nur .{3,60}?, sondern auch": "zwei Sätze, ohne Aufwertungsrahmen",
+    r"(?<![\w])[Hh]ierbei(?![\w])": "Bezug direkt nennen",
+    r"(?<![\w])Zudem(?![\w])": "Übergang, der die Beziehung benennt",
 }
 
 BEHAUPTUNGS_FUELLWOERTER = [
@@ -178,11 +182,18 @@ def pruefe_zeichen(text: str) -> list:
     return funde
 
 
+def ohne_zitate(text: str) -> str:
+    """Blendet wörtliche Zitate aus – sie werden buchstabengetreu übernommen
+    und dürfen nicht „korrigiert“ werden. Positionen bleiben erhalten."""
+    return re.sub(r"„[^“\n]{0,600}“", lambda m: " " * len(m.group(0)), text)
+
+
 def pruefe_wortlisten(text: str) -> list:
+    text = ohne_zitate(text)
     funde = []
     for wort, hinweis in MARKERWOERTER.items():
         for treffer in re.finditer(rf"(?<![\w]){wort}", text, re.IGNORECASE):
-            funde.append((zeile_von(text, treffer.start()), f"Markerwort „{wort}“",
+            funde.append((zeile_von(text, treffer.start()), f"Wort „{wort}“",
                           hinweis, ausschnitt(text, treffer.start())))
     for muster, hinweis in FLOSKELN.items():
         for treffer in re.finditer(muster, text):
@@ -307,7 +318,7 @@ def main() -> int:
     print("\n" + "=" * 70)
     if zeichen:
         print(f"{len(zeichen)} Zeichenfehler sollten behoben werden – die sind eindeutig.")
-    print("Alles Übrige ist ein Hinweis, kein Urteil. Ein Markerwort kann im")
+    print("Alles Übrige ist ein Hinweis, kein Urteil. Ein gemeldetes Wort kann im")
     print("Einzelfall genau das richtige sein. Begründungen: regeln/sprache-pruefen.md")
     return 0
 

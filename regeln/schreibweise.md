@@ -1,15 +1,16 @@
 ---
 name: schreibweise
 beschreibung: Wie im Deutschen wissenschaftlich geschrieben wird – Modus, Tempus, Person, Satzbau, Absatzaufbau, Übergänge
-version: 1
-stand: 2026-08-01
+version: 2
+stand: 2026-09-25
 ---
 
 # Wissenschaftliche Schreibweise im Deutschen
 
 Dieses Regelwerk beschreibt, wie in einer abschließenden Arbeit formuliert wird.
-Es gilt für Fließtext. Für die Vermeidung maschinentypischer Sprachmuster gilt
-zusätzlich `sprache-pruefen.md`; für Belege `quellen-und-zitieren.md`.
+Es gilt für Fließtext. Für generische, formelhafte Wendungen und ihre Wirkung auf
+die Leserin gilt zusätzlich `sprache-pruefen.md`; für Belege
+`quellen-und-zitieren.md`.
 
 Grundsatz: Wissenschaftliches Deutsch ist nicht gehobenes Deutsch. Es ist
 präzises Deutsch mit sichtbarer Herkunft jeder Aussage. Der Leser muss an jedem
@@ -30,12 +31,12 @@ Beobachtungen, Auswertungen, Zwischenergebnisse, Schlussfolgerungen, und für
 gesichertes Fachwissen, das nicht strittig ist.
 
 Positiv:
-„Die Auswertung der 34 Interviewminuten ergibt drei wiederkehrende Muster."
+„Die Auswertung der 34 Interviewminuten ergibt drei wiederkehrende Muster.“
 „Beide Datensätze beruhen auf Selbstauskünften und sind daher nur eingeschränkt
-vergleichbar."
+vergleichbar.“
 
 Negativ:
-„Die Auswertung würde drei Muster ergeben." – Der Konjunktiv II macht aus einem
+„Die Auswertung würde drei Muster ergeben.“ – Der Konjunktiv II macht aus einem
 Befund eine Vermutung, obwohl die Auswertung tatsächlich vorliegt.
 
 ### 1.2 Konjunktiv I – für indirekte Rede ohne eigene Stellungnahme
@@ -45,16 +46,16 @@ ihr folgt. Er ist der Normalfall beim Referieren von Literatur.
 
 Positiv:
 „Weber-Wulff argumentiert, die geprüften Erkennungswerkzeuge seien weder genau
-noch zuverlässig."
+noch zuverlässig.“
 „Nach Auffassung des Ministeriums genüge die bloße Übernahme eines Outputs den
-Anforderungen an eine eigenständige Leistung nicht."
+Anforderungen an eine eigenständige Leistung nicht.“
 
 Zwei Fallen:
 - Wenn die Konjunktiv-I-Form mit der Indikativform zusammenfällt (etwa „sie
-  haben"), weicht man auf den Konjunktiv II aus („sie hätten") – nicht auf den
+  haben“), weicht man auf den Konjunktiv II aus („sie hätten“) – nicht auf den
   Indikativ, sonst geht die Markierung verloren. „Die Autoren sagen, sie haben
-  drei Werkzeuge geprüft" liest sich als eigene Feststellung; „sie hätten drei
-  Werkzeuge geprüft" bleibt korrekt indirekt.
+  drei Werkzeuge geprüft“ liest sich als eigene Feststellung; „sie hätten drei
+  Werkzeuge geprüft“ bleibt korrekt indirekt.
 - Der Konjunktiv I signalisiert keine Skepsis. Wer ihn dafür einsetzt, verwirrt.
   Für Distanz gibt es den Konjunktiv II und die Verbwahl.
 
@@ -65,37 +66,37 @@ sie hypothetisch ist oder dass sie von einer nicht erfüllten Bedingung abhängt
 
 Positiv:
 „Der Autor behauptet, die Methode wäre in allen Fächern übertragbar; belegt wird
-das nicht."
-„Läge eine zweite unabhängige Messung vor, ließe sich die Abweichung einordnen."
+das nicht.“
+„Läge eine zweite unabhängige Messung vor, ließe sich die Abweichung einordnen.“
 
 Negativ:
-„Der Autor behauptet, die Methode wäre gut." – „gut" ist keine überprüfbare
+„Der Autor behauptet, die Methode wäre gut.“ – „gut“ ist keine überprüfbare
 Aussage; der Konjunktiv rettet einen leeren Satz nicht.
 
 ### 1.4 Verbwahl als zweite Distanzebene
 
 Der Modus sagt, ob die Arbeit mitträgt. Das Verb sagt, wie stark.
 
-- neutral: „stellt fest", „beschreibt", „untersucht", „berichtet", „unterscheidet"
-- zustimmend: „weist nach", „belegt", „zeigt", „begründet"
-- distanziert: „behauptet", „unterstellt", „setzt voraus", „geht davon aus"
-- referierend ohne Wertung: „führt aus", „nennt", „verweist auf"
+- neutral: „stellt fest“, „beschreibt“, „untersucht“, „berichtet“, „unterscheidet“
+- zustimmend: „weist nach“, „belegt“, „zeigt“, „begründet“
+- distanziert: „behauptet“, „unterstellt“, „setzt voraus“, „geht davon aus“
+- referierend ohne Wertung: „führt aus“, „nennt“, „verweist auf“
 
 Ein Wechsel des Verbs ersetzt einen ganzen Bewertungssatz. Statt „Müller schreibt
-X. Diese Aussage ist allerdings nicht belegt." genügt: „Müller behauptet X."
+X. Diese Aussage ist allerdings nicht belegt.“ genügt: „Müller behauptet X.“
 
 ---
 
-## 2. Person: wann „ich" zulässig ist
+## 2. Person: wann „ich“ zulässig ist
 
-Die Regel „kein Ich in wissenschaftlichen Arbeiten" ist zu grob und führt zu den
+Die Regel „kein Ich in wissenschaftlichen Arbeiten“ ist zu grob und führt zu den
 schlechtesten Sätzen der Gattung.
 
 Nicht zulässig ist die Ich-Form dort, wo sie eine Aussage in eine Meinung
 verwandelt, die belegt sein müsste.
 
-Negativ: „Ich finde, dass Überwachungstechnik problematisch ist."
-Positiv: „Die referierten Studien benennen übereinstimmend drei Risiken."
+Negativ: „Ich finde, dass Überwachungstechnik problematisch ist.“
+Positiv: „Die referierten Studien benennen übereinstimmend drei Risiken.“
 
 Zulässig und oft besser ist die Ich-Form dort, wo eine tatsächliche Entscheidung
 der Verfasserin oder des Verfassers berichtet wird: Methodenwahl, Eingrenzung,
@@ -104,16 +105,16 @@ Methodenkapitel, Diskussion, Reflexion und Begleitprotokoll.
 
 Positiv: „Ich habe die Interviewpartner nach zwei Kriterien ausgewählt: eigene
 Publikationstätigkeit zum Thema und berufliche Befassung seit mindestens fünf
-Jahren."
+Jahren.“
 Negativ (Passiv-Ausweichung, die verschleiert, wer entschieden hat): „Es wurden
-Interviewpartner ausgewählt, die als geeignet erschienen."
+Interviewpartner ausgewählt, die als geeignet erschienen.“
 
-Die Ersatzformen „man", „der Verfasser dieser Arbeit" und „es wird die Ansicht
-vertreten" sind schlechter als das schlichte „ich": „man" verallgemeinert
-unzulässig, „der Verfasser dieser Arbeit" ist gestelzt, die Passivform verdeckt
+Die Ersatzformen „man“, „der Verfasser dieser Arbeit“ und „es wird die Ansicht
+vertreten“ sind schlechter als das schlichte „ich“: „man“ verallgemeinert
+unzulässig, „der Verfasser dieser Arbeit“ ist gestelzt, die Passivform verdeckt
 die Verantwortung. Wenn die Betreuungsperson die Ich-Form ausschließt, gilt ihre
-Vorgabe – dann wird umformuliert, nicht auf „man" ausgewichen: „Die Auswahl der
-Interviewpartner folgte zwei Kriterien: …".
+Vorgabe – dann wird umformuliert, nicht auf „man“ ausgewichen: „Die Auswahl der
+Interviewpartner folgte zwei Kriterien: …“.
 
 Konsequenz für die Rückmeldung: Ich-Formen werden nicht pauschal beanstandet.
 Beanstandet wird eine Ich-Form, die eine belegpflichtige Aussage ersetzt.
@@ -126,15 +127,15 @@ Drei Regeln decken fast alles ab.
 
 - **Präsens** für alles, was gilt: Sachverhalte, Theorien, Inhalte von Quellen,
   Aufbau der eigenen Arbeit, Ergebnisse. „Kapitel 3 vergleicht die beiden
-  Ansätze." „Kobak et al. untersuchen 15 Millionen Abstracts."
+  Ansätze.“ „Kobak et al. untersuchen 15 Millionen Abstracts.“
 - **Präteritum oder Perfekt** für abgeschlossene Vorgänge in der Vergangenheit:
   historische Ereignisse, der eigene Erhebungsvorgang. „Die Novelle trat am
-  1. November 2024 in Kraft." „Die Befragung fand im Oktober 2026 statt."
+  1. November 2024 in Kraft.“ „Die Befragung fand im Oktober 2026 statt.“
 - **Abstract durchgehend im Präsens.** Er beschreibt die Arbeit, nicht ihre
   Entstehung.
 
 Häufiger Fehler: Tempuswechsel innerhalb eines Absatzes ohne Grund. „Müller
-untersuchte die Frage und kommt zu dem Ergebnis, dass …" – entweder beides
+untersuchte die Frage und kommt zu dem Ergebnis, dass …“ – entweder beides
 Präsens (Regelfall) oder der Erhebungszeitpunkt bewusst im Präteritum und das
 Ergebnis im Präsens, dann aber im ganzen Text konsequent.
 
@@ -146,25 +147,26 @@ Ziel ist Verständlichkeit bei hoher Informationsdichte, nicht Komplexität.
 
 - **Ein Gedanke je Satz.** Wer zwei Aussagen in einen Satz zwingt, verliert die
   Beziehung zwischen ihnen.
-- **Satzlänge variieren.** Gleichförmigkeit ist ein eigenständiges Qualitäts- und
-  Echtheitsproblem, siehe `sprache-pruefen.md`. Ein kurzer Satz nach zwei
-  langen trägt Gewicht.
+- **Satzlänge variieren.** Sätze gleicher Länge hintereinander ergeben einen
+  gleichmäßigen Takt, der ermüdet und verwischt, welcher Gedanke der tragende
+  ist (siehe `sprache-pruefen.md`, Schicht 3). Ein kurzer Satz nach zwei langen
+  trägt Gewicht.
 - **Höchstens eine Verschachtelungsebene.** Nebensatz im Nebensatz im Nebensatz
   ist kein Stilmerkmal, sondern ein Planungsfehler.
 - **Verbklammer kurz halten.** Zwischen Hilfsverb und Partizip gehören nicht drei
   Zeilen. Negativ: „Die Untersuchung hat, nachdem im vorangegangenen Kapitel die
   methodischen Voraussetzungen und die Auswahl des Materials dargelegt worden
-  sind, ergeben, dass …" Positiv: „Kapitel 2 hat Methode und Materialauswahl
-  dargelegt. Die Untersuchung ergibt nun, dass …"
+  sind, ergeben, dass …“ Positiv: „Kapitel 2 hat Methode und Materialauswahl
+  dargelegt. Die Untersuchung ergibt nun, dass …“
 - **Nominalstil sparsam.** „Die Durchführung der Überprüfung der Quellenlage
-  erfolgte" heißt schlicht „Die Quellenlage wurde überprüft". Substantivierte
-  Verben auf „-ung" in Ketten sind der verlässlichste Hinweis auf einen Satz, der
+  erfolgte“ heißt schlicht „Die Quellenlage wurde überprüft“. Substantivierte
+  Verben auf „-ung“ in Ketten sind der verlässlichste Hinweis auf einen Satz, der
   nichts sagt.
 - **Passiv nur, wenn der Handelnde unwichtig oder unbekannt ist.** „Die Proben
-  wurden bei 4 Grad gelagert" ist gut. „Es wurde entschieden, das Kapitel zu
-  streichen" verschleiert, wer entschieden hat.
-- **Keine Füllwörter mit Behauptungsfunktion.** „natürlich", „bekanntlich",
-  „selbstverständlich", „offensichtlich", „zweifellos" ersetzen einen Beleg
+  wurden bei 4 Grad gelagert“ ist gut. „Es wurde entschieden, das Kapitel zu
+  streichen“ verschleiert, wer entschieden hat.
+- **Keine Füllwörter mit Behauptungsfunktion.** „natürlich“, „bekanntlich“,
+  „selbstverständlich“, „offensichtlich“, „zweifellos“ ersetzen einen Beleg
   durch eine Behauptung und laden die Prüfungskommission zur Nachfrage ein.
 
 ---
@@ -177,8 +179,9 @@ hat drei Teile.
 1. **Aussagesatz.** Was leistet dieser Absatz? Er steht vorne, nicht hinten.
 2. **Ausführung.** Beleg, Beispiel, Argument, Gegenargument, Daten.
 3. **Ertrag.** Was folgt daraus für die Leitfrage? Nur dann, wenn tatsächlich
-   etwas folgt – ein Schlusssatz, der die ersten Sätze wiederholt, ist Leerlauf
-   und zugleich ein Marker maschinell erzeugter Prosa.
+   etwas folgt – ein Schlusssatz, der die ersten Sätze wiederholt, ist Leerlauf:
+   Die Leserin liest dieselbe Aussage zweimal und sucht vergeblich nach dem
+   Neuen.
 
 Positivbeispiel:
 
@@ -188,17 +191,17 @@ wurde fälschlich als maschinell erzeugt eingestuft, während dieselben Werkzeug
 bei Aufsätzen US-amerikanischer Achtklässler nahezu fehlerfrei arbeiteten. Als
 Erklärung nennen die Autoren die geringere sprachliche Variabilität der
 Nicht-Muttersprachler. Für die vorliegende Fragestellung heißt das, dass ein
-Detektorergebnis für sich genommen keine Aussagekraft über Autorschaft hat."
+Detektorergebnis für sich genommen keine Aussagekraft über Autorschaft hat.“
 
 Negativbeispiel (Aussage hinten, Absatz ohne Ertrag):
 
 „Es gibt verschiedene Studien zu Erkennungswerkzeugen. Manche kommen zu
 unterschiedlichen Ergebnissen. Liang et al. haben eine Untersuchung
-durchgeführt. Insgesamt lässt sich festhalten, dass das Thema vielschichtig ist."
+durchgeführt. Insgesamt lässt sich festhalten, dass das Thema vielschichtig ist.“
 
 Faustregeln:
 - Länge zwischen drei und acht Sätzen, aber nicht durchgehend gleich.
-- Ein Absatz, der mit „Zusammenfassend", „Insgesamt" oder „Somit" beginnt und
+- Ein Absatz, der mit „Zusammenfassend“, „Insgesamt“ oder „Somit“ beginnt und
   danach nichts Neues sagt, wird gestrichen.
 - Ein Absatz ohne Beleg im Hauptteil ist begründungsbedürftig.
 
@@ -210,20 +213,20 @@ Faustregeln:
 keine Höflichkeitsformeln.
 
 Brauchbar, weil sie eine Beziehung benennen:
-- Gegensatz: „Dagegen", „Anders als", „Während X …, gilt für Y …"
-- Einschränkung: „Allerdings", „Einschränkend", „Das gilt jedoch nur, sofern …"
-- Folge: „Daraus folgt", „Deshalb", „Damit ist die zweite Leitfrage beantwortet."
+- Gegensatz: „Dagegen“, „Anders als“, „Während X …, gilt für Y …“
+- Einschränkung: „Allerdings“, „Einschränkend“, „Das gilt jedoch nur, sofern …“
+- Folge: „Daraus folgt“, „Deshalb“, „Damit ist die zweite Leitfrage beantwortet.“
 - Reihenfolge mit Zweck: „Bevor die Auswertung dargestellt wird, ist die
-  Datengrundlage zu klären."
+  Datengrundlage zu klären.“
 
-Unbrauchbar, weil sie nur Platz füllen: „Des Weiteren", „Darüber hinaus", „In
-diesem Zusammenhang", „Nicht zuletzt", „An dieser Stelle sei erwähnt".
+Unbrauchbar, weil sie nur Platz füllen: „Des Weiteren“, „Darüber hinaus“, „In
+diesem Zusammenhang“, „Nicht zuletzt“, „An dieser Stelle sei erwähnt“.
 
 Die stärkste Form des Übergangs ist inhaltlich, nicht sprachlich: Der letzte Satz
 eines Kapitels benennt die offene Frage, die das nächste beantwortet.
 
 „Ob diese Rechtsfolge in der Praxis eintritt, lässt sich aus der Norm allein
-nicht ablesen. Kapitel 4 wertet daher die veröffentlichten Fälle aus."
+nicht ablesen. Kapitel 4 wertet daher die veröffentlichten Fälle aus.“
 
 ---
 
@@ -233,8 +236,8 @@ nicht ablesen. Kapitel 4 wertet daher die veröffentlichten Fälle aus."
   nennt, nicht mit einer allgemeinen Hinführung zum Thema.
 - Fachbegriffe werden bei der ersten Verwendung definiert und danach konsequent
   gleich verwendet. Synonymvariation ist im journalistischen Text eine Tugend und
-  im wissenschaftlichen Text ein Fehler: Wer abwechselnd „Detektor",
-  „Erkennungswerkzeug" und „Prüfsoftware" schreibt, suggeriert drei Gegenstände.
+  im wissenschaftlichen Text ein Fehler: Wer abwechselnd „Detektor“,
+  „Erkennungswerkzeug“ und „Prüfsoftware“ schreibt, suggeriert drei Gegenstände.
 - Abkürzungen werden bei der ersten Nennung ausgeschrieben, danach konsequent
   abgekürzt. Ein Abkürzungsverzeichnis ersetzt die Einführung im Text nicht.
 - Englische Fachbegriffe bleiben, wenn es keine etablierte deutsche Entsprechung
@@ -245,9 +248,11 @@ nicht ablesen. Kapitel 4 wertet daher die veröffentlichten Fälle aus."
 
 ## 8. Was die Prüfstelle konkret ansieht
 
-Der Beurteilungsraster nennt im Kompetenzbereich K1 unter anderem „nahezu
-fehlerfreie" Orthografie, Zeichensetzung und Grammatik auf der höchsten Stufe
-sowie ein durchgehend einheitliches Layout. Sprachliche Sorgfalt ist damit kein
+Der Beurteilungsraster (Variante A) nennt im Kompetenzbereich K1 auf der
+Referenzstufe „weitgehend richtige Anwendung der Regeln der Orthografie,
+Zeichensetzung und Grammatik“ und ein „weitgehend einheitliches, die Lesbarkeit
+unterstützendes Layout“; auf der höchsten Stufe „nahezu fehlerfreie Anwendung“
+der Regeln und ein „einheitliches, die Lesbarkeit unterstützendes Layout“. Sprachliche Sorgfalt ist damit kein
 Geschmacksurteil, sondern ein benanntes Kriterium. Details in
 `beurteilung.md`.
 

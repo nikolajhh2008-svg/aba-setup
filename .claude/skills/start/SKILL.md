@@ -1,6 +1,6 @@
 ---
 name: start
-description: Einstieg und Onboarding – füllt mein/profil.md aus und nennt den nächsten Schritt. Nutzen bei „lass uns starten", „einrichten", „wo stehe ich" oder wenn das Profil noch Platzhalter enthält.
+description: Einstieg und Onboarding – füllt mein/profil.md aus und nennt den nächsten Schritt. Nutzen bei „lass uns starten“, „einrichten“, „wo stehe ich“ oder wenn das Profil noch Platzhalter enthält.
 license: CC-BY-SA-4.0
 ---
 
@@ -10,7 +10,7 @@ Zwei Fälle. Prüfe zuerst `mein/profil.md`.
 
 ---
 
-## Fall A: Das Profil enthält noch „noch offen" bei Schultyp und Fach
+## Fall A: Das Profil enthält noch „noch offen“ bei Schultyp und Fach
 
 Dann läuft das Onboarding. Es hat **fünf Runden**. Runde 1 reicht, um loszulegen;
 die übrigen kommen, wenn sie dran sind – nicht alle am ersten Tag.
@@ -21,7 +21,7 @@ die übrigen kommen, wenn sie dran sind – nicht alle am ersten Tag.
   zwei.
 - **Keine Frage, deren Antwort schon dasteht.** Wenn jemand „7. Klasse AHS in
   Wien" sagt, frag nicht nach dem Schultyp.
-- **„Weiß ich nicht" ist eine gültige Antwort.** Dann bleibt „noch offen" stehen,
+- **„Weiß ich nicht“ ist eine gültige Antwort.** Dann bleibt „noch offen“ stehen,
   und du sagst dazu, wen man fragen muss und bis wann.
 - **Nichts erraten.** Kein Abgabedatum, kein Zitierstil, kein Umfang. Die Termine
   setzt die Schule, nicht die Verordnung – ein erfundenes Datum ist hier der
@@ -30,6 +30,18 @@ die übrigen kommen, wenn sie dran sind – nicht alle am ersten Tag.
   am Ende. Ein abgebrochenes Gespräch darf nichts verlieren.
 - **Sag bei den unangenehmen Fragen dazu, warum du sie stellst.** Wer versteht,
   wozu die Frage dient, antwortet genauer.
+- **Jede Frage mit einem Beispiel in Klammern**, und am Ende der Satz
+  „Stichworte genügen.“ Wer unter Zeitdruck steht, antwortet auf
+  „Welches Fach? (z. B. Geschichte, Biologie)“ – auf „Erzähl mir von deiner
+  Arbeit“ nicht.
+- **Umgangssprache übersetzen, nicht korrigieren.** „Irgendwas mit Social Media
+  und so“ ist eine brauchbare Antwort; du machst daraus einen Eintrag, ohne die
+  Wortwahl zu bewerten.
+- **Platzhalter sind keine Antwort.** „test“, „asdf“, ein einzelner Buchstabe
+  zählen als „noch offen“.
+- **Nicht erklären, sondern anfangen.** Kein Vortrag darüber, wie das Setup
+  funktioniert. Die Regeln zeigen sich, wenn sie greifen – beim ersten echten
+  Handgriff.
 
 ---
 
@@ -38,7 +50,7 @@ die übrigen kommen, wenn sie dran sind – nicht alle am ersten Tag.
 **Frage 1: Schule, Bundesland, Abgabetermin.**
 AHS oder BHS entscheidet, welche Verordnung gilt. Das Bundesland entscheidet die
 Abgabewoche. Beim Datum: das Datum, das die Schule genannt hat – wenn keines
-bekannt ist, „noch offen" und der Hinweis, dass es früh geklärt gehört.
+bekannt ist, „noch offen“ und der Hinweis, dass es früh geklärt gehört.
 
 **Frage 2: Welche Form hat die Arbeit?**
 Das ist die wichtigste Frage der ganzen Runde, und sie wird oft falsch
@@ -56,14 +68,14 @@ bestätigt („Variante B ist auch für abschließende Arbeiten mit einem forsch
 Zugang geeignet, wenn diese in einem gestalterischen oder künstlerischen Format
 umgesetzt werden").
 
-Frag also nicht „forschend oder gestalterisch", sondern: **„Was gibst du am Ende
+Frag also nicht „forschend oder gestalterisch“, sondern: **„Was gibst du am Ende
 ab – einen Text, oder ein Werk plus eine Dokumentation darüber?"**
 
 Wenn Variante B: siehe den eigenen Abschnitt am Ende dieser Datei. Sag es sofort
 und ehrlich, nicht später.
 
 **Frage 3: Fach und Thema.**
-Ein Satz genügt. „Ich weiß nur ungefähr" ist ein brauchbarer Stand – dann ist der
+Ein Satz genügt. „Ich weiß nur ungefähr“ ist ein brauchbarer Stand – dann ist der
 Skill `thema` der nächste Schritt.
 
 Dann noch, wenn es sich anbietet, als vierte kurze Nachfrage: **Ist das Thema
@@ -73,7 +85,7 @@ noch geändert werden kann – nach der Zustimmung ist der Titel inhaltlich fix.
 Trag alles ein. Dann:
 
 **Nenne genau einen nächsten Schritt.** Konkret und machbar. Bei „Thema noch
-offen" ist das der Skill `thema`. Bei „Thema genehmigt, noch nichts geschrieben"
+offen" ist das der Skill `thema`. Bei „Thema genehmigt, noch nichts geschrieben“
 ist es `quellen` oder `gliederung`. Verweise auf `FAHRPLAN.md` für den Überblick.
 
 ---
@@ -103,7 +115,7 @@ Hilf dabei, die Vergangenheit einmal aufzuarbeiten: Was, wann ungefähr, wofür,
 was ist davon in die Arbeit eingeflossen. Trag das als ersten Block ins
 Begleitprotokoll ein, sichtbar als nachträgliche Zusammenfassung gekennzeichnet.
 
-Wenn die Antwort „nein, noch gar nichts" ist: umso besser, dann startet das
+Wenn die Antwort „nein, noch gar nichts“ ist: umso besser, dann startet das
 Protokoll sauber ab heute.
 
 ---
@@ -115,12 +127,12 @@ Diese Runde spätestens, bevor ein Kapitel geschrieben wird.
 **Der Grundsatz für diese ganze Runde: Fast nichts davon ist bundesweit
 geregelt.** Zitierweise, Umfang, Layout, Bindung, Zwischentermine und Abgabeform
 legen Schule und Betreuungsperson fest. Deshalb ist die richtige Reaktion auf
-„weiß ich nicht" nie eine allgemeine Regel, sondern: „Frag sie beim nächsten
+„weiß ich nicht“ nie eine allgemeine Regel, sondern: „Frag sie beim nächsten
 Termin – ich notiere es als offene Frage."
 
 **Frag zuerst nach der Schule.** Nicht aus Neugier, sondern weil viele Standorte
 eigene schriftliche Leitfäden haben, die alles Weitere bereits beantworten:
-„Gibt es an deiner Schule einen Leitfaden oder ein Handout zur ABA?" Wenn ja,
+„Gibt es an deiner Schule einen Leitfaden oder ein Handout zur ABA?“ Wenn ja,
 ist das die wichtigste Datei überhaupt – sie gehört gelesen und ihre Vorgaben
 gehören nach `mein/schulvorgaben.md`.
 
@@ -135,7 +147,7 @@ Dann:
 2. **Was hat sie zu Umfang, Layout, Bindung und Abgabeform gesagt?** Ein
    gesetzliches Umfangslimit gibt es nicht; die verbreiteten „40.000 bis 60.000
    Zeichen" sind keine geltende Vorgabe mehr. Was zählt, ist ihre Erwartung.
-3. **Darfst du „ich" schreiben?** Klingt nebensächlich, entscheidet den Ton der
+3. **Darfst du „ich“ schreiben?** Klingt nebensächlich, entscheidet den Ton der
    ganzen Arbeit – und im Methodenkapitel ist die Ich-Form fast immer die bessere
    Wahl.
 4. **In welcher Sprache schreibst du?** Bei einer Arbeit in einer lebenden
@@ -153,8 +165,8 @@ und von wem. Nicht zusammenfassen, nicht in eigene Worte fassen.
 Und dann der Schritt, den man leicht auslässt: **Prüf die Vorgabe auf Lücken und
 nenne sie.** Eine typische Zitier-Ansage regelt den Regelfall und lässt vier bis
 sechs Punkte offen – ob der Verlag genannt wird, was bei mehreren Urhebern gilt,
-ob „ebd." erlaubt ist, welches Format das Zugriffsdatum hat. Diese Punkte gehören
-auf die Liste „offene Fragen an die Betreuungsperson", nicht ins eigene Ermessen.
+ob „ebd.“ erlaubt ist, welches Format das Zugriffsdatum hat. Diese Punkte gehören
+auf die Liste „offene Fragen an die Betreuungsperson“, nicht ins eigene Ermessen.
 Wer sie selbst entscheidet und im Februar anders entscheidet, hat eine uneinheitliche
 Arbeit – und Einheitlichkeit ist genau das, was bewertet wird.
 
@@ -180,7 +192,7 @@ der Auftrag für den Skill `thema`.
 
 1. **Wann ist der nächste Termin bei der Betreuungsperson, und was wurde zuletzt
    besprochen?** Der Beurteilungsraster bewertet ausdrücklich die
-   „Berücksichtigung von Hilfestellungen" – eine Rückmeldung, die ignoriert wird,
+   „Berücksichtigung von Hilfestellungen“ – eine Rückmeldung, die ignoriert wird,
    kostet zweimal.
 2. **Womit schreibst du, und wo liegt der Text?** Word, Google Docs, LaTeX,
    Markdown. Davon hängt ab, wie geprüft werden kann.
@@ -194,19 +206,24 @@ der Auftrag für den Skill `thema`.
 
 ### Zum Abschluss von Runde 1
 
-Sag in vier Sätzen, wie hier gearbeitet wird:
+Kein Vortrag. Stattdessen **ein erster echter Handgriff an der eigenen Arbeit**,
+noch in derselben Sitzung – das, was nach Runde 1 am meisten bringt:
 
-- Du bekommst Rückmeldung zu dem, was du geschrieben hast – keine fertigen
-  Kapitel. Der Grund: Sieben der dreizehn Beurteilungskriterien werden mündlich
-  geprüft.
-- Jede Sitzung wird im Begleitprotokoll festgehalten. Das ist Pflicht, es ist ein
-  Beurteilungskriterium, und es lässt sich nachträglich nicht erfinden.
-- KI-Nutzung ist ausdrücklich erlaubt, wenn sie dokumentiert und gekennzeichnet
-  wird – das sind zwei getrennte Pflichten (`regeln/ki-kennzeichnung.md`).
-- Quellen werden nie erfunden. Was nicht überprüft ist, wird als „nicht geprüft"
-  gesagt.
+- **Thema noch offen:** drei Eingrenzungen des Themas vorschlagen, jede als
+  Frage formuliert, und fragen, welche sich richtig anfühlt (dann Skill `thema`).
+- **Thema steht, Forschungsfrage wackelt:** die Frage gegen die Prüfliste aus
+  `regeln/thema-und-leitfragen.md` halten und den einen Punkt nennen, der sie am
+  meisten schwächt.
+- **Schon Text vorhanden:** einen Absatz davon lesen und genau einen Befund mit
+  Fundstelle und Mechanismus geben.
 
-Dann den ersten Protokolleintrag vorschlagen.
+Die Regeln des Setups erklärst du erst in dem Moment, in dem sie greifen: den
+Protokollvorschlag am Ende dieser Sitzung, das „nicht geprüft“ bei der ersten
+Quelle, den Eintrag in `mein/ki-stellen.md` beim ersten gemeinsamen Absatz. Mit einem Satz
+Begründung, nicht mit vier.
+
+Dann den ersten Protokolleintrag vorschlagen – und bei „schon KI benutzt“ Runde 2
+gleich anschließen.
 
 ---
 
@@ -219,11 +236,12 @@ Kein Interview. Stattdessen ein Lagebericht in dieser Reihenfolge:
 3. **Was als Nächstes dran ist** – ein Vorschlag, nicht fünf.
 4. **Was zeitkritisch ist** – nur, wenn ein Termin aus dem Profil tatsächlich
    näher rückt. Keine erfundene Dringlichkeit, kein Countdown ohne Anlass.
-5. Wenn im Profil Felder „noch offen" sind, die inzwischen bekannt sein müssten
+5. Wenn im Profil Felder „noch offen“ sind, die inzwischen bekannt sein müssten
    (etwa der Zitierstil vor dem ersten Kapitel): einmal nachfragen, nicht
    drängen.
 
-Kein Fortschrittswert, keine Prozentzahl, keine Note.
+Kein Fortschrittswert und keine Prozentzahl – der Stand zeigt sich an den
+beantworteten Leitfragen.
 
 ---
 
@@ -240,8 +258,8 @@ Maßstäben gelesen.
 
 **Was anders ist:** Der Beurteilungsraster. K2 (Präsentation) und K3 (Diskussion)
 sind in beiden Varianten wortgleich, aber **K1 ist vollständig anders**. Statt
-„Inhalt", „Aufbau" und „sprachliche Gestaltung der schriftlichen Arbeit" heißt es
-dort „Einsatz von Gestaltungsmitteln und Techniken", „Umsetzung des
+„Inhalt“, „Aufbau“ und „sprachliche Gestaltung der schriftlichen Arbeit“ heißt es
+dort „Einsatz von Gestaltungsmitteln und Techniken“, „Umsetzung des
 gestalterischen oder künstlerischen Vorhabens" und „Ergebnis … in Bezug auf
 Wirkung, Individualität und Originalität".
 
@@ -258,5 +276,5 @@ https://www.ahs-aba.at/lehrpersonen/betreuung-beurteilung/aba-beurteilen
   Betreuungsperson noch angepasst werden – der gewählte Zugang selbst nicht mehr.
 - **Ton- und Bilddateien nimmt das ABA-Portal nicht an.** Sie werden auf einem
   Datenträger beigelegt und in der Arbeit vermerkt; wie das Ergebnis abgegeben
-  und archiviert wird, „ist am Schulstandort festzulegen". Das ist ein eigener
+  und archiviert wird, „ist am Schulstandort festzulegen“. Das ist ein eigener
   Arbeitsschritt und gehört rechtzeitig gefragt, nicht in der Abgabewoche.

@@ -1,6 +1,6 @@
 ---
 name: gliederung
-description: Kapitelfolge bauen und gegen die Leitfragen prüfen. Nutzen bei „Gliederung", „Aufbau", „Struktur", „welche Kapitel brauche ich", vor dem Schreiben der Rohfassung.
+description: Kapitelfolge bauen und gegen die Leitfragen prüfen. Nutzen bei „Gliederung“, „Aufbau“, „Struktur“, „welche Kapitel brauche ich“, vor dem Schreiben der Rohfassung.
 license: CC-BY-SA-4.0
 ---
 
@@ -23,10 +23,10 @@ Beides prüfst du ausdrücklich und benennst jede Verletzung:
 - Kapitel ohne Leitfrage → „Kapitel 2.3 gehört zu keiner deiner Leitfragen. Es
   ist entweder Vorwissen, das in die Grundlagen gehört, oder es fehlt eine
   Leitfrage."
-- Leitfrage ohne Kapitel → „Leitfrage 3 wird nirgends beantwortet."
+- Leitfrage ohne Kapitel → „Leitfrage 3 wird nirgends beantwortet.“
 
 Das ist keine Formalie. Der Beurteilungsraster verlangt wörtlich die
-„Beantwortung der zentralen Fragestellung und der Leitfragen". Eine Gliederung,
+„Beantwortung der zentralen Fragestellung und der Leitfragen“. Eine Gliederung,
 die das nicht leistet, produziert eine Arbeit, die es nicht leistet.
 
 ---

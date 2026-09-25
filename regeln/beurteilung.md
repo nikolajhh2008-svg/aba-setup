@@ -1,8 +1,8 @@
 ---
 name: beurteilung
 beschreibung: Die drei Kompetenzbereiche und dreizehn Kriterien der ABA-Beurteilung, wörtlich nach dem amtlichen Raster, aufbereitet als Belegprüfung ohne Notenausgabe
-version: 2
-stand: 2026-08-01
+version: 3
+stand: 2026-09-25
 ---
 
 # Beurteilungsraster der abschließenden Arbeit
@@ -23,9 +23,9 @@ den alten Raster.
 **Er ist eine Orientierungshilfe, kein bindendes Formular.** Die amtlichen
 Erläuterungen (Stand November 2025) beginnen mit dem Satz: „Der Beurteilungsraster
 dient als unverbindliche Orientierungshilfe für die Beurteilung des Prüfungsgebiets
-‚Abschließende Arbeit'." Und weiter: „Die Gewichtung der einzelnen Deskriptoren und
+‚Abschließende Arbeit‘.“ Und weiter: „Die Gewichtung der einzelnen Deskriptoren und
 Kriterien liegt im Ermessen der Prüferin bzw. des Prüfers sowie der
-Prüfungskommission." Was hier steht, ist also der Maßstab, an dem sich die
+Prüfungskommission.“ Was hier steht, ist also der Maßstab, an dem sich die
 Beurteilung orientiert – nicht eine Punkteliste, die man abhaken kann.
 Erläuterungen:
 https://www.ahs-aba.at/fileadmin/ahsvwa/Redaktion/Fuer-Lehrpersonen/user_upload/Betreuen_Beurteilen/Beurteilen/Erl%C3%A4uterungen_BR_2025.pdf
@@ -34,12 +34,12 @@ Ausgearbeitet ist hier Variante A für den forschenden Zugang. **Variante B
 (gestalterisch/künstlerisch) ist keine Randerscheinung:** Sie hat ebenfalls drei
 Kompetenzbereiche und dreizehn Kriterien, K2 und K3 sind wortgleich, und nur K1
 ist vollständig anders – dort heißt es „Gestaltung des Entstehungsprozesses und
-Qualität des Ergebnisses inkl. Dokumentation", mit Kriterien wie „Einsatz von
-Gestaltungsmitteln und Techniken" und „Ergebnis des gestalterischen oder
-künstlerischen Prozesses in Bezug auf Wirkung, Individualität und Originalität".
+Qualität des Ergebnisses inkl. Dokumentation“, mit Kriterien wie „Einsatz von
+Gestaltungsmitteln und Techniken“ und „Ergebnis des gestalterischen oder
+künstlerischen Prozesses in Bezug auf Wirkung, Individualität und Originalität“.
 Amtlicher Hinweis dazu: „Variante B ist auch für abschließende Arbeiten mit einem
 forschenden Zugang geeignet, wenn diese in einem gestalterischen oder
-künstlerischen Format umgesetzt werden." Wer einen Podcast, ein Video oder eine
+künstlerischen Format umgesetzt werden.“ Wer einen Podcast, ein Video oder eine
 Ausstellung macht, arbeitet also mit Variante B, auch wenn er forschend vorgeht –
 das PDF liegt unter derselben Adresse mit `_B.pdf`.
 
@@ -53,15 +53,20 @@ nennt man den Kriteriennamen, nicht die Nummer.
 ## 0. Die wichtigste Regel dieses Regelwerks
 
 **Die KI-Begleitung vergibt keine Note, keine Notenprognose, keinen Punktwert
-und keine Niveaustufe – auf keine Nachfrage.** Sie sagt kriterienweise, was im
-vorliegenden Material belegt ist und was fehlt.
+und keine Prozentzahl – auf keine Nachfrage.** Sie sagt kriterienweise, was im
+vorliegenden Material belegt ist und was fehlt. Eine Einschätzung einzelner
+Kriterien auf den Niveaustufen des Rasters ist erlaubt, wenn sie so begründet
+ist, wie es Abschnitt 2 verlangt, und nie als verbindliches Ergebnis
+ausgegeben wird.
 
 Der Grund ist nicht Vorsicht, sondern Messlage: Die Übereinstimmung von
 Sprachmodellbewertungen mit menschlichen Bewertenden streut über 65
 ausgewertete Studien erheblich. Eine Zahl mit dieser Streuung als „deine Note
-wäre eine Zwei" auszugeben, ist erfunden. Sie beruhigt oder verunsichert ohne
+wäre eine Zwei“ auszugeben, ist erfunden. Sie beruhigt oder verunsichert ohne
 Grundlage, und sie ersetzt die einzige nützliche Auskunft: welche geforderte
-Sache im Text noch nicht steht.
+Sache im Text noch nicht steht. Eine begründete Stufeneinschätzung zu einem
+einzelnen Kriterium ist etwas anderes: Sie zeigt auf eine Stelle und sagt, was
+fehlt – und bleibt damit nachprüfbar.
 
 Auch keine Aussagen über dich als Person: kein Begabungs-, Persönlichkeits-
 oder Verhaltensurteil, keine Leistungsprognose. Beurteilt wird ein Text gegen
@@ -90,6 +95,20 @@ eine Gesamtstufe.
 
 ## 2. Die Niveaustufen – wörtlich
 
+**Handlungsregel vorweg:** Eine ehrliche Einschätzung gegen den Raster ist
+erlaubt, auch mit Niveaustufe – aber nur kriterienweise und begründet. Jede
+Einschätzung nennt drei Dinge: welches Kriterium, welche Stelle im Text welche
+Stufe trägt, und was zur nächsten Stufe fehlt. Nicht erlaubt sind eine Stufe
+ohne Fundstelle sowie eine Gesamtstufe oder Note, die aus den Einzelstufen
+hochgerechnet wird. Beispiel: „Zu K1.6: Die Zitierweise ist einheitlich,
+aber bei vier von neun Internetquellen fehlt das Zugriffsdatum (Fußnoten 12, 15,
+18, 21). Nach meiner Einschätzung trägt das ‚Quellenangaben weitgehend
+vollständig und korrekt‘. Für die nächste Stufe (‚mit wenigen Ausnahmen
+vollständig und korrekt‘) fehlen die Zugriffsdaten in diesen vier Fußnoten.“ Jede Einschätzung wird als vorläufig
+gekennzeichnet: Sie beruht nur auf dem vorliegenden Text, gewichtet nicht, und
+bewertet wird von der Kommission – einschließlich der sieben Kriterien, die erst
+mündlich geprüft werden.
+
 Das Formular hat fünf Ankreuzspalten:
 
 1. nicht erfüllt
@@ -99,27 +118,27 @@ Das Formular hat fünf Ankreuzspalten:
 5. weit über das Wesentliche hinausgehend erfüllt
 
 **Zur Zählung:** Die amtlichen Erläuterungen sprechen von *vier*
-Niveaustufen. Das ist kein Widerspruch – „nicht erfüllt" ist keine Stufe der
+Niveaustufen. Das ist kein Widerspruch – „nicht erfüllt“ ist keine Stufe der
 Erfüllung, sondern deren Verneinung. Belegt ist das wörtlich: „Eine negative
 Einschätzung (= nicht erfüllt) erfolgt, wenn nicht zumindest die niedrigste
-Niveaustufe (= das Wesentliche überwiegend erfüllt) gegeben ist." Es gibt also
+Niveaustufe (= das Wesentliche überwiegend erfüllt) gegeben ist.“ Es gibt also
 vier Erfüllungsstufen und eine fünfte Spalte für den Fall, dass keine davon
 zutrifft.
 
 **Die Steigerung läuft überwiegend über Grad-Adverbien.** Am Beispiel der
 Dokumentation des Arbeitsprozesses:
 
-- Stufe 2: „überwiegend nachvollziehbare Dokumentation"
-- Stufe 3: „weitgehend nachvollziehbare Dokumentation"
-- Stufe 4: „durchgehend nachvollziehbare Dokumentation"
-- Stufe 5: „umfassende Dokumentation"
+- Stufe 2: „überwiegend nachvollziehbare Dokumentation“
+- Stufe 3: „weitgehend nachvollziehbare Dokumentation“
+- Stufe 4: „durchgehend nachvollziehbare Dokumentation“
+- Stufe 5: „umfassende Dokumentation“
 
 Der Unterschied zwischen den Stufen liegt also selten in einer anderen Tätigkeit,
 sondern meist in ihrer Dichte und Durchgängigkeit.
 
 ⚠️ **Aber nicht überall.** Die Erläuterungen halten ausdrücklich fest: „Einzelne
 Deskriptoren sind auf unterschiedlichen Niveaustufen wortident formuliert. Die
-Differenzierung ergibt sich aus der Gesamtbetrachtung." Es gibt also Deskriptoren,
+Differenzierung ergibt sich aus der Gesamtbetrachtung.“ Es gibt also Deskriptoren,
 die auf zwei Stufen gleich lauten. Wer die Stufen an einzelnen Wörtern
 festzumachen versucht, findet dort keinen Unterschied, weil keiner formuliert ist.
 
@@ -133,9 +152,9 @@ Die Gewichtung liegt ausdrücklich im Ermessen der Kommission.
 Es gibt aber eine amtlich ausformulierte Untergrenze, und die ist eindeutig:
 
 > „Für eine positive Beurteilung müssen die drei Kompetenzbereiche (K1 - K3)
-> zumindest ‚überwiegend erfüllt' sein. Ist das in einem der drei
+> zumindest ‚überwiegend erfüllt‘ sein. Ist das in einem der drei
 > Kompetenzbereiche nicht der Fall, ist das Prüfungsgebiet insgesamt mit ‚Nicht
-> genügend' zu beurteilen."
+> genügend‘ zu beurteilen.“
 
 Praktisch heißt das: **Ein Kompetenzbereich, der durchfällt, zieht die ganze
 Arbeit mit.** Wer eine hervorragende schriftliche Arbeit abliefert und in der
@@ -145,7 +164,7 @@ Problem.
 Entlastend, ebenfalls wörtlich: „Ein einzelner, nicht erfüllter Deskriptor führt
 nicht zwangsläufig zu einer negativen Einschätzung eines Kriteriums. Einzelne
 nicht erfüllte Kriterien führen nicht zwangsläufig zu einem negativ bewerteten
-Kompetenzbereich."
+Kompetenzbereich.“
 
 ---
 
@@ -153,7 +172,7 @@ Kompetenzbereich."
 
 ### K1.1 Konzeption, Planung, Durchführung und Dokumentation des Arbeitsprozesses
 
-Deskriptoren (Referenzstufe „zur Gänze erfüllt"):
+Deskriptoren (Referenzstufe „zur Gänze erfüllt“):
 - weitgehend eigeninitiative und stringente Konzeption und Planung
 - weitgehend zielgerichtete Durchführung der Arbeitsschritte
 - weitgehend nachvollziehbare Dokumentation des Arbeitsprozesses im
@@ -168,10 +187,10 @@ rückwirkend nicht rekonstruieren.
 - weitgehende Berücksichtigung von Hilfestellungen
 - weitgehend angemessener und transparenter Einsatz technischer Hilfsmittel
 
-*Was das heißt:* „Transparenter Einsatz technischer Hilfsmittel" ist die
+*Was das heißt:* „Transparenter Einsatz technischer Hilfsmittel“ ist die
 Stelle, an der die KI-Nutzung beurteilt wird – nicht ob, sondern wie
 nachvollziehbar. Auf der höchsten Stufe steht „in hohem Maße kompetenter und
-transparenter Einsatz technischer Hilfsmittel". Wer seine Werkzeugnutzung gut
+transparenter Einsatz technischer Hilfsmittel“. Wer seine Werkzeugnutzung gut
 dokumentiert, kann hier gewinnen statt zu verlieren.
 
 ### K1.3 Inhalt der schriftlichen Arbeit
@@ -184,7 +203,7 @@ dokumentiert, kann hier gewinnen statt zu verlieren.
 - Reflexion der Ergebnisse und Erkenntnisse sowie des Arbeitsprozesses
 
 *Was das heißt:* Der vierte Deskriptor nennt „die zentrale Fragestellung und
-die Leitfragen" ausdrücklich. Deshalb wird der Fortschritt an Leitfragen
+die Leitfragen“ ausdrücklich. Deshalb wird der Fortschritt an Leitfragen
 gemessen und nicht an der Wortzahl.
 
 ### K1.4 Aufbau der schriftlichen Arbeit
@@ -208,7 +227,7 @@ gemessen und nicht an der Wortzahl.
 - Quellenangaben weitgehend vollständig und korrekt
 - ggf. weitgehend einheitliche Beschriftung von Abbildungen und Tabellen
 
-*Was das heißt:* „der gewählten Zitierweise" – es gibt keinen amtlich
+*Was das heißt:* „der gewählten Zitierweise“ – es gibt keinen amtlich
 vorgeschriebenen Stil. Maßgeblich ist, dass einer gewählt und durchgehalten
 wird.
 
@@ -232,7 +251,7 @@ wird.
   Visualisierungen
 - weitgehend angemessener Einsatz von Körpersprache und Interaktion
 
-*Was das heißt:* „freier Vortrag" steht auf jeder Stufe. Ablesen ist damit
+*Was das heißt:* „freier Vortrag“ steht auf jeder Stufe. Ablesen ist damit
 auf keiner Stufe die Erfüllung.
 
 ### K2.3 Gestaltung und Visualisierung
@@ -273,7 +292,7 @@ auf keiner Stufe die Erfüllung.
 Einsatz der eigenen Hilfsmittel in der Diskussion **mündlich zu begründen**.
 Zusammen mit K3.1 und K3.3 heißt das: Wer seinen Text nicht selbst durchdrungen
 hat, scheitert genau hier – vor der Kommission, nicht vorher, und in einem
-Bereich, der ein Viertel aller Kriterien stellt. Das ist der fachliche Grund,
+Bereich, der vier der dreizehn Kriterien stellt. Das ist der fachliche Grund,
 warum dieses Setup Rückmeldung gibt statt fertigen Text: Ein Absatz, den du
 nicht selbst gedacht hast, kostet dich in der Diskussion mehr, als er dir beim
 Schreiben erspart hat.
@@ -282,7 +301,7 @@ Schreiben erspart hat.
 
 ## 6. Was sonst auf dem Formular steht
 
-- „Besteht Plagiatsverdacht? Ja / Nein"
+- „Besteht Plagiatsverdacht? Ja / Nein“
 - Ein Feld für Anmerkungen je Kompetenzbereich
 - Ein Feld für den Beurteilungsvorschlag
 - Ort, Datum, Unterschrift der Prüferin bzw. des Prüfers
@@ -293,10 +312,14 @@ Schreiben erspart hat.
 
 **Erlaubt:** kriterienweise zeigen, was belegt ist und was fehlt, und dabei auf
 die konkrete Stelle im eigenen Text verweisen. Formulierung: „Zu K1.3 findet
-sich in deiner Arbeit noch kein Beleg für die Beantwortung von Leitfrage 2."
+sich in deiner Arbeit noch kein Beleg für die Beantwortung von Leitfrage 2.“
+Ebenfalls erlaubt: eine begründete, als vorläufig gekennzeichnete
+Stufeneinschätzung zu einem einzelnen Kriterium nach den Bedingungen aus
+Abschnitt 2.
 
-**Nicht erlaubt:** eine Note, eine Niveaustufe, eine Punktzahl, eine
-Prozentangabe, eine Ampel oder eine Prognose. Der Raster überlässt die
+**Nicht erlaubt:** eine Note, eine Gesamtstufe für einen Kompetenzbereich oder
+die Arbeit, eine Stufe ohne Fundstelle, eine Punktzahl, eine Prozentangabe, eine
+Ampel oder eine Prognose. Der Raster überlässt die
 Gewichtung ausdrücklich der Prüferin oder dem Prüfer, und die Entscheidung
 trifft die Kommission.
 

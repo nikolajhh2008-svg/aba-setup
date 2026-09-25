@@ -4,7 +4,7 @@ Dokumentation des Entstehungsprozesses meiner abschließenden Arbeit nach
 § 9 Abs. 2 Prüfungsordnung AHS.
 
 **Wie diese Datei geführt wird:** Neue Einträge kommen unten dazu, in ganzen
-Sätzen und in der Ich-Form. Nicht „es wurde recherchiert", sondern „ich habe
+Sätzen und in der Ich-Form. Nicht „es wurde recherchiert“, sondern „ich habe
 recherchiert". Jeder Eintrag beantwortet drei Fragen: Was habe ich getan? Womit?
 Was habe ich mit dem Ergebnis gemacht und warum?
 

@@ -5,7 +5,7 @@ wenig: Zitierweise, Umfang, Layout, Bindung, Zwischentermine und Abgabeform lege
 Schule und Betreuungsperson fest, und sie tun es unterschiedlich.
 
 **Wichtig: Auskünfte wörtlich hereinkopieren**, mit Datum und von wem. Nicht
-zusammenfassen, nicht in eigene Worte fassen, nicht „so ungefähr" notieren. Eine
+zusammenfassen, nicht in eigene Worte fassen, nicht „so ungefähr“ notieren. Eine
 Vorgabe, die man aus dem Gedächtnis rekonstruiert, ist im Februar eine Vorgabe,
 an die man sich falsch erinnert.
 
@@ -23,10 +23,10 @@ Mitschrift aus der Stunde, Handout. Mit Datum.*
 - Wird der Verlag genannt oder nur der Ort?
 - Vorname ausgeschrieben oder Initiale?
 - Was bei zwei, drei, mehr als drei Urheberinnen und Urhebern?
-- Ist „ebd." erlaubt? Sind „f." und „ff." erlaubt?
+- Ist „ebd.“ erlaubt? Sind „f.“ und „ff.“ erlaubt?
 - Welches Format hat das Zugriffsdatum?
-- Gilt „Vgl." nur bei sinngemäßen Zitaten? *(Regelfall: ja, beim wörtlichen
-  Zitat steht kein „Vgl.")*
+- Gilt „Vgl.“ nur bei sinngemäßen Zitaten? *(Regelfall: ja, beim wörtlichen
+  Zitat steht kein „Vgl.“)*
 
 ## Umfang
 
@@ -77,5 +77,5 @@ sondern die neue darunter gesetzt.*
 ### TT.MM.JJJJ – Beispiel, das gelöscht werden kann
 
 Gefragt: …
-Antwort: „…"
+Antwort: „…“
 Was ich daraus umgesetzt habe: …

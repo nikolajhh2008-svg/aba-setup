@@ -1,8 +1,8 @@
 ---
 name: methodik
 beschreibung: Methodenwahl, Methodenbeschreibung und empirisches Arbeiten in einer abschließenden Arbeit – welche Verfahren mit Schulmitteln tragen, wie sie nachvollziehbar dargestellt werden und wo Arbeiten regelmäßig scheitern
-version: 1
-stand: 2026-08-01
+version: 2
+stand: 2026-09-25
 ---
 
 # Methodik und Empirie
@@ -11,6 +11,11 @@ Geltungsbereich: abschließende Arbeit (ABA) an österreichischen AHS, forschend
 Zugang; die Interview- und Datenschutzstandards gelten ebenso für gestalterische
 Vorhaben mit Interviewanteil.
 
+Rechtsstatus-Marken an den Kernaussagen: **[Verordnung]** Prüfungsordnung AHS ·
+**[Handreichung/FAQ]** Handreichungen und FAQ des Bildungsministeriums auf
+ahs-aba.at, nicht rechtsverbindlich · **[nicht amtlich geregelt]** fachliche
+Empfehlung dieses Regelwerks.
+
 ## 1. Warum das Methodenkapitel bewertungsrelevant ist
 
 Drei Gründe, keiner davon Geschmackssache.
@@ -18,12 +23,20 @@ Drei Gründe, keiner davon Geschmackssache.
 **Erstens die Verordnung.** § 8 Abs. 1a Prüfungsordnung AHS definiert die
 forschende Arbeit als „schriftliche Arbeit unter Beschreibung der angewandten
 Methoden und Reflexion der Ergebnisse oder das Ergebnis eines forschenden
-Prozesses unter Nutzung von medialen Formaten“. Die Methodenbeschreibung ist
-also Bestandteil der Definition, nicht Zierrat.
+Prozesses unter Nutzung von medialen Formaten“. Das „kann“ wählt zwischen den
+beiden Formen; für die schriftliche Form ist die Methodenbeschreibung Teil der
+Definition, nicht Zierrat. Dazu § 7 Abs. 1 Z 1: eine schriftliche Arbeit, „bei
+der Arbeitstechniken und Methoden zur Anwendung kommen, die über eine bloße
+Reproduktion hinausgehen“ **[Verordnung]**. Ein eigenes Kapitel mit der
+Überschrift „Methode“ schreibt die Verordnung nicht vor; die Handreichung
+verlangt die Beschreibung der angewandten Arbeitstechniken und Methoden im
+Hauptteil **[Handreichung/FAQ]**.
 https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007845
 
-**Zweitens der Beurteilungsraster.** Ab dem Reifeprüfungstermin 2026/27 gilt der
-Raster mit drei Kompetenzbereichen und dreizehn Kriterien. Die
+**Zweitens der Beurteilungsraster.** Ab dem Reifeprüfungstermin 2026/27 bietet
+das Ministerium den Raster mit drei Kompetenzbereichen und dreizehn Kriterien
+an – nach eigener Bezeichnung eine „unverbindliche Orientierungshilfe“
+**[Handreichung/FAQ]**, an der sich Kommissionen aber ausrichten. Die
 Methodenbeschreibung wird in K1 mitgemessen; in K2 gehört die „schlüssige
 Darstellung von Zielsetzung, Arbeitsweisen und Methoden“ zu den
 Präsentationskriterien; in K3 wird die Begründung des methodischen Vorgehens und
@@ -40,9 +53,27 @@ und damit als Befund wertlos – auch dann, wenn es stimmt.
 
 ### Systematische Literaturarbeit
 
-Eignung: der Normalfall einer ABA. Trägt jede Fragestellung, zu der ein
-Forschungsstand existiert, und ist die einzige Methode, die ohne
-Feldzugang auskommt.
+Eignung: zulässig und verbreitet, aber nur als systematische Bearbeitung, nicht
+als Zusammenfassung. FAQ 2.4 zur abschließenden Arbeit: „Ja, im Rahmen der ABA
+ist es möglich, eine Literaturarbeit zu verfassen. Sie fällt in die Kategorie
+einer schriftlichen Arbeit mit forschendem Zugang.“ Die Eigenleistung besteht
+darin, „eine Fragestellung systematisch auf Basis vorhandener Literatur zu
+bearbeiten“ – Quellen recherchieren, kritisch beurteilen, auswählen,
+systematisch auswerten und miteinander in Beziehung setzen; ein eigener
+empirischer Teil ist „nicht zwingend erforderlich“ **[Handreichung/FAQ]**
+(https://www.ahs-aba.at/lehrpersonen/faqs/faqs-zur-abschliessenden-arbeit,
+gelesen 25.09.2026).
+
+Die Grenze zieht die Handreichung ebenso deutlich: Verlangt sind angemessene
+Methoden, „deren Durchführung eine deutliche Eigenleistung der Schülerinnen und
+Schüler erfordert, die über eine bloße Reproduktion (‚reine Literaturarbeit‘)
+hinausgeht“ **[Handreichung/FAQ]**
+(https://www.ahs-aba.at/lehrpersonen/die-aba/was-ist-die-abschliessende-arbeit).
+§ 7 Abs. 1 Z 1 sagt dasselbe für Arbeitstechniken und Methoden
+**[Verordnung]**. Zusammen gelesen: Eine Literaturarbeit ist zulässig, wenn
+Auswahl, Vergleich und Auswertung sichtbar eigene Arbeit sind – nicht, wenn sie
+Quellen nacheinander wiedergibt. Dann eignet sie sich für jede Fragestellung, zu
+der ein Forschungsstand existiert, und kommt ohne Feldzugang aus.
 
 Vorgehen: Suchbegriffe und Datenbanken festlegen, Ein- und Ausschlusskriterien
 vorab definieren (Zeitraum, Sprache, Publikationstyp, Peer-Review ja/nein),
@@ -294,8 +325,9 @@ umgekehrt. Wer eine Umfrage macht, weil sie einfach ist, obwohl die Frage nach
 Ursachen sucht, hat Material ohne Aussagekraft erhoben.
 
 **Werkzeugeinsatz nicht dokumentiert.** Transkriptions-, Übersetzungs-,
-Auswertungs- und Sprachwerkzeuge gehören ins Begleitprotokoll und, wenn
-generativ, ins Hilfsmittelverzeichnis. Die KI-FAQ verlangt die Dokumentation,
+Auswertungs- und Sprachwerkzeuge gehören ins Begleitprotokoll **[Verordnung]**
+und ins Hilfsmittelverzeichnis, das alle wesentlich beteiligten digitalen
+Werkzeuge erfasst, nicht nur KI (KI-FAQ 3.3) **[Handreichung/FAQ]**. Die KI-FAQ verlangt die Dokumentation,
 sobald generierte Inhalte in die Arbeit einfließen oder weiterverarbeitet werden.
 https://www.ahs-aba.at/lehrpersonen/faqs/faqs-zum-einsatz-von-ki-tools
 

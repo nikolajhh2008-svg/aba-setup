@@ -1,6 +1,6 @@
 ---
 name: quellen
-description: Quellen prüfen, einordnen und in mein/quellen.md aufnehmen. Nutzen bei „ist die Quelle brauchbar", „darf ich das zitieren", „wie zitiere ich das", beim Sammeln von Literatur.
+description: Quellen prüfen, einordnen und in mein/quellen.md aufnehmen. Nutzen bei „ist die Quelle brauchbar“, „darf ich das zitieren“, „wie zitiere ich das“, beim Sammeln von Literatur.
 license: CC-BY-SA-4.0
 ---
 
@@ -35,11 +35,11 @@ wenn die Person die Quelle selbst geöffnet hat.
 
 ### 1. Existiert sie, und liegt sie vor?
 
-„Selbst gesehen" heißt: das Buch in der Hand, die PDF geöffnet, die Seite
+„Selbst gesehen“ heißt: das Buch in der Hand, die PDF geöffnet, die Seite
 aufgeschlagen. Nicht: in einer Trefferliste gefunden, in einem anderen
 Literaturverzeichnis gelesen, von einem Chat genannt bekommen.
 
-Liegt sie nicht vor, kommt sie unter „Noch zu beschaffen" und wird nicht zitiert.
+Liegt sie nicht vor, kommt sie unter „Noch zu beschaffen“ und wird nicht zitiert.
 
 ### 2. Zitierfähig?
 

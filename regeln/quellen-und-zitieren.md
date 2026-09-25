@@ -1,16 +1,21 @@
 ---
 name: quellen-und-zitieren
-beschreibung: Regelwerk für Quellenauswahl, Quellenkritik, Zitiertechnik, Zitierstile und Literaturverzeichnis in abschließenden Arbeiten, einschließlich der Sonderstellung generativer Sprachmodelle.
-version: 1
-stand: 2026-08-01
+beschreibung: Regelwerk für Quellenauswahl, Quellenkritik, Zitiertechnik, Belegen und Literaturverzeichnis in abschließenden Arbeiten, einschließlich der Sonderstellung generativer Sprachmodelle. Zitierformate stehen in zitierstile.md.
+version: 2
+stand: 2026-09-25
 ---
 
 # Quellen und Zitieren
 
-Dieses Regelwerk gilt für jede Auskunft zu Quellen, Belegen, Fußnoten, Literaturverzeichnis
-und Zitierstil. Es ist verbindlich. Wo die Betreuungsperson oder eine schulinterne Vorgabe
+Dieses Regelwerk gilt für jede Auskunft zu Quellen, Belegen, Fußnoten und
+Literaturverzeichnis; für Zitierformate gilt `zitierstile.md`. Es ist verbindlich. Wo die Betreuungsperson oder eine schulinterne Vorgabe
 etwas anderes verlangt, gilt deren Vorgabe – das ist dann ausdrücklich zu sagen, statt die
 allgemeine Regel als alternativlos darzustellen.
+
+**Alle Personen, Titel, Zeitungen und Seitenzahlen in den Beispielen sind
+erfunden** und dürfen nie als Literaturangabe übernommen werden. Echt sind nur
+die Fundstellen, die dieses Regelwerk selbst als Beleg nennt, und die
+Gesetzesangaben. Zitierformate stehen ausschließlich in `zitierstile.md`.
 
 ## 1. Zwei Begriffe, die nicht dasselbe sind
 
@@ -30,12 +35,13 @@ kommt nicht in die Arbeit. Eine Quelle, die die zweite nicht besteht, kommt nur 
 ausdrücklicher Einordnung hinein („Die Boulevardberichterstattung stellte den Fall so dar …“)
 und nie als Beleg für eine Sachaussage.
 
-Negativbeispiel: „Laut einer Studie ist Videoüberwachung wirkungslos (vgl. Kurier 2024).“ Die
-Zeitung ist zitierfähig, aber sie ist nicht die Studie. Der Satz belegt eine Sachaussage mit
-einer Sekundärwiedergabe.
+Negativbeispiel: „Laut einer Studie kommen immer weniger junge Gäste ins Kaffeehaus (vgl.
+Musterstädter Zeitung 2024).“ Die Zeitung ist zitierfähig, aber sie ist nicht die Studie. Der
+Satz belegt eine Sachaussage mit einer Sekundärwiedergabe.
 
-Positivbeispiel: „Der Kurier berichtete am 14.03.2024 über die Studie; die Studie selbst kommt
-zu dem Ergebnis, dass die Wirkung auf Eigentumsdelikte gering ist (vgl. Steiner 2024, S. 221).“
+Positivbeispiel: „Die Musterstädter Zeitung berichtete am 14.03.2024 über die Befragung; die
+Befragung selbst kommt zu dem Ergebnis, dass unter den Stammgästen nur wenige jünger als
+30 Jahre sind (vgl. Steiner u. a. 2023, S. 221).“
 Die Zeitung belegt die öffentliche Rezeption, die Studie belegt den Befund.
 
 ## 2. Quellenkritik in sieben prüfbaren Schritten
@@ -81,7 +87,8 @@ beantwortbar.
 - **Gesetzestext.** Zitierfähig: ja, als Primärquelle. Trägt alles, was der Wortlaut hergibt,
   und nichts darüber hinaus. Immer die geltende Fassung aus einer amtlichen Sammlung, in
   Österreich https://www.ris.bka.gv.at. Zitiert wird mit Kurzbezeichnung, Paragraf, Absatz und
-  Fundstelle, etwa § 9 Abs. 2 Prüfungsordnung AHS, BGBl. II Nr. 174/2012 i.d.g.F.
+  Fundstelle, etwa § 9 Abs 2 Prüfungsordnung AHS, BGBl. II Nr. 174/2012 idgF. Schreibweise und
+  Fallen in `zitierstile.md`, Abschnitt 5a.
 - **Norm (ÖNORM, DIN, ISO).** Zitierfähig: ja, als Primärquelle, für technische Festlegungen
   und Definitionen. Normen sind meist kostenpflichtig; eine Norm, die man nicht im Volltext
   gesehen hat, darf nicht zitiert werden.
@@ -123,15 +130,16 @@ beantwortbar.
 ## 4. Zitiertechnik
 
 **Wörtliches Zitat.** Buchstabengetreu, einschließlich Fehlern und alter Rechtschreibung, in
-Anführungszeichen, mit Seitenangabe. Ein offensichtlicher Fehler im Original wird mit „[sic]“
+Anführungszeichen („…“), mit Seitenangabe. Ein offensichtlicher Fehler im Original wird mit „[sic]“
 markiert, nicht stillschweigend korrigiert. Zwei Details dazu in `zitierstile.md`: Das
 Rufzeichen („[sic!]“) ist eine deutsche Eigenheit und in APA und Chicago nicht üblich – und
 **alte Rechtschreibung ist kein Fehler und wird nicht markiert.** Wörtliche Zitate sind sparsam einzusetzen: nur,
 wenn der genaue Wortlaut zählt, also bei Definitionen, Gesetzestext, prägnanten Formulierungen
 und Belegen für eine Interpretation.
 
-**Sinngemäßes Zitat.** Der fremde Gedanke in eigenen Worten, mit Beleg, eingeleitet durch
-„Vgl.“. Eine Paraphrase, die dem Original satzweise folgt und nur Synonyme tauscht, ist keine
+**Sinngemäßes Zitat.** Der fremde Gedanke in eigenen Worten, mit Beleg; in Fußnotenstilen und
+nach österreichischer Schulpraxis mit vorangestelltem „Vgl.“, bei APA und Harvard ohne
+(`zitierstile.md`, Abschnitt 4). Eine Paraphrase, die dem Original satzweise folgt und nur Synonyme tauscht, ist keine
 Paraphrase, sondern ein unmarkiertes Zitat. Prüfregel: Wer den eigenen Satz ohne Blick auf das
 Original nicht hätte schreiben können, hat nicht paraphrasiert.
 
@@ -140,8 +148,10 @@ einfachen: „Sie nennt das ‚digitale Selbstverteidigung‘ und meint damit �
 nur aus zweiter Hand kennt, wird mit „zitiert nach“ gekennzeichnet. Das ist zulässig, aber
 immer die zweitbeste Lösung; die Regel lautet, das Original zu beschaffen.
 
-**Auslassungen und Ergänzungen.** Ausgelassenes wird durch drei Punkte in eckigen Klammern
-ersetzt: […]. Der Sinn darf sich dadurch nicht verändern. Notwendige grammatische oder
+**Auslassungen und Ergänzungen.** Ausgelassenes wird in deutscher Praxis durch drei Punkte in
+eckigen Klammern ersetzt: […]. APA setzt Auslassungspunkte ohne Klammern – die Stile
+unterscheiden sich hier grundsätzlich (`zitierstile.md`, Abschnitt 4). Der Sinn darf sich
+durch die Auslassung nicht verändern. Notwendige grammatische oder
 inhaltliche Ergänzungen stehen in eckigen Klammern: „Sie [die Kommission] entscheidet.“
 Anmerkungen der verfassenden Person werden gekennzeichnet: „[Anm. d. Verf.]“.
 
@@ -159,123 +169,67 @@ Ausnahmen; drei auf einer Seite bedeuten, dass die Arbeit dort referiert statt a
 **Kein Zitat ohne eigene Einordnung.** Jedes Zitat braucht drei Teile: Hinführung, Zitat,
 Auswertung. Ein Zitat, das allein in einem Absatz steht, leistet nichts.
 
-Negativbeispiel: „Überwachung verändert Verhalten. ‚Wer sich beobachtet fühlt, verhält sich
-konformer‘ (Hofer 2023, S. 47). Im nächsten Kapitel geht es um die Rechtslage.“
+Negativbeispiel: „Im Kaffeehaus wurde Zeitung gelesen. ‚Wer keine Zeitung kaufen konnte, las
+sie im Café‘ (Huber 2019, S. 47). Im nächsten Kapitel geht es um die Architektur.“
 
-Positivbeispiel: „Die verhaltensändernde Wirkung ist der zentrale Einwand gegen
-flächendeckende Videoüberwachung. Hofer fasst ihn so zusammen: ‚Wer sich beobachtet fühlt,
-verhält sich konformer‘ (Hofer 2023, S. 47). Der Einwand richtet sich damit nicht gegen die
-Wirksamkeit, sondern gegen den Preis: Er unterstellt, dass Konformität kein erwünschter Effekt
-ist. Genau diese Unterstellung prüft das folgende Kapitel.“
+Positivbeispiel: „Die Zeitungslektüre gilt als Hauptgrund, warum das Kaffeehaus um 1900 auch
+Gäste mit wenig Geld anzog. Huber fasst das so zusammen: ‚Wer keine Zeitung kaufen konnte,
+las sie im Café‘ (Huber 2019, S. 47). Der Satz erklärt den Besuch mit dem Preis der Zeitung,
+nicht mit dem Kaffee: Er unterstellt, dass die Gäste wegen der Lektüre kamen. Ob das für alle
+Bezirke gilt, prüft das folgende Kapitel.“
 
-## 5. Die Zitierstile
+## 5. Belegen: wann, wo, wie
 
-Vorbemerkung: Die Angaben zu Monografie, Sammelbandbeitrag und Zeitschriftenaufsatz sind
-**Formatmuster**. Die bibliografischen Daten sind zu Demonstrationszwecken gesetzt und dürfen
-nicht als reale Literaturangabe übernommen werden. Nur das Beispiel für die Internetquelle
-verweist auf eine tatsächlich existierende Seite.
+Dieser Abschnitt regelt die Technik. **Wie ein Beleg aussieht – Reihenfolge,
+Zeichensetzung, Zugriffsdatum, Kurz- und Vollbeleg in jedem Stil –, steht
+ausschließlich in `zitierstile.md`.** Maßgeblich ist der in `mein/profil.md`
+eingetragene Stil; die Vorgabe der Betreuungsperson schlägt jede allgemeine
+Regel.
 
-Der Muster-Datensatz, in allen vier Stilen derselbe: Monografie von Elisabeth Hofer,
-„Überwachung und Vertrauen. Zur Geschichte der Videoüberwachung im öffentlichen Raum“,
-2. Auflage, Facultas, Wien 2023, belegte Stelle Seite 47. Sammelbandbeitrag von Martin Berger,
-„Algorithmische Vorhersage im Polizeidienst“, in einem von Sabine Wagner und Thomas Lindner
-herausgegebenen Band „Sicherheit und Grundrechte“, transcript, Bielefeld 2022, Seiten 145 bis
-168. Zeitschriftenaufsatz von Julia Steiner, „Gesichtserkennung an Bahnhöfen. Eine rechtliche
-Einordnung“, in „Zeitschrift für Datenschutzrecht“, Jahrgang 12 (2024), Heft 3, Seiten 210 bis
-229. Internetquelle: Bundesministerium für Bildung, „FAQs zum Einsatz von KI-Tools“.
+**Was einen Beleg braucht.** Jeder fremde Gedanke, jede Zahl, jedes Datum, jede
+Definition und jede Wertung, die nicht aus der eigenen Untersuchung stammt. Keinen
+Beleg braucht, was fachlich unstrittiges Allgemeinwissen ist („Wien ist die
+Hauptstadt Österreichs“). Im Zweifel belegen: Ein überflüssiger Beleg schadet
+nicht, ein fehlender schon.
 
-### 5.1 Amerikanische Zitierweise, Kurzbeleg im Text, APA-nah
+**Wann wörtlich, wann sinngemäß.** Wörtlich nur, wenn der genaue Wortlaut zählt:
+Definitionen, Gesetzestext, prägnante Formulierungen, die man interpretiert, und
+Belege für eine Deutung. In allen anderen Fällen sinngemäß, weil die eigene
+Formulierung zeigt, dass der Gedanke verstanden wurde. Technik beider Formen in
+Abschnitt 4.
 
-Der Beleg steht in Klammern im Fließtext, das Literaturverzeichnis trägt die Vollangabe.
-Fußnoten nur für inhaltliche Anmerkungen. Im Text: (Hofer, 2023, S. 47). Bei zwei
-Urheberinnen: (Wagner & Lindner, 2022). Ab drei: (Wagner et al., 2022). Wörtliches Zitat immer
-mit Seitenzahl, sinngemäßes in der Regel ebenfalls.
+**Der Beleg steht an der Aussage, nicht am Absatzende.** Wer drei Sätze aus drei
+Quellen schreibt und am Ende einen Beleg setzt, lässt offen, welcher Satz woher
+stammt. Übliche Satzregel für Fußnoten: Bezieht sich der Beleg auf den ganzen
+Satz, steht die Ziffer nach dem Satzzeichen; bezieht er sich nur auf ein Wort
+oder eine Wortgruppe, steht sie direkt dahinter. Beim Kurzbeleg im Text steht die
+Klammer vor dem Satzzeichen. Nennt die Schulvorgabe eine andere Regel, gilt sie.
 
-Literaturverzeichnis:
+**Mehrere Sätze aus derselben Quelle.** Folgen mehrere Sätze derselben Quelle,
+genügt ein Beleg, wenn am Anfang erkennbar ist, dass referiert wird („Huber
+beschreibt drei Phasen: …“), und der Beleg am Ende der Passage steht. Endet die
+Passage in einer eigenen Einordnung, muss sichtbar sein, wo das Referat aufhört –
+meist durch einen Satz, der mit der eigenen Folgerung beginnt.
 
-- Hofer, E. (2023). Überwachung und Vertrauen: Zur Geschichte der Videoüberwachung im
-  öffentlichen Raum (2. Aufl.). Facultas.
-- Berger, M. (2022). Algorithmische Vorhersage im Polizeidienst. In S. Wagner & T. Lindner
-  (Hrsg.), Sicherheit und Grundrechte (S. 145–168). transcript.
-- Steiner, J. (2024). Gesichtserkennung an Bahnhöfen: Eine rechtliche Einordnung. Zeitschrift
-  für Datenschutzrecht, 12(3), 210–229. https://doi.org/10.1000/zdr.2024.0210
-- Bundesministerium für Bildung. (2026). FAQs zum Einsatz von KI-Tools.
-  https://www.ahs-aba.at/lehrpersonen/faqs/faqs-zum-einsatz-von-ki-tools [Zugriff: 01.08.2026]
+**Sammelbeleg.** Stützen mehrere Quellen dieselbe Aussage, stehen sie in einem
+Beleg, getrennt durch Strichpunkt, in der Reihenfolge, die der Stil vorgibt
+(Formate in `zitierstile.md`). Ein Sammelbeleg ist nur zulässig, wenn **jede**
+genannte Quelle die Aussage trägt – nicht, wenn eine sie trägt und die anderen
+das Thema nur berühren.
 
-Hinweis: APA verlangt ein Abrufdatum nur bei Inhalten, die sich absehbar ändern. Die
-österreichischen Portal-Vorgaben verlangen es generell im Format [Zugriff: TT.MM.JJJJ]. Im
-Zweifel Zugriffsdatum setzen.
-
-### 5.2 Deutsche Zitierweise, Vollbeleg in der Fußnote
-
-Der erste Beleg einer Quelle steht als Vollangabe in der Fußnote, jeder weitere als Kurzbeleg.
-Im Fließtext steht nur die hochgestellte Ziffer.
-
-Erstbelege:
-
-- 1 Elisabeth Hofer: Überwachung und Vertrauen. Zur Geschichte der Videoüberwachung im
-  öffentlichen Raum, 2. Auflage, Wien: Facultas 2023, S. 47.
-- 2 Martin Berger: Algorithmische Vorhersage im Polizeidienst, in: Sabine Wagner/Thomas
-  Lindner (Hg.): Sicherheit und Grundrechte, Bielefeld: transcript 2022, S. 145–168, hier
-  S. 151.
-- 3 Julia Steiner: Gesichtserkennung an Bahnhöfen. Eine rechtliche Einordnung, in: Zeitschrift
-  für Datenschutzrecht 12 (2024), H. 3, S. 210–229, hier S. 215.
-- 4 Bundesministerium für Bildung: FAQs zum Einsatz von KI-Tools,
-  https://www.ahs-aba.at/lehrpersonen/faqs/faqs-zum-einsatz-von-ki-tools [Zugriff: 01.08.2026].
-
-Kurzbeleg danach: 5 Hofer: Überwachung und Vertrauen, S. 52. Bei sinngemäßer Wiedergabe:
-6 Vgl. Hofer: Überwachung und Vertrauen, S. 52. „Ebd.“ nur, wenn die unmittelbar vorangehende
-Fußnote dieselbe Quelle nennt: 7 Ebd., S. 53. „A. a. O.“ gilt heute als veraltet.
-
-**Wichtig: Die „deutsche Zitierweise“ ist kein einzelner Stil.** Sie ist eine Familie schul-
-und lehrstuhlspezifischer Varianten, die sich in Reihenfolge, Zeichensetzung, Verlagsangabe und
-Kurzbelegform unterscheiden. Ob die Kurzform „Hofer 2023, S. 52“ oder „Hofer: Überwachung und
-Vertrauen, S. 52“ lautet, ob der Verlag genannt wird und ob „Vgl.“ verpflichtend ist,
-entscheidet die Betreuungsperson. **Diese Vorgabe schlägt jede allgemeine Regel.** Wer keine
-Vorgabe hat, wählt eine Variante und hält sie durch; Uneinheitlichkeit kostet in der
-Beurteilung mehr als die Wahl der Variante.
-
-### 5.3 Harvard
-
-Kurzbeleg im Text wie bei der amerikanischen Zitierweise, aber mit anderer Zeichensetzung und
-ausgeschriebenen Vornamen im Verzeichnis. Im Text: (Hofer 2023: 47) oder (Hofer 2023, S. 47),
-je nach Variante.
-
-Literaturverzeichnis:
-
-- Hofer, Elisabeth (2023): Überwachung und Vertrauen. Zur Geschichte der Videoüberwachung im
-  öffentlichen Raum. 2. Auflage. Wien: Facultas.
-- Berger, Martin (2022): Algorithmische Vorhersage im Polizeidienst. In: Wagner,
-  Sabine/Lindner, Thomas (Hg.): Sicherheit und Grundrechte. Bielefeld: transcript, S. 145–168.
-- Steiner, Julia (2024): Gesichtserkennung an Bahnhöfen. Eine rechtliche Einordnung. In:
-  Zeitschrift für Datenschutzrecht 12 (3), S. 210–229. DOI: https://doi.org/10.1000/zdr.2024.0210
-- Bundesministerium für Bildung (2026): FAQs zum Einsatz von KI-Tools. Online:
-  https://www.ahs-aba.at/lehrpersonen/faqs/faqs-zum-einsatz-von-ki-tools [Zugriff: 01.08.2026].
-
-Zum Verhältnis der Begriffe: „Amerikanische Zitierweise“ ist im deutschsprachigen Raum der
-Sammelbegriff für den Kurzbeleg im Text. Harvard ist eine Ausprägung davon, APA ein normiertes
-Regelwerk innerhalb derselben Familie. Viele Schulhandreichungen verwenden die Begriffe
-synonym. Diese Unschärfe ist zu benennen, nicht zu übergehen.
-
-### 5.4 Chicago
-
-Chicago kennt zwei Systeme. „Notes and Bibliography“ arbeitet mit Fußnoten-Vollbeleg und
-ähnelt darin der deutschen Zitierweise; verbreitet in Geschichte, Kunst- und
-Literaturwissenschaft. „Author-Date“ arbeitet mit Kurzbeleg im Text und ähnelt Harvard. Ein
-Beleg im ersten System: 1. Elisabeth Hofer, Überwachung und Vertrauen: Zur Geschichte der
-Videoüberwachung im öffentlichen Raum, 2. Aufl. (Wien: Facultas, 2023), 47. Für abschließende
-Arbeiten im deutschsprachigen Raum ist Chicago selten verlangt und nur zu nennen, wenn eine
-Betreuungsperson es vorgibt.
+**Sekundärwiedergabe ist kein Beleg für die Sache.** Wer eine Studie nur aus der
+Zeitung kennt, belegt die Zeitung, nicht die Studie (Abschnitt 1).
 
 ## 6. Internetquellen
 
 - Immer die **vollständige, direkte URL**, nicht die Startseite der Website und keinen
   Suchergebnis-Link.
-- Immer ein **Zugriffsdatum** im Format [Zugriff: TT.MM.JJJJ]. Dieses Format verlangt das
-  ABA-Portal ausdrücklich für die Quellenangaben im Erwartungshorizont
-  (https://www.ahs-aba.at/schueler/thema-finden/ausformulierung-des-themas).
-- **DOI vor URL.** Existiert ein Digital Object Identifier, ist er als https://doi.org/...
-  anzugeben; die zusätzliche URL entfällt dann. Ein DOI ist dauerhaft, eine URL nicht.
+- Immer ein **Zugriffsdatum**. Das ABA-Portal verlangt es schon für die Quellenangaben im
+  Erwartungshorizont (https://www.ahs-aba.at/schueler/thema-finden/ausformulierung-des-themas);
+  das Format steht in `zitierstile.md`.
+- **DOI vor URL.** Existiert ein Digital Object Identifier (DOI, dauerhafte Kennung eines
+  Aufsatzes), wird er statt der URL angegeben. Ein DOI ist dauerhaft, eine URL nicht. Form in
+  `zitierstile.md`, Abschnitt 4.
 - **Gegen Linkverfall archivieren.** Jede zitierte Webseite vor der Abgabe im Internet Archive
   sichern (https://web.archive.org) und die Archivadresse zusätzlich vermerken. Webseiten
   verschwinden zwischen Recherche und Abgabe regelmäßig; eine tote Fußnote wirkt in der
@@ -285,7 +239,7 @@ Betreuungsperson es vorgibt.
   gedruckten Quellen eine akzeptierte Notlösung.
 - **Fehlendes Datum.** „o. J.“ setzen und das Zugriffsdatum umso genauer angeben. Die
   Zitierwürdigkeit sinkt deutlich; für zeitkritische Aussagen ist die Quelle dann unbrauchbar.
-- **PDF im Netz** wird wie das gedruckte Werk zitiert, ergänzt um URL und Zugriffsdatum.
+- **PDF im Netz** wird wie das gedruckte Werk belegt, ergänzt um URL und Zugriffsdatum.
 
 ## 7. Literaturverzeichnis
 
@@ -293,9 +247,12 @@ Betreuungsperson es vorgibt.
   Person nach Jahr aufsteigend; gleiches Jahr wird mit a, b, c unterschieden (2023a, 2023b) und
   im Kurzbeleg gleich mitgeführt.
 - **Einheitlichkeit** ist wichtiger als die Wahl des Stils. Ein durchgehend angewandter, leicht
-  abweichender Stil ist besser als ein korrekt begonnener, auf Seite 30 gewechselter. Das
-  Beurteilungskriterium lautet „durchgehend vollständige Quellenangaben“
-  (https://www.ahs-aba.at/lehrpersonen/betreuung-beurteilung/aba-beurteilen).
+  abweichender Stil ist besser als ein korrekt begonnener, auf Seite 30 gewechselter. Der
+  Beurteilungsraster (Variante A, Kriterium „Formale Gestaltung der schriftlichen Arbeit“)
+  nennt auf der Referenzstufe „weitgehend korrekte Anwendung der gewählten Zitierweise“ und
+  „Quellenangaben weitgehend vollständig und korrekt“, auf der höchsten Stufe „Quellenangaben
+  vollständig und korrekt“; Variante B formuliert dort „durchgehend vollständige und korrekte
+  Quellenangaben“. Wortlaut aller Stufen in `beurteilung.md`, K1.6.
 - **Deckungsgleichheit in beide Richtungen.** Alles, was im Text belegt wird, steht im
   Verzeichnis. Nichts steht im Verzeichnis, das im Text nicht belegt wurde. Gelesene, aber
   nicht verwendete Literatur gehört nicht hinein; wer sie zeigen will, macht ein gesondert
@@ -334,7 +291,7 @@ Historische Warnung: Die Handreichung des Ministeriums vom 14.11.2023
 (https://www.bmb.gv.at/dam/jcr:3bc6eb26-f4b1-499c-a601-675e7fd6fa0f/ki_abarb.pdf) enthielt noch
 ein Zitierschema für KI-Texte und wies an, Details zur Verwendung im Literatur- und
 Quellenverzeichnis anzugeben. Diese Empfehlung ist durch die aktuelle FAQ überholt. Wer heute
-ein KI-Tool wie eine Literaturangabe ins Verzeichnis schreibt, folgt einer zurückgezogenen
+ein KI-Tool wie eine Literaturangabe ins Verzeichnis schreibt, folgt einer überholten
 Empfehlung.
 
 Unberührt bleibt der Fall, dass der KI-Output selbst Untersuchungsgegenstand ist. Wer eine
@@ -373,9 +330,9 @@ wurde.
 Negativbeispiel: „Bereits Schmidt (2019, S. 214) weist darauf hin, dass …“, wobei Schmidt 2019
 aus einer Modellausgabe stammt und nie geöffnet wurde.
 
-Positivbeispiel: „Steiner (2024, S. 215) argumentiert, dass die Rechtsgrundlage für den
-Regelbetrieb fehlt.“ Die Seite 215 wurde aufgeschlagen, der Satz steht dort, die Zeitschrift
-ist über die Bibliothek nachweisbar.
+Positivbeispiel: „Huber (2019, S. 47) führt den Andrang in den Kaffeehäusern um 1900 auf die
+ausliegenden Zeitungen zurück.“ Die Seite 47 wurde aufgeschlagen, der Satz steht dort, das Buch
+ist im Bibliothekskatalog nachweisbar.
 
 ## 10. Anwendung
 

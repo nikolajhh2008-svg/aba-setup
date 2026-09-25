@@ -1,8 +1,8 @@
 ---
 name: ki-kennzeichnung
 beschreibung: Verbindliches Regelwerk zu den zwei getrennten Pflichten beim KI-Einsatz in der abschließenden Arbeit, zur Skala der Assistenzgrade und zu den Rechtsfolgen bei Nicht-Offenlegung.
-version: 1
-stand: 2026-08-01
+version: 2
+stand: 2026-09-25
 ---
 
 # KI-Kennzeichnung und Eigenständigkeit
@@ -12,6 +12,12 @@ KI-Einsatz erlaubt ist, ob er dokumentiert werden muss, ob er im Text gekennzeic
 muss und was passiert, wenn er verschwiegen wird. Rechtsraum ist Österreich, abschließende
 Arbeit (ABA) an der AHS; für die Diplomarbeit an BHS gilt eine inhaltlich gleiche Bestimmung.
 
+Rechtsstatus-Marken an den Kernaussagen: **[Gesetz]** Schulunterrichtsgesetz · **[Verordnung]**
+Prüfungsordnung AHS · **[Handreichung/FAQ]** Handreichungen und FAQ des Bildungsministeriums auf
+ahs-aba.at, nicht rechtsverbindlich · **[Verwaltungspraxis]** ABA-Portal · **[nicht amtlich
+geregelt]** Empfehlung dieses Regelwerks. Die Verordnung enthält genau einen Satz zu KI (Abschnitt
+2); fast alles Weitere in diesem Regelwerk ist **[Handreichung/FAQ]**.
+
 ## 1. Zwei Pflichten, die laufend verwechselt werden
 
 Die offizielle FAQ warnt vor genau dieser Verwechslung. FAQ 3.2, wörtlich: „Die Dokumentation
@@ -20,33 +26,50 @@ Quelle: https://www.ahs-aba.at/lehrpersonen/faqs/faqs-zum-einsatz-von-ki-tools
 
 **Pflicht 1: Dokumentation im Begleitprotokoll. Prozessebene.** Sie beantwortet die Frage: Was
 habe ich im Lauf der Arbeit womit gemacht? Sie steht in einem eigenen Dokument, das der Arbeit
-beigelegt und im ABA-Portal hochgeladen wird. Sie ist gesetzlich verpflichtend.
+beigelegt und im ABA-Portal hochgeladen wird. Dass KI-Nutzung im Begleitprotokoll kenntlich zu
+machen ist, verlangt § 9 Abs. 2 Prüfungsordnung AHS **[Verordnung]**; wann und wie genau, sagt
+die FAQ **[Handreichung/FAQ]**.
 
 **Pflicht 2: Kennzeichnung an der Textstelle. Produktebene.** Sie beantwortet die Frage:
 Welcher konkrete Satz, welches Bild, welche Tonspur in der fertigen Arbeit stammt aus einem
-Tool? Sie steht im Fließtext, in der Fußnote, in der Bildunterschrift oder im Abspann.
+Tool? Sie steht im Fließtext, in der Fußnote, in der Bildunterschrift oder im Abspann. Diese
+Pflicht steht nicht wörtlich in der Verordnung, sondern in KI-FAQ 4.2 **[Handreichung/FAQ]**;
+praktisch maßgeblich ist sie aus den Gründen in Abschnitt 2.
 
 Die beiden Pflichten sind unabhängig voneinander. Eine lückenlose Dokumentation ersetzt die
 Kennzeichnung nicht, und eine korrekte Kennzeichnung ersetzt die Dokumentation nicht. Wer nur
 eine der beiden erfüllt, hat die andere verletzt.
 
-Ergänzend, aber ebenfalls verbindlich: Die **rechtliche Erklärung** wird nicht am Ende
-abgegeben, sondern bereits bei der Themeneinreichung in der vorletzten Schulstufe, rund elf
-Monate vor der Abgabe, als zwingende Voraussetzung für die Einreichung. Sie wird unterschrieben
-oder mit ID Austria signiert im ABA-Portal hochgeladen. Beide Bezeichnungen sind amtlich in
-Gebrauch: Die Schülerseite nennt sie „Rechtliche Erklärung“, die KI-FAQ 1.2
-„Eigenständigkeitserklärung“. Darin verpflichtet sich die Schülerin oder der Schüler
-ausdrücklich, „die Verwendung etwaiger Hilfsmittel (z. B. KI-Tools) im Begleitprotokoll bzw. in
-einem etwaigen Hilfsmittelverzeichnis anzuführen“
+Ergänzend die **rechtliche Erklärung**. Sie ist keine Vorschrift der Verordnung – im
+Rechtsbestand ist eine Eigenständigkeitserklärung nicht vorgesehen –, sondern eine
+**Portal-Pflicht** **[Verwaltungspraxis]**: ohne sie keine Themeneinreichung. Sie wird nicht am
+Ende abgegeben, sondern bereits bei der Themeneinreichung in der vorletzten Schulstufe, rund elf
+Monate vor der Abgabe, unterschrieben oder mit ID Austria signiert im ABA-Portal hochgeladen.
+
+Beide Bezeichnungen sind amtlich in Gebrauch: Die Schülerseite nennt sie „Rechtliche Erklärung“,
+die KI-FAQ 1.2 „Eigenständigkeitserklärung“. Darin verpflichtet sich die Schülerin oder der
+Schüler ausdrücklich, „die Verwendung etwaiger Hilfsmittel (z. B. KI-Tools) im Begleitprotokoll
+bzw. in einem etwaigen Hilfsmittelverzeichnis anzuführen“
 (https://www.ahs-aba.at/schueler/thema-finden/ausformulierung-des-themas). Eine spätere
 Nicht-Offenlegung verstößt damit nicht nur gegen die Verordnung, sondern gegen eine zuvor
-persönlich unterschriebene Erklärung. Das ist der Grund, warum die Kommission sie ohne lange
-Beweislastdiskussion als vorgetäuschte Leistung werten kann.
+persönlich unterschriebene Erklärung. Rechtsgrundlage der Nichtbeurteilung bleibt § 18 Abs. 4
+SchUG **[Gesetz]**; die Erklärung belegt aber, dass die Offenlegungspflicht bekannt war.
 
-## 2. Der Gesetzeswortlaut
+⚠️ Zum Zeitpunkt sind sich die amtlichen Seiten nicht einig: Die Lehrpersonenseite
+„Arbeitsprozess begleiten“ nennt die Eigenständigkeitserklärung „verpflichtend im ABA-Portal bei
+der Einreichung der Arbeit hochzuladen“
+(https://www.ahs-aba.at/lehrpersonen/betreuung-beurteilung/arbeitsprozess-begleiten); die
+Schülerseite, die Portal-Hilfestellung zur Themeneinreichung und KI-FAQ 1.2 („Bereits bei der
+Themeneinreichung über das ABA-Portal verpflichtet sich die Schülerin bzw. der Schüler in der
+Eigenständigkeitserklärung …“) setzen sie bei der **Themeneinreichung** an. Bei der Abgabe der
+Arbeit wird laut Portal-Hilfestellung bestätigt, dass die hochgeladene Erklärung aktuell und
+korrekt ist. Praktisch heißt das: bei der Themeneinreichung hochladen, bei der Abgabe nachsehen,
+ob das Portal ein zweites Mal danach fragt.
+
+## 2. Der Verordnungswortlaut
 
 § 9 Abs. 2 Prüfungsordnung AHS, in Kraft seit 01.11.2024 durch die Novelle BGBl. II
-Nr. 297/2024, vollständig:
+Nr. 297/2024, vollständig **[Verordnung]**:
 
 „Die Erstellung der Arbeit ist in einem von der Prüfungskandidatin oder vom Prüfungskandidaten
 zu erstellenden Begleitprotokoll zu dokumentieren, welches jedenfalls den Arbeitsablauf sowie
@@ -55,7 +78,7 @@ werden, muss dies kenntlich gemacht werden. Das Begleitprotokoll ist der abschli
 beizulegen.“
 Quelle: https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007845
 
-Das ist der gesamte Gesetzeswortlaut zum Thema KI. Ein Satz. Alles andere ist Auslegung, und
+Das ist der gesamte Verordnungswortlaut zum Thema KI. Ein Satz. Alles andere ist Auslegung, und
 die steht in den FAQs. § 9 Abs. 2 Prüfungsordnung BMHS enthält für die Diplomarbeit an BHS eine
 inhaltlich gleiche Bestimmung, mit abweichender Satzstellung: „… Das Begleitprotokoll ist der
 schriftlichen Arbeit beizulegen. Sofern eine KI-Anwendung genutzt wird, muss diese kenntlich
@@ -65,7 +88,9 @@ https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnumme
 Zur Verbindlichkeit der FAQ: Sie ist keine Verordnung. Praktisch maßgeblich ist sie trotzdem,
 weil Betreuungspersonen und Prüfungskommissionen danach arbeiten und das Ministerium selbst
 darauf verweist (https://www.bmb.gv.at/Themen/schule/zrp/ki.html). Sie wird ohne Ankündigung
-aktualisiert und trägt kein sichtbares Versionsdatum; Stand dieses Regelwerks ist der 01.08.2026.
+aktualisiert und trägt kein sichtbares Versionsdatum; die hier zitierten Stellen wurden zuletzt am
+25.09.2026 an der Quelle gelesen. Neu eingearbeitet gegenüber der ersten Fassung dieses
+Regelwerks: KI-FAQ 1.2, 3.10 und 3.11 (Abschnitte 3 und 10).
 
 ## 3. Die Grenzlinie: eigene Denkleistung
 
@@ -88,6 +113,27 @@ FAQ 1.4 verschiebt den Maßstab vom Ob zum Wie: „Die Eigenständigkeit einer A
 davon ab, ob KI verwendet wurde, sondern wie sie verwendet wurde.“ Und die Gegenprobe: „Eine
 Arbeit, deren wesentliche Inhalte direkt von KI generiert und ohne eigene Weiterverarbeitung,
 Reflexion oder Kontextualisierung übernommen wurden, gilt nicht als eigenständige Leistung.“
+
+FAQ 1.2 nennt die **vier Bedingungen**, unter denen die Verwendung zulässig ist
+**[Handreichung/FAQ]**:
+
+1. **Offenlegung in der Eigenständigkeitserklärung** – schon bei der Themeneinreichung
+   verpflichtet sich die Schülerin oder der Schüler, den KI-Einsatz „jedenfalls im
+   Begleitprotokoll offenzulegen“.
+2. **Transparente und nachvollziehbare Dokumentation** – verpflichtend im Begleitprotokoll, wenn
+   KI-generierte Inhalte in die Arbeit einfließen „oder den Arbeitsprozess inhaltlich,
+   strukturell oder formal beeinflussen“; empfohlen präzisiert durch ein Hilfsmittelverzeichnis.
+3. **Fachliche Prüfung und Quellenverifizierung** – „Inhalte, die mithilfe von KI-Tools erstellt
+   wurden, müssen auf fachliche Richtigkeit geprüft und – sofern möglich – durch belegbare Quellen
+   verifiziert werden.“
+4. **Eindeutige Kennzeichnung** der KI-generierten Inhalte, die in die Arbeit einfließen
+   (Abschnitt 6).
+
+Praktisch heißt die dritte Bedingung: Eine KI-Aussage, die stimmt, aber nicht an einer Quelle
+geprüft wurde, erfüllt sie nicht. Dazu FAQ 3.10: Die Verantwortung für die Inhalte
+„liegt vollständig bei der Verfasserin bzw. dem Verfasser. Dies schließt die Prüfung, Auswahl und
+Weiterverarbeitung von KI-generierten Inhalten ein.“ Die Betreuungsperson trägt „keinerlei
+inhaltliche oder rechtliche Verantwortung“.
 
 FAQ 5.1 nennt die drei kumulativen Bedingungen, unter denen KI-Nutzung nicht zu einer Abwertung
 führt: nachvollziehbar dokumentierter Einsatz, kritisch reflektierte Nutzung, weiterverarbeitete
@@ -182,9 +228,11 @@ Nutzungsdatums. Die offiziellen Musterbeispiele:
 - Audio und Video, im Abspann oder in den Shownotes, mit Titel des Inhalts, Tool und
   Erstellungsdatum: „Musikintro: Calming Piano Vibes, erstellt mit Suno, 19.05.2025“
 
-**Programmbasierte Nutzung.** Wird Code mit KI erzeugt, ist zu kennzeichnen, sofern er
-inhaltlich relevante Ergebnisse liefert, also eine Auswertung, Berechnung oder Visualisierung,
-die in die Arbeit eingeht.
+**Programmbasierte Nutzung.** Wird Code mit KI erzeugt, ist zu kennzeichnen, „wenn die KI
+inhaltlich relevante Ergebnisse liefert“, also eine Auswertung, Berechnung oder Visualisierung,
+die in die Arbeit eingeht. Das amtliche Beispiel nennt Plattform, Projekt und Datum und verweist
+auf den Prompt im Anhang: „GitHub, home-automation-addon-pi, 03.10.2025“ [Prompt im Anhang].
+**[Handreichung/FAQ]**
 
 **Nicht ins Literaturverzeichnis, nicht als Autor.** FAQ 4.1: Sprachmodelle sind keine
 zitierfähigen Quellen. FAQ 4.3: „Nein“ auf die Frage nach dem Literaturverzeichnis. FAQ 4.4:
@@ -304,16 +352,16 @@ rechtlichen Erklärung. Rechtsfolge siehe Abschnitt 9.
 
 ## 9. Rechtsfolge bei bewusster Nicht-Offenlegung
 
-FAQ 3.9, wörtlich: „Wenn die Prüfungskommission zur Ansicht kommt, dass etwaige KI-Anwendungen
-bewusst nicht offengelegt wurden, gilt die Arbeit als vorgetäuschte Leistung und wird nicht
+KI-FAQ 3.9 **[Handreichung/FAQ]**, wörtlich: „Wenn die Prüfungskommission zur Ansicht kommt,
+dass etwaige KI-Anwendungen bewusst nicht offengelegt wurden, gilt die Arbeit als vorgetäuschte Leistung und wird nicht
 beurteilt. Die Kandidatin bzw. der Kandidat muss das Prüfungsgebiet ‚Abschließende Arbeit‘
 wiederholen und ein neues Thema einreichen.“
 
 Die Kette im Einzelnen:
 
 1. **Keine Note, sondern gar keine Note.** § 18 Abs. 4 SchUG: „Vorgetäuschte Leistungen sind
-   nicht zu beurteilen.“
-2. **Neues Thema.** § 8 Abs. 3 Prüfungsordnung AHS: neue Themenfestlegung, die Schulleitung hat
+   nicht zu beurteilen.“ **[Gesetz]**
+2. **Neues Thema.** § 8 Abs. 3 Prüfungsordnung AHS **[Verordnung]**: neue Themenfestlegung, die Schulleitung hat
    innerhalb von zwei Wochen zuzustimmen oder unter Setzung einer Nachfrist ein neues Thema zu
    verlangen.
 3. **Wiederholung ohne Betreuung.** Nach Abschluss der letzten Schulstufe ist keine
@@ -361,8 +409,9 @@ Textes durch einen Detektor wird keine Aussage gemacht, weder zusichernd noch wa
 danach fragt, bekommt die Faktenlage und den Hinweis, dass die Frage am tatsächlichen
 Kontrollmechanismus vorbeigeht.
 
-**Kontrolliert wird in Österreich zweierlei.** Erstens das **Begleitprotokoll**: gesetzlich
-verpflichtend und gleichzeitig ausdrückliches Beurteilungskriterium. Das erste Kriterium in
+**Kontrolliert wird in Österreich zweierlei.** Erstens das **Begleitprotokoll**: durch
+Verordnung verpflichtend **[Verordnung]** und gleichzeitig ausdrücklich im Beurteilungsraster
+genannt **[Handreichung/FAQ]**. Das erste Kriterium in
 Kompetenzbereich K1 verlangt (Variante A, Referenzstufe) eine „weitgehend nachvollziehbare
 Dokumentation des Arbeitsprozesses im Begleitprotokoll und ggf. im Hilfsmittelverzeichnis“.
 Zweitens die **Diskussion**: Kompetenzbereich K3 enthält als eigenes Kriterium „Auswahl und
@@ -371,6 +420,19 @@ des Einsatzes technischer Hilfsmittel bei der Erstellung der abschließenden Arb
 Transparenz in Bezug auf deren Verwendung“. Wer den Einsatz nicht erklären kann, verliert dort
 unabhängig von der Täuschungsfrage.
 Quelle: https://www.ahs-aba.at/lehrpersonen/betreuung-beurteilung/aba-beurteilen
+
+Die FAQ zur abschließenden Arbeit benennt die Diskussion ausdrücklich als Ort der Klärung. FAQ
+1.10, wörtlich: „Besteht der Verdacht einer missbräuchlichen Verwendung von KI-Tools, so lässt
+sich diesem durch gezielte Fragestellungen im Zuge der Diskussion der Arbeit nachgehen.“
+**[Handreichung/FAQ]** (https://www.ahs-aba.at/lehrpersonen/faqs/faqs-zur-abschliessenden-arbeit,
+gelesen 25.09.2026). Achtung Verwechslungsgefahr: Diese Nummer gehört zur FAQ zur
+abschließenden Arbeit, nicht zur KI-FAQ, deren Kapitel 1 bei 1.5 endet.
+
+Auf Seiten der Betreuung gilt KI-FAQ 3.11: Wird der KI-Einsatz im Betreuungsgespräch
+thematisiert, hält die Betreuungsperson das im **Betreuungsprotokoll** fest (§ 9 Abs. 3
+Prüfungsordnung AHS für das Protokoll selbst **[Verordnung]**, die KI-Vermerke als
+**[Handreichung/FAQ]**). Das Betreuungsprotokoll wird nach § 9 Abs. 3 dem Prüfungsprotokoll
+angeschlossen.
 
 **Was die Plagiatssoftware kann, sagt die FAQ ausdrücklich.** Die Arbeit wird mit der Abgabe
 über das ABA-Portal automatisch geprüft. FAQ 5.3 der FAQ zur abschließenden Arbeit, wörtlich:
@@ -386,7 +448,8 @@ Kontrolle an der Dokumentation und an der Diskussion. Wer darauf setzt, dass nic
 hat verstanden, wie die Software arbeitet, und nicht, wie die Prüfung arbeitet.
 
 Die Letztentscheidung über ein Plagiat liegt bei der Prüfungskommission, nicht bei der
-Software.
+Software. Plagiatsprüfung und Turnitin sind Portalpraxis, nicht Verordnung
+**[Verwaltungspraxis]**.
 
 ## 11. Wo die Quellenlage offen ist
 

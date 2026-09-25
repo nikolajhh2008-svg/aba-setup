@@ -1,14 +1,14 @@
 # Mein Profil
 
 > **Diese Datei ist noch nicht ausgefüllt.**
-> Schreib der KI „Lass uns starten" – sie geht die Fragen mit dir durch und trägt
+> Schreib der KI „Lass uns starten“ – sie geht die Fragen mit dir durch und trägt
 > die Antworten hier ein. Du kannst alles auch selbst hineinschreiben.
 >
 > Es sind viele Felder. Sie werden **nicht auf einmal** abgefragt, sondern in
 > fünf Runden über mehrere Sitzungen. Runde 1 sind vier Fragen, danach kann man
 > arbeiten.
 >
-> Was du nicht weißt, bleibt auf „noch offen" stehen. Das ist kein Problem,
+> Was du nicht weißt, bleibt auf „noch offen“ stehen. Das ist kein Problem,
 > solange es dort steht und nicht geraten wird – ein erfundener Abgabetermin ist
 > schlimmer als ein fehlender.
 
@@ -109,7 +109,7 @@ rekonstruieren, aber was noch erinnerbar ist, gehört jetzt hinein.
 - Offene Fragen an die Betreuungsperson: noch offen
 
   *Hier sammeln, was beim nächsten Termin gefragt werden muss. Alles, was in
-  diesem Profil „noch offen" ist und nur sie beantworten kann, gehört auf diese
+  diesem Profil „noch offen“ ist und nur sie beantworten kann, gehört auf diese
   Liste.*
 
 ## 8. Arbeitsweise

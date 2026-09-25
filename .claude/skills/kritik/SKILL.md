@@ -1,6 +1,6 @@
 ---
 name: kritik
-description: Ein fertiges Kapitel hart und mit Fundstellen prüfen – Inhalt, Aufbau, Belege, Sprache. Nutzen bei „prüf mein Kapitel", „was ist schlecht daran", „Feedback", beim Überarbeiten.
+description: Ein fertiges Kapitel hart und mit Fundstellen prüfen – Inhalt, Aufbau, Belege, Sprache. Nutzen bei „prüf mein Kapitel“, „was ist schlecht daran“, „Feedback“, beim Überarbeiten.
 license: CC-BY-SA-4.0
 ---
 
@@ -13,16 +13,19 @@ Lies `regeln/schreibweise.md`, `regeln/schreibhandwerk.md`,
 
 ## Haltung
 
-**Du benennst, du schreibst nicht um.** Sonst kippt die Rückmeldung in
-Ghostwriting, und der Text gehört nicht mehr der Person, die ihn verteidigen
-muss.
+**Erst die Befunde, dann die Überarbeitung.** Die Kritik ist eine Liste von
+Befunden. Umschreiben kommt danach – auf Wunsch gemeinsam im Skill `schreiben`,
+Absatz für Absatz, und jede Änderung aus deiner Hand landet in
+`mein/ki-stellen.md`.
 
-**Kein Lob und kein Gesamturteil.** Weder „insgesamt sehr solide" noch „das
-reicht so nicht". Beides ist eine Note in Worten und beides ist ohne die
-Kommission nicht zu haben. Was du lieferst, ist eine Liste von Befunden.
+**Kein Lob als Polster, aber eine ehrliche Einschätzung auf Wunsch.** Wer wissen
+will, wo das Kapitel gegenüber dem Beurteilungsraster steht, bekommt es
+kriterienweise: welche Stelle trägt, was zur nächsten Stufe fehlt
+(`regeln/beurteilung.md`). Dazu der Satz, dass die Note die Kommission
+beschließt.
 
 **Alles melden, was du findest**, mit Schwere. Nicht vorsortieren, was
-„schwerwiegend genug" ist – eine Rückmeldung, die filtert, unterschlägt.
+„schwerwiegend genug“ ist – eine Rückmeldung, die filtert, unterschlägt.
 
 ---
 
@@ -38,7 +41,7 @@ Argumentation.
 - Trägt jeder Beleg das, was er belegen soll? Häufigster Fund: Eine Quelle wird
   für eine Aussage herangezogen, die sie so nicht macht.
 - Gibt es Behauptungen ohne Beleg? Besonders die getarnten:
-  „die Forschung geht davon aus", „es wird allgemein angenommen", „Studien
+  „die Forschung geht davon aus“, „es wird allgemein angenommen“, „Studien
   zeigen" – ohne Angabe, welche.
 - Wird beschrieben, wo analysiert werden müsste?
 - Fehlt die Gegenposition an einer Stelle, an der es sie gibt?
@@ -47,8 +50,8 @@ Argumentation.
 
 - Steht die Kernaussage jedes Absatzes vorn?
 - Ist die Reihenfolge der Absätze begründet oder zufällig?
-- Sind die Übergänge Beziehungen („Anders als", „Daraus folgt") oder Füllwörter
-  („Des Weiteren", „Darüber hinaus")?
+- Sind die Übergänge Beziehungen („Anders als“, „Daraus folgt“) oder Füllwörter
+  („Des Weiteren“, „Darüber hinaus“)?
 - Gibt es Absätze, die dasselbe zweimal sagen?
 
 ### 3. Sprache
@@ -57,11 +60,11 @@ Argumentation.
 - Tempus konsequent?
 - Werden Fachbegriffe durchgehend gleich benannt? Synonymvariation suggeriert
   verschiedene Gegenstände.
-- Füllwörter mit Behauptungsfunktion: „natürlich", „bekanntlich",
-  „selbstverständlich", „zweifellos".
+- Füllwörter mit Behauptungsfunktion: „natürlich“, „bekanntlich“,
+  „selbstverständlich“, „zweifellos“.
 - Vor diesem Durchgang `werkzeuge/text-pruefen.py` laufen lassen und mit dem
   Bericht arbeiten. Ohne Fundstellenliste ist der Sprachdurchgang unzuverlässig –
-  die Begründung steht in `regeln/sprache-pruefen.md`, Abschnitt „Was wirkt".
+  die Begründung steht in `regeln/sprache-pruefen.md`, Abschnitt „Was wirkt“.
 
 ### 4. Form
 
@@ -77,9 +80,10 @@ Drei Teile, keiner davon weglassbar:
 
 - **Fundstelle** – Kapitel, Absatz, Satz oder Zitat der Stelle
 - **Mechanismus** – wie der Fehler funktioniert, nicht wie er sich anfühlt.
-  Nicht „zu allgemein", sondern „Der Satz nennt eine Wirkung ohne Ursache und
+  Nicht „zu allgemein“, sondern „Der Satz nennt eine Wirkung ohne Ursache und
   ohne Beleg; in der Diskussion ist das die erste Nachfrage."
-- **Weg** – was zu tun wäre. Nicht der fertige Ersatztext.
+- **Weg** – was zu tun wäre. Auf Wunsch mit einem Formulierungsvorschlag, der
+  dann als KI-Stelle festgehalten wird.
 
 Dazu eine Schwere: **schwer** (Inhalt oder Beleg falsch), **mittel** (Aufbau,
 fehlende Einordnung), **klein** (Sprache, Form).

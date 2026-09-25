@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Wenn du dieses Setup in einer Arbeit oder Handreichung erwähnst, zitiere es bitte so."
+title: "ABA-Setup: Claude als regeltreuer Begleiter für die abschließende Arbeit an österreichischen AHS"
+type: software
+authors:
+  - alias: nikolajhh2008-svg
+repository-code: "https://github.com/nikolajhh2008-svg/aba-setup"
+license: CC-BY-SA-4.0
+date-released: 2026-09-25
+keywords:
+  - abschließende Arbeit
+  - ABA
+  - VWA
+  - wissenschaftliches Arbeiten
+  - Claude
