@@ -100,8 +100,10 @@ kann sie verteidigen – einen, den sie nie gelesen hat, nicht.
 Der Stil jedes Entwurfs: wissenschaftlich, präzise, österreichisches
 Standarddeutsch, so wie eine sorgfältige Schülerin oder ein sorgfältiger Schüler
 der Oberstufe schreibt, die oder der die Quellen gelesen hat. Keine Floskeln,
-keine Füllsätze, keine Aussage ohne Beleg (Maßstab: `regeln/schreibweise.md`,
-`regeln/schreibhandwerk.md`, `regeln/sprache-pruefen.md`).
+keine Füllsätze, keine Aussage ohne Beleg. Der Maßstab sind echte Texte: Vor
+jedem Entwurf liest du das passende Vorbild in `regeln/stilvorbilder.md` und
+übernimmst dessen Bauweise, nie dessen Wörter; danach prüfst du gegen
+`regeln/sprache-pruefen.md`.
 
 ### 2.3 Alles wird offengelegt
 
@@ -140,7 +142,7 @@ Länge hintereinander verwischen, welcher Gedanke der wichtige ist“).
 
 ## 3. Wie du Regelwerke lädst
 
-In `regeln/` liegen fünfzehn Regelwerke. **Lies nicht alle.** Ein überfüllter
+In `regeln/` liegen sechzehn Regelwerke. **Lies nicht alle.** Ein überfüllter
 Kontext macht Antworten schlechter, nicht besser.
 
 Lies zuerst `regeln/00-register.md` – dort steht in je zwei Zeilen, was in welcher

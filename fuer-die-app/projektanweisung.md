@@ -56,7 +56,9 @@ zuerst. Dann zeigst du den Plan (je Absatz: Aussage und Quelle), und danach
 schreibst du einen Absatz, fragst mich eine Sache dazu, arbeitest meine Antwort
 ein – dann der nächste. Nie ein ganzes Kapitel in einem Zug.
 
-**3. Guter Text, kein generischer.** Bevor du einen Absatz zeigst, prüfst du ihn
+**3. Guter Text, kein generischer.** Vor jedem Entwurf liest du das passende
+Vorbild in `stilvorbilder.md` (echte Absätze aus Fachartikeln) und übernimmst
+die Bauweise, nie die Wörter. Bevor du einen Absatz zeigst, prüfst du ihn
 gegen die Prüfliste in `sprache-pruefen.md` und schreibst um, was anschlägt:
 kein „—“, kein „nicht nur …, sondern auch“ als Reflex, keine Dreierketten, keine
 Verstärker wie entscheidend, maßgeblich, vielschichtig, keine Füll-Übergänge

@@ -1,6 +1,9 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/banner-dark.svg">
+  <img alt="ABA-Setup: Ein Blatt füllt sich Zeile für Zeile, eine Feder schreibt mit, daneben haken sich die vier Regeln ab – keine erfundenen Quellen, schreibt mit dir, Protokoll läuft mit, sauber gekennzeichnet." src=".github/assets/banner-light.svg" width="100%">
+</picture>
 
-# ABA-Setup
+<div align="center">
 
 **Schreib deine abschließende Arbeit mit Claude oder ChatGPT.**<br/>
 Schritt für Schritt, belegt und offengelegt.
@@ -15,11 +18,6 @@ Schritt für Schritt, belegt und offengelegt.
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/banner-dark.svg">
-  <img alt="ABA-Setup: Ein Blatt füllt sich Zeile für Zeile, eine Feder schreibt mit, daneben haken sich die vier Regeln ab – keine erfundenen Quellen, schreibt mit dir, Protokoll läuft mit, sauber gekennzeichnet." src=".github/assets/banner-light.svg" width="100%">
-</picture>
-
 Die abschließende Arbeit (ABA, früher VWA) darf mit KI geschrieben werden – das
 Bildungsministerium stellt ausdrücklich fest: „Ein generelles Verbot von
 KI-Tools im Rahmen der abschließenden Arbeit ist nicht zulässig.“ Erlaubt ist sie
@@ -27,7 +25,7 @@ unter drei Bedingungen: **dokumentiert, kritisch reflektiert, weiterverarbeitet.
 
 Ein nacktes Chatfenster erfüllt keine davon. Es erfindet Literaturangaben,
 schreibt Absätze, die niemand verteidigen kann, und führt kein Protokoll. Dieses
-Setup ändert den Standardzustand: **fünfzehn Regelwerke mit Fundstellen, neun
+Setup ändert den Standardzustand: **sechzehn Regelwerke mit Fundstellen, neun
 Arbeitsschritte und vier Regeln** – damit die KI mit dir schreibt, ohne Quellen zu
 erfinden, und alles so festhält, wie es die Prüfungsordnung verlangt.
 
@@ -86,8 +84,10 @@ Absatz nach dem anderen – jeweils mit einer Rückfrage an dich. Sieben der
 dreizehn Beurteilungskriterien werden mündlich geprüft; einen Absatz, den du
 mitgebaut hast, kannst du verteidigen.
 
-**3. Guter Text statt generischer.** Jeder Entwurf wird vor dem Zeigen gegen
-eine Prüfliste gehalten: keine Floskeln, keine Verstärkerwörter, keine
+**3. Guter Text statt generischer.** Der Maßstab sind echte Absätze aus
+begutachteten Fachartikeln, je einer für Einleitung, Forschungsstand, Methode,
+Ergebnisse, Grenzen und Schluss. Jeder Entwurf wird vor dem Zeigen außerdem
+gegen eine Prüfliste gehalten: keine Floskeln, keine Verstärkerwörter, keine
 Dreierketten, kein „—“, kein Schlusssatz, der nur wiederholt. Konkret,
 wissenschaftlich, österreichisches Standarddeutsch.
 
@@ -105,7 +105,7 @@ CLAUDE.md               Die Betriebsanweisung – liest Claude bei jedem Start
 FAHRPLAN.md             Sieben Etappen von der Idee bis zur Diskussion
 START-HIER.md           Für alle, die noch nie mit Claude gearbeitet haben
 
-regeln/                 15 Regelwerke mit Fundstellen, dazu ein Register
+regeln/                 16 Regelwerke mit Fundstellen, dazu ein Register
 mein/                   Deine Dateien: Profil, Schulvorgaben, Protokoll, Quellen
 werkzeuge/              text-pruefen.py zählt nach, was nachzählbar ist;
                         buendeln.py und paket-pruefen.py halten das Setup stimmig
@@ -116,7 +116,8 @@ fuer-die-app/           Einrichtung für Claude- oder ChatGPT-App
 **Die Regelwerke** decken ab, was bei der ABA tatsächlich zählt: Thema und
 Leitfragen · Aufbau · Methodik · Fristen und Abgabe · Recherchewege und seriöse
 Quellen · Quellen und Zitieren · Zitierstile · Plagiat und Eigenleistung ·
-wissenschaftliche Schreibweise · Schreibhandwerk · Sprachprüfung ·
+wissenschaftliche Schreibweise · Schreibhandwerk · Stilvorbilder aus echten
+Fachartikeln · Sprachprüfung ·
 KI-Kennzeichnung · Begleitprotokoll · Beurteilung · Präsentation und Diskussion.
 Belegt an Prüfungsordnung, SchUG, der amtlichen FAQ und dem Beurteilungsraster.
 

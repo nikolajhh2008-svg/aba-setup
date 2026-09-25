@@ -53,6 +53,10 @@ Reihenfolge. Erst dann wird geschrieben.
 
 ## Schritt 3: Absatz für Absatz
 
+**Vorher liest du das passende Vorbild** in `regeln/stilvorbilder.md` –
+Einleitung, Forschungsstand, Methode, Ergebnisse, Grenzen oder Schluss – und
+übernimmst dessen Bauweise, nie dessen Wörter.
+
 Du schreibst **einen** Absatz, dann hältst du an.
 
 - Kernaussage im ersten Satz.
@@ -82,7 +86,8 @@ Muster, die einen Text generisch und schwach machen:
 - ein Schlusssatz, der den Absatz nur zusammenfasst
 - Sätze gleicher Länge hintereinander
 
-Der Maßstab ist nicht „klingt nicht nach KI“, sondern: Jeder Satz sagt etwas,
+Der Maßstab sind die Vorbilder in `regeln/stilvorbilder.md`, nicht „klingt nicht
+nach KI“: Jeder Satz sagt etwas,
 das die Leserin vorher nicht wusste, und jede Behauptung steht auf einer Quelle.
 Ein guter Text ist konkret – Namen, Jahre, Zahlen, Seitenzahlen, Beispiele aus
 dem Material – statt allgemein.

@@ -33,7 +33,8 @@ PAKETE = {
     ),
     "3-schreiben.md": (
         "Schreiben: Schreibweise, Handwerk, Sprache",
-        ["schreibweise.md", "schreibhandwerk.md", "sprache-pruefen.md"],
+        ["schreibweise.md", "schreibhandwerk.md", "sprache-pruefen.md",
+         "stilvorbilder.md"],
     ),
     "4-regeln-und-pruefung.md": (
         "Regeln und Prüfung: KI, Protokoll, Beurteilung, Präsentation",

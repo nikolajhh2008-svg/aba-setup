@@ -75,6 +75,11 @@ Die Ebene darüber und darunter: welche Funktion Einleitung, Theorieteil,
 Methodenteil, Analyse, Diskussion und Fazit haben, wie ein Absatz gebaut wird und
 wie man Behauptung, Beleg und Schlussfolgerung sichtbar trennt.
 
+**`stilvorbilder.md`**
+Sechs echte Absätze aus begutachteten Fachartikeln – Einleitung,
+Forschungsstand, Methode, Ergebnisse, Grenzen, Schluss – mit der Erklärung, was
+sie gut macht. Vor jedem Entwurf das passende Vorbild lesen.
+
 **`sprache-pruefen.md`**
 Generische, formelhafte Wendungen und ihre Wirkung auf die Leserin, als prüfbare
 Liste mit Ersatzformulierungen – und, wichtiger, die Trennung zwischen Gegenmaßnahmen,
